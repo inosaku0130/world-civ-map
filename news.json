@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T19:54:57.348Z",
+ "updatedAt": "2026-11-13T20:54:10.793Z",
  "items": [
   {
    "id": "rss-2670771444",
@@ -660,18 +660,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261112de74518",
    "place": "EU（ブリュッセル）"
-  },
-  {
-   "id": "rss-1567261992",
-   "title": "COP31首脳級会合 国連事務総長“気候変動に対策追いつかず”",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.386,
-   "lon": -73.616,
-   "cat": "diplomacy",
-   "at": "2026-11-11T20:06:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261111de74479",
-   "place": "国連本部"
   },
   {
    "id": "20261111-abudhabi-talks",
