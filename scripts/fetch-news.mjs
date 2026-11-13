@@ -70,7 +70,9 @@ export function merge(oldItems, fresh, now = Date.now()) {
 // GDELT（世界の報道の索引）から日本語の見出しを補う。失敗しても全体は止めない
 async function fetchGdelt(places) {
   const q = "sourcelang:japanese (domainis:jiji.com OR domainis:nikkei.com OR domainis:asahi.com OR domainis:yomiuri.co.jp OR domainis:mainichi.jp OR domainis:reuters.com OR domainis:sankei.com)";
-  const r = await fetch("https://api.gdeltproject.org/api/v2/doc/doc?query=" + encodeURIComponent(q) + "&mode=artlist&maxrecords=75&timespan=6h&sort=datedesc&format=json", { signal: AbortSignal.timeout(30000) });
+  const url = "https://api.gdeltproject.org/api/v2/doc/doc?query=" + encodeURIComponent(q) + "&mode=artlist&maxrecords=75&timespan=6h&sort=datedesc&format=json";
+  let r = await fetch(url, { signal: AbortSignal.timeout(30000) });
+  if (r.status === 429) { await new Promise((ok) => setTimeout(ok, 8000)); r = await fetch(url, { signal: AbortSignal.timeout(30000) }); }
   if (!r.ok) throw new Error("HTTP " + r.status);
   const txt = await r.text();
   let j; try { j = JSON.parse(txt); } catch { throw new Error("JSONでない応答: " + txt.slice(0, 80)); }
@@ -95,14 +97,21 @@ async function fetchStats() {
   let n = 0;
   for (const [ind, key] of [["NY.GDP.MKTP.CD", "gdp"], ["SP.POP.TOTL", "pop"], ["MS.MIL.XPND.CD", "mil"]]) {
     try {
-      const r = await fetch(`https://api.worldbank.org/v2/country/${ISO3.join(";")}/indicator/${ind}?format=json&mrnev=1&per_page=200`, { signal: AbortSignal.timeout(30000) });
-      if (!r.ok) throw new Error("HTTP " + r.status);
-      const j = await r.json();
-      for (const row of j[1] || []) {
-        if (!ISO3.includes(row.countryiso3code) || !(row.value > 0) || +row.date < 2022) continue;
-        (countries[row.countryiso3code] ||= {})[key] = [row.value, row.date]; n++;
+      // 直近数年の値をまとめて取り、国ごとに一番新しい値を使う
+      const url = `https://api.worldbank.org/v2/country/${ISO3.join(";")}/indicator/${ind}?format=json&date=2021:2026&per_page=500`;
+      let j = null, err = null;
+      for (let attempt = 0; attempt < 2 && !j; attempt++) {
+        try { const r = await fetch(url, { signal: AbortSignal.timeout(60000) }); if (!r.ok) throw new Error("HTTP " + r.status); j = await r.json(); }
+        catch (e) { err = e; await new Promise((ok) => setTimeout(ok, 4000)); }
       }
-      console.log(`世界銀行 ${ind}: OK`);
+      if (!j) throw err;
+      const best = {};
+      for (const row of j[1] || []) {
+        if (!ISO3.includes(row.countryiso3code) || !(row.value > 0)) continue;
+        if (!best[row.countryiso3code] || +row.date > +best[row.countryiso3code][1]) best[row.countryiso3code] = [row.value, row.date];
+      }
+      for (const [iso, v] of Object.entries(best)) { (countries[iso] ||= {})[key] = v; n++; }
+      console.log(`世界銀行 ${ind}: ${Object.keys(countries).length} か国`);
     } catch (e) { console.log(`世界銀行 ${ind}: 取得失敗 (${e.message})`); }
   }
   if (n && JSON.stringify(countries) !== JSON.stringify(old.countries || {})) {
