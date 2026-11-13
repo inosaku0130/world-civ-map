@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-13T02:02:52.639Z",
+ "updatedAt": "2026-11-13T02:14:20.435Z",
  "items": [
+  {
+   "id": "rss-761934205",
+   "title": "ヘグセス米国防長官、自身らを叱責した兵士に勲章授与 「無名戦士の墓」で談笑",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 38.756,
+   "lon": -76.394,
+   "cat": "other",
+   "at": "2026-11-13T02:09:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/usa/35254829.html?ref=rss",
+   "place": "アメリカ"
+  },
   {
    "id": "rss-3097390313",
    "title": "トランプ氏、イラン戦争で共和党に背を向けた有権者に「失望」 物価高は「わずかな代償」と主張",
@@ -468,18 +480,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662061",
    "place": "ドイツ"
-  },
-  {
-   "id": "rss-3786108010",
-   "title": "ヘグセス米国防長官と側近たち、無名戦士の墓で静粛にするよう衛兵に叱責される",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.132,
-   "lon": -77.493,
-   "cat": "other",
-   "at": "2026-11-12T03:07:40.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/watch/c3j4rx07wngvo?at_medium=RSS&at_campaign=rss",
-   "place": "アメリカ"
   },
   {
    "id": "rss-2021878360",
