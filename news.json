@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-13T03:54:37.680Z",
+ "updatedAt": "2026-11-13T04:58:58.959Z",
  "items": [
+  {
+   "id": "rss-3272489435",
+   "title": "南米チリとペルーの大統領が来週訪日 高市首相と首脳会談へ",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": -11.877,
+   "lon": -77.571,
+   "cat": "diplomacy",
+   "at": "2026-11-13T04:45:49.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261113de75242",
+   "place": "ペルー"
+  },
+  {
+   "id": "rss-4144711688",
+   "title": "ヘグセス米国防長官、自身と側近らを叱責した衛兵に勲章授与",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 38.964,
+   "lon": -77.794,
+   "cat": "other",
+   "at": "2026-11-13T04:25:16.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/c6vg2d9klmzlo?at_medium=RSS&at_campaign=rss",
+   "place": "アメリカ"
+  },
   {
    "id": "rss-2767216579",
    "title": "フィンランドとノルウェー、ロシア選手へのビザ発給制限",
@@ -276,18 +300,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/business/35254806.html?ref=rss",
    "place": "中国"
-  },
-  {
-   "id": "rss-133338234",
-   "title": "アメリカ ウィトコフ特使らとプーチン大統領の会談始まる",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.316,
-   "lon": -77.246,
-   "cat": "diplomacy",
-   "at": "2026-11-12T13:14:28.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261112de75057",
-   "place": "アメリカ"
   },
   {
    "id": "rss-32672520",
@@ -672,18 +684,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/usa/35254710.html?ref=rss",
    "place": "ロサンゼルス"
-  },
-  {
-   "id": "rss-635625792",
-   "title": "韓国ソウル近郊 路線バスが信号待ちの車に次々に衝突 57人けが",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 37.546,
-   "lon": 127.71,
-   "cat": "conflict",
-   "at": "2026-11-11T04:35:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261111de74075",
-   "place": "ソウル"
   },
   {
    "id": "20261110-sudan-blue-nile-drone",
