@@ -1,0 +1,89 @@
+{
+ "updatedAt": "2026-11-13T01:50:00Z",
+ "items": [
+  {
+   "id": "20261112-gaza-nasser-hospital",
+   "title": "ガザ南部ナセル病院の建物にイスラエル軍の空爆",
+   "summary": "ハンユニスのナセル病院の建物が空爆を受け、外科医を含む死者が出たとガザの民間防衛当局者が述べた。",
+   "lat": 31.35,
+   "lon": 34.3,
+   "cat": "conflict",
+   "at": "2026-11-12T09:00:00Z",
+   "source": "Just Security（BBC報道の引用）",
+   "url": "https://www.justsecurity.org/164226/early-edition-november-12-2026/",
+   "place": "ガザ・ハンユニス"
+  },
+  {
+   "id": "20261111-abudhabi-talks",
+   "title": "米仲介のロシア・ウクライナ協議が終了、捕虜交換で合意",
+   "summary": "アブダビでの2日間の三者協議は、停戦に向けた大きな進展がないまま終了。大規模な捕虜交換では合意した。",
+   "lat": 24.45,
+   "lon": 54.38,
+   "cat": "diplomacy",
+   "at": "2026-11-11T15:00:00Z",
+   "source": "WORLD Radio",
+   "url": "https://wng.org/podcasts/thursday-morning-news-november-12-2026-1794436796",
+   "place": "アブダビ"
+  },
+  {
+   "id": "20261112-iran-us-talks",
+   "title": "イラン「米国の回答待ち」 バンス副大統領の直接協議案も",
+   "summary": "イラン側は7項目の条件への米国の回答を待っているとし、交渉が進行中との報道を否定。米側ではバンス副大統領による対面協議が検討されていると報じられた。",
+   "lat": 35.69,
+   "lon": 51.39,
+   "cat": "diplomacy",
+   "at": "2026-11-12T06:00:00Z",
+   "source": "Just Security（WSJ報道の引用）",
+   "url": "https://www.justsecurity.org/164226/early-edition-november-12-2026/",
+   "place": "テヘラン"
+  },
+  {
+   "id": "20261112-us-midterm-trump",
+   "title": "トランプ大統領、中間選挙の共和党敗北とイラン戦争の影響に言及",
+   "summary": "大統領は、戦争が招いた経済面の影響が共和党の大敗につながった可能性を認めた。",
+   "lat": 38.9,
+   "lon": -77.04,
+   "cat": "politics",
+   "at": "2026-11-12T23:00:00Z",
+   "source": "CNN",
+   "url": "https://www.cnn.com/2026/11/12/politics/live-news/trump-congress",
+   "place": "ワシントンD.C."
+  },
+  {
+   "id": "20261112-brooklyn-collapse",
+   "title": "ニューヨーク・ブルックリンで建物が崩落",
+   "summary": "少なくとも8人が死亡、数十人が負傷。救助隊が生存者の捜索を続けている。",
+   "lat": 40.65,
+   "lon": -73.95,
+   "cat": "disaster",
+   "at": "2026-11-12T18:00:00Z",
+   "source": "NPR",
+   "url": "https://www.npr.org/sections/news/",
+   "place": "ニューヨーク"
+  },
+  {
+   "id": "20261119-apec-shenzhen",
+   "title": "来週、深圳でAPEC首脳会議 米中首脳会談の見通し",
+   "summary": "首脳会議に合わせて習近平国家主席とトランプ大統領の会談が見込まれている。",
+   "lat": 22.54,
+   "lon": 114.06,
+   "cat": "diplomacy",
+   "at": "2026-11-12T12:00:00Z",
+   "source": "TVG Daily Brief",
+   "url": "https://theverardogroup.substack.com/p/tvg-daily-brief-12-nov-2026",
+   "place": "深圳"
+  },
+  {
+   "id": "20261110-sudan-blue-nile-drone",
+   "title": "スーダン青ナイル州で無人機攻撃、9人死亡",
+   "summary": "州都ダマジン近郊の村が攻撃を受けた。RSFによるものとみられている。",
+   "lat": 11.79,
+   "lon": 34.36,
+   "cat": "conflict",
+   "at": "2026-11-10T12:00:00Z",
+   "source": "CFR Global Conflict Tracker",
+   "url": "https://www.cfr.org/global-conflict-tracker/conflict/power-struggle-sudan",
+   "place": "スーダン・ダマジン近郊"
+  }
+ ]
+}

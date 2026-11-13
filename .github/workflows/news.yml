@@ -1,0 +1,28 @@
+name: ニュース更新
+on:
+  schedule:
+    - cron: "7,27,47 * * * *"   # 20分ごと（GitHub側の混雑で遅れることがあります）
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: news
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/fetch-news.mjs
+      - name: 変更があれば保存
+        run: |
+          if [ -n "$(git status --porcelain news.json)" ]; then
+            git config user.name "news-bot"
+            git config user.email "news-bot@users.noreply.github.com"
+            git add news.json
+            git commit -m "ニュース更新"
+            git push
+          fi
