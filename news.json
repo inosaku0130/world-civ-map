@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T20:54:10.793Z",
+ "updatedAt": "2026-11-13T21:48:16.839Z",
  "items": [
   {
    "id": "rss-2670771444",
@@ -648,18 +648,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3661981",
    "place": "アブダビ"
-  },
-  {
-   "id": "rss-4017723473",
-   "title": "EU オンライン上での消費者保護法案を発表",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 50.918,
-   "lon": 3.68,
-   "cat": "politics",
-   "at": "2026-11-11T21:10:13.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261112de74518",
-   "place": "EU（ブリュッセル）"
   },
   {
    "id": "20261111-abudhabi-talks",
