@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-11-13T06:00:07.664Z",
+ "updatedAt": "2026-11-13T07:14:48.395Z",
  "items": [
+  {
+   "id": "rss-327364496",
+   "title": "中国の庶民の味「沙県小吃」、中央アジアにも進出",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.896,
+   "lon": 117.157,
+   "cat": "other",
+   "at": "2026-11-13T07:00:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662115",
+   "place": "中国"
+  },
+  {
+   "id": "rss-457295655",
+   "title": "【三里河中国経済観察】中国・烏鎮サミット、AIのオープンソース化と国際協力に注目",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.285,
+   "lon": 116.152,
+   "cat": "diplomacy",
+   "at": "2026-11-13T07:00:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3661803",
+   "place": "中国"
+  },
+  {
+   "id": "rss-3649930382",
+   "title": "北朝鮮ハッカーが“顔泥棒” 暗号資産盗む 米FBI",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.486,
+   "lon": 125.532,
+   "cat": "other",
+   "at": "2026-11-13T06:24:00.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261113de75357",
+   "place": "北朝鮮"
+  },
   {
    "id": "rss-2818388079",
    "title": "イラン革命防衛隊、バーレーンの米軍レーダーを破壊と発表",
@@ -242,18 +278,6 @@
    "place": "ウクライナ"
   },
   {
-   "id": "rss-326378758",
-   "title": "エヌビディアのフアンCEO辞任 中国スパイ疑惑女性との不倫など発覚",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.874,
-   "lon": 117.126,
-   "cat": "politics",
-   "at": "2026-11-12T21:41:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662171",
-   "place": "中国"
-  },
-  {
    "id": "rss-4199684991",
    "title": "ロシアによる北海道新聞記者拘束1か月 即時解放求め続ける",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -300,18 +324,6 @@
    "source": "NPR",
    "url": "https://www.npr.org/sections/news/",
    "place": "ニューヨーク"
-  },
-  {
-   "id": "rss-2811010651",
-   "title": "エヌビディアのフアンCEOが辞任 中国スパイ疑惑の女性と不倫、衝撃の転落",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.36,
-   "lon": 116.518,
-   "cat": "politics",
-   "at": "2026-11-12T15:01:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/business/35254806.html?ref=rss",
-   "place": "中国"
   },
   {
    "id": "rss-32672520",
@@ -672,18 +684,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74300",
    "place": "韓国"
-  },
-  {
-   "id": "rss-2509256467",
-   "title": "米陸軍兵を英国で逮捕、ロシアに関係するスパイ活動の疑い 佐官級の将校か",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 51.029,
-   "lon": -0.01,
-   "cat": "other",
-   "at": "2026-11-11T07:08:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/world/35254723.html?ref=rss",
-   "place": "イギリス"
   },
   {
    "id": "20261110-sudan-blue-nile-drone",
