@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-13T08:30:10.959Z",
+ "updatedAt": "2026-11-13T09:40:33.106Z",
  "items": [
+  {
+   "id": "rss-2467319106",
+   "title": "北朝鮮が支援するハッカー、偽のビデオ通話使い4億ドル相当の暗号資産盗む",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 38.612,
+   "lon": 125.968,
+   "cat": "other",
+   "at": "2026-11-13T08:30:37.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/cm174lr79jx9o?at_medium=RSS&at_campaign=rss",
+   "place": "北朝鮮"
+  },
   {
    "id": "rss-1626042580",
    "title": "エヌビディアCEOの不倫相手、中国政府のスパイだったのか？ 確証は依然得られず",
@@ -684,18 +696,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74426",
    "place": "イギリス"
-  },
-  {
-   "id": "rss-4258631265",
-   "title": "太平洋クロマグロ漁獲枠の配分 韓国・台湾と合意に至らず",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 37.828,
-   "lon": 126.486,
-   "cat": "diplomacy",
-   "at": "2026-11-11T08:45:50.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261111de74300",
-   "place": "韓国"
   },
   {
    "id": "20261110-sudan-blue-nile-drone",
