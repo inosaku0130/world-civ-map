@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T09:40:33.106Z",
+ "updatedAt": "2026-11-13T12:40:51.186Z",
  "items": [
   {
    "id": "rss-2467319106",
@@ -684,18 +684,6 @@
    "source": "WORLD Radio",
    "url": "https://wng.org/podcasts/thursday-morning-news-november-12-2026-1794436796",
    "place": "アブダビ"
-  },
-  {
-   "id": "rss-1785812324",
-   "title": "海水温上昇 イギリスでタコ大量発生 ロブスター ホタテ大幅減",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 50.968,
-   "lon": -0.092,
-   "cat": "other",
-   "at": "2026-11-11T12:38:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261111de74426",
-   "place": "イギリス"
   },
   {
    "id": "20261110-sudan-blue-nile-drone",
