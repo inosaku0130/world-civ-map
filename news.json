@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-13T21:48:16.839Z",
+ "updatedAt": "2026-11-13T22:44:30.006Z",
  "items": [
+  {
+   "id": "rss-4108492979",
+   "title": "【速報中】アメリカ全土の空港で航空機運航停止「通信の問題」",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.092,
+   "lon": -77.546,
+   "cat": "other",
+   "at": "2026-11-13T22:34:33.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261114de75764",
+   "place": "アメリカ"
+  },
   {
    "id": "rss-2670771444",
    "title": "イラン バーレーンの米軍通信設備を攻撃と発表",
@@ -300,18 +312,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/world/35254817.html?ref=rss",
    "place": "ガザ"
-  },
-  {
-   "id": "rss-546606376",
-   "title": "共和党敗北受け米国目指す移民集団相次ぐ、トランプ氏「わが国への『侵略』」",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.414,
-   "lon": -77.194,
-   "cat": "other",
-   "at": "2026-11-12T23:46:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662182",
-   "place": "アメリカ"
   },
   {
    "id": "20261112-us-midterm-trump",
