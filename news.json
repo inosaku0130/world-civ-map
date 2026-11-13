@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T14:54:03.091Z",
+ "updatedAt": "2026-11-13T19:54:57.348Z",
  "items": [
   {
    "id": "rss-2670771444",
@@ -672,18 +672,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74479",
    "place": "国連本部"
-  },
-  {
-   "id": "rss-3898115032",
-   "title": "フィリピン外相 南シナ海の紛争防止ルールで論点の8割議論",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 12.577,
-   "lon": 114.008,
-   "cat": "diplomacy",
-   "at": "2026-11-11T19:29:36.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261111de74484",
-   "place": "南シナ海"
   },
   {
    "id": "20261111-abudhabi-talks",
