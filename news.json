@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-11-13T04:58:58.959Z",
+ "updatedAt": "2026-11-13T06:00:07.664Z",
  "items": [
+  {
+   "id": "rss-2818388079",
+   "title": "イラン革命防衛隊、バーレーンの米軍レーダーを破壊と発表",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 35.274,
+   "lon": 51.596,
+   "cat": "other",
+   "at": "2026-11-13T05:45:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662284",
+   "place": "イラン"
+  },
+  {
+   "id": "rss-2784832841",
+   "title": "中国は民主派香港紙創業者を「非常に強く憎悪」 トランプ氏、釈放に悲観的",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 21.919,
+   "lon": 114.397,
+   "cat": "other",
+   "at": "2026-11-13T05:21:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662282",
+   "place": "香港"
+  },
+  {
+   "id": "rss-1079067734",
+   "title": "ロマノフ家ゆかりのサファイアのブレスレット、8億円近くで落札 ロシア最後の王朝の至宝",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 56.349,
+   "lon": 37.644,
+   "cat": "other",
+   "at": "2026-11-13T05:09:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/style/luxury/35254837.html?ref=rss",
+   "place": "ロシア"
+  },
   {
    "id": "rss-3272489435",
    "title": "南米チリとペルーの大統領が来週訪日 高市首相と首脳会談へ",
@@ -146,18 +182,6 @@
    "place": "イラン"
   },
   {
-   "id": "rss-1766341856",
-   "title": "米大統領「イラン合意は不要」 副大統領には国内対応を要請",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 35.57,
-   "lon": 51.992,
-   "cat": "diplomacy",
-   "at": "2026-11-13T00:21:24.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261113de75140",
-   "place": "イラン"
-  },
-  {
    "id": "rss-664049709",
    "title": "イスラエル暫定国防相、軍事作戦に野党の承認不要と主張 ネタニヤフ氏はイラン攻撃を示唆",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -264,18 +288,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75118",
    "place": "ウクライナ"
-  },
-  {
-   "id": "rss-848092276",
-   "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月13日の動き）",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.725,
-   "lon": 38.412,
-   "cat": "conflict",
-   "at": "2026-11-12T19:45:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261028de67087",
-   "place": "ロシア"
   },
   {
    "id": "20261112-brooklyn-collapse",
@@ -672,18 +684,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/world/35254723.html?ref=rss",
    "place": "イギリス"
-  },
-  {
-   "id": "rss-2011265438",
-   "title": "SUVが歩行者に突っ込む、3人死亡 米ロサンゼルス",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 33.962,
-   "lon": -117.595,
-   "cat": "conflict",
-   "at": "2026-11-11T05:15:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/usa/35254710.html?ref=rss",
-   "place": "ロサンゼルス"
   },
   {
    "id": "20261110-sudan-blue-nile-drone",
