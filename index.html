@@ -586,8 +586,8 @@ function render(){
    <p class="note">クリミアは国際的に承認された国境に従ってウクライナ領とし、占領地として表示しています。</p>
    <div class="sec">STATS · 国の数値</div><p class="note">GDP・人口はIMF／国連（2024年、概算）、軍事費はSIPRI（2024年）、兵力はIISS『Military Balance』、核弾頭はSIPRI年鑑2025、宗教はPew Research Center等の推計をもとにした概算値で、一つずつ原典と照合したものではありません。国力スコアはこのページ独自の合成指標です。</p>
    <div class="sec">LIVE · リアルタイム表示</div><p class="note">人口とGDPのカウンターは、年間値と成長率から現在時刻に合わせて計算した推計です。戦況（前線・占領地）は自動更新されず、2026年11月12日時点の内容です。</p>
-   <div class="sec">NEWS · ニュースのピン</div><p class="note">外部と通信できる環境では、次のソースから自動で取り込みます。USGS（M5以上の地震、2分ごと）、NASA EONET（火山・暴風雨・洪水、30分ごと）、GDELT（日本語の報道見出し、10分ごと）、ニュース集約ファイル news.json（サーバー側でRSSから定期生成、2分ごとに確認）。見出しは各報道機関のもので、場所は見出しに出てくる地名から自動で推定しているため、ずれることがあります。詳しくは各出典の記事を確認してください。</p>
-   <p class="note">国のGDP・人口・軍事費は、世界銀行APIに接続できた場合は最新の公表値に自動で置き換わります。</p>
+   <div class="sec">NEWS · ニュースのピン</div><p class="note">外部と通信できる環境では、次のソースから自動で取り込みます。USGS（M5以上の地震、2分ごと）、NASA EONET（火山・暴風雨・洪水、30分ごと）、報道の見出し（サーバー側でNHK・BBC・CNN・AFPBBのRSSとGDELTから20分ごとに集約し、ページが2分ごとに確認）。見出しは各報道機関のもので、場所は見出しに出てくる地名から自動で推定しているため、ずれることがあります。詳しくは各出典の記事を確認してください。</p>
+   <p class="note">国のGDP・人口・軍事費は、サーバー側で世界銀行APIから取得できた場合、最新の公表値に自動で置き換わります。</p>
    <div class="sec">MAP · 地図</div><p class="note">国境はNatural Earth（1:5000万）をマス目に変換したもの。都市は主要${cities.length}都市、軍事拠点は広く公開されている代表的な${bases.length}か所で、網羅的ではありません。地形は緯度などから作ったゲーム風の簡略表現です。</p>`;
 }
 function selectNews(n,fly){selNews=n;if(tab!=="news")setTab("news");else render();if(fly)flyTo(n.lon,n.lat,Math.max(W,11));const el=[...pane.querySelectorAll(".nw")].find(e=>e.dataset.n===n.id);if(el)el.scrollIntoView({block:"nearest"});if(reduce)drawFx(0);}
@@ -598,7 +598,7 @@ function badge(){const c=NEWS.filter(n=>Date.now()-n.at<864e5).length;document.g
 /* ---------- ニュースの取り込み（外部と通信できる環境では各ソースから直接取得） ---------- */
 const normItem=x=>({id:String(x.id||""),title:String(x.title||"").slice(0,140),sum:String(x.summary||"").slice(0,400),lat:+x.lat,lon:+x.lon,cat:NCAT[x.cat]?x.cat:"other",at:Date.parse(x.at)||0,src:String(x.source||"").slice(0,60),url:typeof x.url==="string"&&/^https?:\/\//.test(x.url)?x.url:"",place:String(x.place||"").slice(0,60)});
 const okItem=n=>n.id&&n.title&&isFinite(n.lat)&&isFinite(n.lon)&&Math.abs(n.lat)<=90&&Math.abs(n.lon)<=180;
-const SRC={file:{n:"ニュース集約ファイル",every:120,items:[],st:"wait"},usgs:{n:"USGS 地震速報",every:120,items:[],st:"wait"},gdelt:{n:"GDELT 世界の報道",every:600,items:[],st:"wait"},eonet:{n:"NASA EONET 自然災害",every:1800,items:[],st:"wait"},wb:{n:"世界銀行 統計",every:0,items:[],st:"wait"}};
+const SRC={file:{n:"世界の報道（NHK・BBC・CNN・AFPBBほか）",every:120,items:[],st:"wait"},usgs:{n:"USGS 地震速報",every:120,items:[],st:"wait"},eonet:{n:"NASA EONET 自然災害",every:1800,items:[],st:"wait"},wb:{n:"世界銀行 統計",every:21600,items:[],st:"wait"}};
 /* 地名辞書：見出しから場所を推定する */
 const SHORT_OK=new Set("中国 米国 英国 韓国 台湾 ガザ 香港 東京 大阪 北京 上海 平壌 台北 パリ 福岡 札幌 深圳 重慶 成都 武漢 西安 広州 高雄 釜山 EU 国連 紅海".split(" "));
 const PLACES=(()=>{const P=[];cities.forEach(c=>P.push({n:c.n,lon:c.lon,lat:c.lat,label:c.n,w:0}));
@@ -617,15 +617,9 @@ const FETCHERS={
  async usgs(){const j=await getJSON("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.geojson");return j.features.filter(f=>f.properties.mag>=5).map(f=>{const p=f.properties,g=f.geometry.coordinates;return normItem({id:"usgs-"+f.id,title:`M${p.mag.toFixed(1)} の地震${p.tsunami?"（津波情報あり）":""}`,summary:`震源：${p.place||"不明"}／深さ約${Math.round(g[2])}km。米国地質調査所（USGS）の速報値で、後から修正されることがあります。`,lat:g[1],lon:g[0],cat:"disaster",at:new Date(p.time).toISOString(),source:"USGS",url:p.url,place:p.place||""})});},
  async eonet(){const j=await getJSON("https://eonet.gsfc.nasa.gov/api/v3/events?status=open&days=10&category=volcanoes,severeStorms,floods&limit=40",25000);const JA={volcanoes:"火山活動",severeStorms:"暴風雨・台風",floods:"洪水"};
    return(j.events||[]).map(e=>{const g=e.geometry&&e.geometry[e.geometry.length-1];if(!g||g.type!=="Point")return null;const c=e.categories&&e.categories[0]&&e.categories[0].id;return normItem({id:"eonet-"+e.id,title:`${JA[c]||"自然災害"}：${e.title}`,summary:"NASAの自然現象トラッカー（EONET）が追跡中の事象です。位置は最新の観測点です。",lat:g.coordinates[1],lon:g.coordinates[0],cat:"disaster",at:g.date,source:"NASA EONET",url:e.link||(e.sources&&e.sources[0]&&e.sources[0].url)||"",place:e.title})}).filter(Boolean);},
- async gdelt(){const q='sourcelang:japanese (domainis:nhk.or.jp OR domainis:afpbb.com OR domainis:cnn.co.jp OR domainis:bbc.com OR domainis:jiji.com OR domainis:reuters.com OR domainis:nikkei.com OR domainis:asahi.com OR domainis:yomiuri.co.jp OR domainis:mainichi.jp)';
-   const j=await getJSON("https://api.gdeltproject.org/api/v2/doc/doc?query="+encodeURIComponent(q)+"&mode=artlist&maxrecords=75&timespan=8h&sort=datedesc&format=json",25000);const out=[],per={},seen=new Set();
-   for(const a of(j.articles||[])){const title=String(a.title||"").replace(/\s+/g," ").trim();if(title.length<8)continue;const key=title.slice(0,14);if(seen.has(key))continue;const p=geotag(title);if(!p)continue;per[p.label]=(per[p.label]||0)+1;if(per[p.label]>2)continue;seen.add(key);
-     const m=/^(\d{4})(\d\d)(\d\d)T(\d\d)(\d\d)(\d\d)Z$/.exec(a.seendate||""),at=m?`${m[1]}-${m[2]}-${m[3]}T${m[4]}:${m[5]}:${m[6]}Z`:new Date().toISOString(),id="gdelt-"+h32(a.url||title);
-     out.push(normItem({id,title,summary:"報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",lat:jit(id,p.lat,1.2),lon:jit(id,p.lon,1.6),cat:classify(title),at,source:a.domain||"GDELT",url:a.url,place:p.label}));if(out.length>=30)break;}
-   return out;},
  async wb(){const ISO={"840":"USA","156":"CHN","276":"DEU","392":"JPN","356":"IND","826":"GBR","250":"FRA","380":"ITA","124":"CAN","076":"BRA","643":"RUS","410":"KOR","036":"AUS","724":"ESP","484":"MEX","360":"IDN","528":"NLD","792":"TUR","682":"SAU","756":"CHE","616":"POL","032":"ARG","364":"IRN","376":"ISR","784":"ARE","818":"EGY","566":"NGA","710":"ZAF","586":"PAK","704":"VNM","764":"THA","608":"PHL","804":"UKR","578":"NOR","752":"SWE","862":"VEN"},by={};Object.entries(ISO).forEach(([id,i])=>by[i]=byId[id]);
-   let n=0;for(const[ind,key,div]of[["NY.GDP.MKTP.CD","gdp",1e9],["SP.POP.TOTL","pop",1e6],["MS.MIL.XPND.CD","mil",1e9]]){const j=await getJSON(`https://api.worldbank.org/v2/country/${Object.values(ISO).join(";")}/indicator/${ind}?format=json&mrnev=1&per_page=100`,25000);
-     for(const r of(j[1]||[])){const d=by[r.countryiso3code];if(!d||!(r.value>0)||+r.date<2022)continue;d[key]=r.value/div;(d.wb||(d.wb={}))[key]=r.date;n++;}}
+   const j=await getJSON("stats.json?t="+Date.now());let n=0;
+   for(const[iso,v]of Object.entries(j.countries||{})){const d=by[iso];if(!d)continue;for(const[key,div]of[["gdp",1e9],["pop",1e6],["mil",1e9]]){const x=v[key];if(!x||!(x[0]>0))continue;d[key]=x[0]/div;(d.wb||(d.wb={}))[key]=x[1];n++;}}
    if(!n)throw new Error("empty");SRC.wb.count=n;derive();recolor();legend();redraw();if(tab!=="news")render();return[];}
 };
 function mergeNews(key,items,first){const sel=selNews&&selNews.id,before=new Set(NEWS.map(n=>n.id)),born={};NEWS.forEach(n=>{if(n.born)born[n.id]=n.born});SRC[key].items=items.filter(okItem);

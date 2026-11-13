@@ -19,10 +19,10 @@ jobs:
       - run: node scripts/fetch-news.mjs
       - name: 変更があれば保存
         run: |
-          if [ -n "$(git status --porcelain news.json)" ]; then
+          if [ -n "$(git status --porcelain news.json stats.json)" ]; then
             git config user.name "news-bot"
             git config user.email "news-bot@users.noreply.github.com"
-            git add news.json
+            git add news.json stats.json 2>/dev/null || git add news.json
             git commit -m "ニュース更新"
             git push
           fi

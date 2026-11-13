@@ -67,6 +67,49 @@ export function merge(oldItems, fresh, now = Date.now()) {
   const per = {}; let rss = 0;
   return keep.filter((x) => { if (!String(x.id).startsWith("rss-")) return true; per[x.place] = (per[x.place] || 0) + 1; if (per[x.place] > PER_PLACE || rss >= MAX_RSS) return false; rss++; return true; });
 }
+// GDELT（世界の報道の索引）から日本語の見出しを補う。失敗しても全体は止めない
+async function fetchGdelt(places) {
+  const q = "sourcelang:japanese (domainis:jiji.com OR domainis:nikkei.com OR domainis:asahi.com OR domainis:yomiuri.co.jp OR domainis:mainichi.jp OR domainis:reuters.com OR domainis:sankei.com)";
+  const r = await fetch("https://api.gdeltproject.org/api/v2/doc/doc?query=" + encodeURIComponent(q) + "&mode=artlist&maxrecords=75&timespan=6h&sort=datedesc&format=json", { signal: AbortSignal.timeout(30000) });
+  if (!r.ok) throw new Error("HTTP " + r.status);
+  const txt = await r.text();
+  let j; try { j = JSON.parse(txt); } catch { throw new Error("JSONでない応答: " + txt.slice(0, 80)); }
+  const out = [];
+  for (const a of j.articles || []) {
+    const title = String(a.title || "").replace(/\s+/g, " ").trim();
+    if (title.length < 8 || !/^https?:\/\//.test(a.url || "")) continue;
+    const m = /^(\d{4})(\d\d)(\d\d)T(\d\d)(\d\d)(\d\d)Z$/.exec(a.seendate || "");
+    const at = m ? Date.parse(`${m[1]}-${m[2]}-${m[3]}T${m[4]}:${m[5]}:${m[6]}Z`) : Date.now();
+    out.push(...toItems([{ title, link: a.url, at }], a.domain || "GDELT", places));
+    if (out.length >= 15) break;
+  }
+  return out;
+}
+// 世界銀行APIから GDP・人口・軍事費の最新値を取り、stats.json に保存する
+const ISO3 = "USA CHN DEU JPN IND GBR FRA ITA CAN BRA RUS KOR AUS ESP MEX IDN NLD TUR SAU CHE POL ARG IRN ISR ARE EGY NGA ZAF PAK VNM THA PHL UKR NOR SWE VEN".split(" ");
+async function fetchStats() {
+  const file = path.join(ROOT, "stats.json");
+  let old = { countries: {} };
+  try { old = JSON.parse(await readFile(file, "utf8")); } catch {}
+  const countries = JSON.parse(JSON.stringify(old.countries || {}));
+  let n = 0;
+  for (const [ind, key] of [["NY.GDP.MKTP.CD", "gdp"], ["SP.POP.TOTL", "pop"], ["MS.MIL.XPND.CD", "mil"]]) {
+    try {
+      const r = await fetch(`https://api.worldbank.org/v2/country/${ISO3.join(";")}/indicator/${ind}?format=json&mrnev=1&per_page=200`, { signal: AbortSignal.timeout(30000) });
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      const j = await r.json();
+      for (const row of j[1] || []) {
+        if (!ISO3.includes(row.countryiso3code) || !(row.value > 0) || +row.date < 2022) continue;
+        (countries[row.countryiso3code] ||= {})[key] = [row.value, row.date]; n++;
+      }
+      console.log(`世界銀行 ${ind}: OK`);
+    } catch (e) { console.log(`世界銀行 ${ind}: 取得失敗 (${e.message})`); }
+  }
+  if (n && JSON.stringify(countries) !== JSON.stringify(old.countries || {})) {
+    await writeFile(file, JSON.stringify({ updatedAt: new Date().toISOString(), source: "World Bank Open Data", countries }) + "\n");
+    console.log(`stats.json を更新: ${Object.keys(countries).length} か国`);
+  }
+}
 async function main() {
   const places = JSON.parse(await readFile(path.join(ROOT, "places.json"), "utf8"));
   const file = path.join(ROOT, "news.json");
@@ -81,6 +124,9 @@ async function main() {
       console.log(`${f.name}: ${items.length} 件`); fresh = fresh.concat(items); okFeeds++;
     } catch (e) { console.log(`${f.name}: 取得失敗 (${e.message})`); }
   }
+  try { const g = await fetchGdelt(places); console.log(`GDELT: ${g.length} 件`); fresh = fresh.concat(g); }
+  catch (e) { console.log(`GDELT: 取得失敗 (${e.message})`); }
+  try { await fetchStats(); } catch (e) { console.log(`統計: 失敗 (${e.message})`); }
   const items = merge(old.items || [], fresh);
   const changed = JSON.stringify(items) !== JSON.stringify(old.items || []);
   if (!changed) { console.log("変更なし"); return; }
