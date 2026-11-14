@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T00:58:40.217Z",
+ "updatedAt": "2026-11-14T02:00:38.610Z",
  "items": [
   {
    "id": "rss-14857111",
@@ -612,18 +612,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662061",
    "place": "ドイツ"
-  },
-  {
-   "id": "rss-2021878360",
-   "title": "アメリカ ニューヨークで建物が倒壊 2人死亡 17人けが",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 41.094,
-   "lon": -74.26,
-   "cat": "conflict",
-   "at": "2026-11-12T01:33:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261112de74557",
-   "place": "ニューヨーク"
   },
   {
    "id": "20261111-abudhabi-talks",
