@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T08:52:26.855Z",
+ "updatedAt": "2026-11-14T09:46:18.592Z",
  "items": [
   {
    "id": "rss-2037079873",
@@ -516,18 +516,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261112de75000",
    "place": "ネパール"
-  },
-  {
-   "id": "rss-2243749730",
-   "title": "東京外国為替市場で円安進む 一時1ドル＝160円に迫る水準に",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 35.358,
-   "lon": 140.093,
-   "cat": "economy",
-   "at": "2026-11-12T09:19:08.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261112de74982",
-   "place": "東京"
   },
   {
    "id": "20261112-gaza-nasser-hospital",
