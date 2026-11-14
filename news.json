@@ -1,40 +1,64 @@
 {
- "updatedAt": "2026-11-14T05:52:48.288Z",
+ "updatedAt": "2026-11-14T06:58:10.662Z",
  "items": [
   {
-   "id": "rss-4128278425",
-   "title": "ホワイトハウス、米ロ中首脳の歴史的会談を実施すると発表 トランプ大統領、プーチン大統領、習主席が来週中国に集まると",
+   "id": "rss-344142115",
+   "title": "中国の研究チーム、サメの3D解剖データ集を世界に公開",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.354,
-   "lon": 116.166,
-   "cat": "diplomacy",
-   "at": "2026-11-14T05:40:33.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cwkgrn5pnv0mo?at_medium=RSS&at_campaign=rss",
-   "place": "中国"
-  },
-  {
-   "id": "rss-155564596",
-   "title": "KPMG中国会長 中国企業はAI導入と実用化で優位な水準",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.409,
-   "lon": 116.507,
-   "cat": "economy",
-   "at": "2026-11-14T05:40:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3661749",
-   "place": "中国"
-  },
-  {
-   "id": "rss-172342215",
-   "title": "秦の始皇帝の息子とみられる男性の頭蓋骨をスキャン 顔面復元図が公開 中国",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.542,
-   "lon": 116.762,
+   "lat": 40.416,
+   "lon": 116.326,
    "cat": "other",
-   "at": "2026-11-14T05:30:00.000Z",
+   "at": "2026-11-14T06:50:00.000Z",
    "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3661748",
+   "url": "https://www.afpbb.com/articles/-/3662114",
+   "place": "中国"
+  },
+  {
+   "id": "rss-3328519787",
+   "title": "中国、米国の半導体輸出規制強化の動きに反発 エヌビディアめぐるスパイ疑惑で",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.331,
+   "lon": 116.48,
+   "cat": "economy",
+   "at": "2026-11-14T06:45:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662381",
+   "place": "中国"
+  },
+  {
+   "id": "rss-1897819946",
+   "title": "米国、26年ぶりに「はしか排除状態」の認定取り消し ワクチン未接種で感染拡大",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 38.952,
+   "lon": -77.733,
+   "cat": "disaster",
+   "at": "2026-11-14T06:42:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/usa/35254884.html?ref=rss",
+   "place": "アメリカ"
+  },
+  {
+   "id": "rss-622658670",
+   "title": "【解説】 強硬姿勢を崩さないプーチン氏、ウクライナ和平の条件を一段と拡大",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 50.113,
+   "lon": 30.832,
+   "cat": "other",
+   "at": "2026-11-14T06:02:14.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/cjx2r4rd93rzo?at_medium=RSS&at_campaign=rss",
+   "place": "ウクライナ"
+  },
+  {
+   "id": "rss-1943450345",
+   "title": "中国の園芸作業員の「ミツバチ服」が話題に",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.39,
+   "lon": 116.482,
+   "cat": "other",
+   "at": "2026-11-14T06:00:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3661917",
    "place": "中国"
   },
   {
@@ -266,18 +290,6 @@
    "place": "ペルー"
   },
   {
-   "id": "rss-4144711688",
-   "title": "ヘグセス米国防長官、自身と側近らを叱責した衛兵に勲章授与",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 38.964,
-   "lon": -77.794,
-   "cat": "other",
-   "at": "2026-11-13T04:25:16.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/c6vg2d9klmzlo?at_medium=RSS&at_campaign=rss",
-   "place": "アメリカ"
-  },
-  {
    "id": "rss-2767216579",
    "title": "フィンランドとノルウェー、ロシア選手へのビザ発給制限",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -372,18 +384,6 @@
    "source": "CNN",
    "url": "https://www.cnn.com/2026/11/12/politics/live-news/trump-congress",
    "place": "ワシントンD.C."
-  },
-  {
-   "id": "rss-1901548546",
-   "title": "プーチン大統領 米特使らと会談で局地停戦提案 ウクライナ警戒",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 50.061,
-   "lon": 30.763,
-   "cat": "conflict",
-   "at": "2026-11-12T21:51:31.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261113de75124",
-   "place": "ウクライナ"
   },
   {
    "id": "rss-4283573086",
@@ -564,18 +564,6 @@
    "source": "BBC News Japan",
    "url": "https://www.bbc.com/japanese/articles/cmr4g09x7z9zo?at_medium=RSS&at_campaign=rss",
    "place": "ガザ"
-  },
-  {
-   "id": "rss-2231919971",
-   "title": "【分析】台湾とエヌビディアCEOの互恵関係に暗雲、敏感な部分に触れた中国スパイ疑惑",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 24.484,
-   "lon": 121.67,
-   "cat": "other",
-   "at": "2026-11-12T06:20:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/business/35254778.html?ref=rss",
-   "place": "台湾"
   },
   {
    "id": "20261112-iran-us-talks",
