@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T23:24:54.146Z",
+ "updatedAt": "2026-11-14T00:00:35.705Z",
  "items": [
   {
    "id": "rss-3126894169",
@@ -636,18 +636,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3661993",
    "place": "スウェーデン"
-  },
-  {
-   "id": "rss-2311425130",
-   "title": "米特使、ロシア・ウクライナ首脳と相次ぎ会談へ アブダビでの和平協議受け",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 23.954,
-   "lon": 54.558,
-   "cat": "diplomacy",
-   "at": "2026-11-11T23:32:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3661981",
-   "place": "アブダビ"
   },
   {
    "id": "20261111-abudhabi-talks",
