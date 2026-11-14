@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-11-14T04:53:34.957Z",
+ "updatedAt": "2026-11-14T05:52:48.288Z",
  "items": [
+  {
+   "id": "rss-4128278425",
+   "title": "ホワイトハウス、米ロ中首脳の歴史的会談を実施すると発表 トランプ大統領、プーチン大統領、習主席が来週中国に集まると",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.354,
+   "lon": 116.166,
+   "cat": "diplomacy",
+   "at": "2026-11-14T05:40:33.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/cwkgrn5pnv0mo?at_medium=RSS&at_campaign=rss",
+   "place": "中国"
+  },
+  {
+   "id": "rss-155564596",
+   "title": "KPMG中国会長 中国企業はAI導入と実用化で優位な水準",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.409,
+   "lon": 116.507,
+   "cat": "economy",
+   "at": "2026-11-14T05:40:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3661749",
+   "place": "中国"
+  },
+  {
+   "id": "rss-172342215",
+   "title": "秦の始皇帝の息子とみられる男性の頭蓋骨をスキャン 顔面復元図が公開 中国",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.542,
+   "lon": 116.762,
+   "cat": "other",
+   "at": "2026-11-14T05:30:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3661748",
+   "place": "中国"
+  },
   {
    "id": "rss-1254731887",
    "title": "イランが湾岸地域の米軍施設を攻撃、2カ月ぶり 合意の望み薄れる中",
@@ -98,18 +134,6 @@
    "place": "イラン"
   },
   {
-   "id": "rss-3126894169",
-   "title": "エヌビディアめぐるスパイ疑惑の女性が設立した中国企業、輸出禁止のAI半導体を入手 米報道",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.516,
-   "lon": 116.726,
-   "cat": "economy",
-   "at": "2026-11-13T23:03:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662361",
-   "place": "中国"
-  },
-  {
    "id": "rss-4108492979",
    "title": "【速報中】アメリカ全土の空港で航空機運航停止「通信の問題」",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -156,30 +180,6 @@
    "source": "BBC News Japan",
    "url": "https://www.bbc.com/japanese/articles/cm174lr79jx9o?at_medium=RSS&at_campaign=rss",
    "place": "北朝鮮"
-  },
-  {
-   "id": "rss-1626042580",
-   "title": "エヌビディアCEOの不倫相手、中国政府のスパイだったのか？ 確証は依然得られず",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.414,
-   "lon": 116.59,
-   "cat": "other",
-   "at": "2026-11-13T08:06:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/world/35254852.html?ref=rss",
-   "place": "中国"
-  },
-  {
-   "id": "rss-3159610764",
-   "title": "中国、減量向けGLP-1経口薬を初承認",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.036,
-   "lon": 115.819,
-   "cat": "other",
-   "at": "2026-11-13T07:51:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662317",
-   "place": "中国"
   },
   {
    "id": "rss-848092276",
@@ -588,18 +588,6 @@
    "source": "Just Security（WSJ報道の引用）",
    "url": "https://www.justsecurity.org/164226/early-edition-november-12-2026/",
    "place": "テヘラン"
-  },
-  {
-   "id": "rss-4142069476",
-   "title": "欧州で数千の学校に偽の爆破予告 イタリア、英スコットランドなどで",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 41.312,
-   "lon": 12.554,
-   "cat": "other",
-   "at": "2026-11-12T05:46:33.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cqvg245403nzo?at_medium=RSS&at_campaign=rss",
-   "place": "イタリア"
   },
   {
    "id": "20261111-abudhabi-talks",
