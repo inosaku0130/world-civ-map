@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-14T03:51:21.604Z",
+ "updatedAt": "2026-11-14T04:53:34.957Z",
  "items": [
+  {
+   "id": "rss-1254731887",
+   "title": "イランが湾岸地域の米軍施設を攻撃、2カ月ぶり 合意の望み薄れる中",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 35.955,
+   "lon": 50.905,
+   "cat": "conflict",
+   "at": "2026-11-14T04:18:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/usa/35254881.html?ref=rss",
+   "place": "イラン"
+  },
   {
    "id": "rss-3160596502",
    "title": "北朝鮮ハッカー集団、AI偽動画使い640億円以上窃取 FBIが警告",
@@ -216,18 +228,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75357",
    "place": "北朝鮮"
-  },
-  {
-   "id": "rss-3277054097",
-   "title": "イランが新設の「地下ミサイル都市」を公開 トンネル内にあふれる各種ミサイル",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 36.085,
-   "lon": 51.155,
-   "cat": "conflict",
-   "at": "2026-11-13T06:00:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662318",
-   "place": "イラン"
   },
   {
    "id": "rss-3092500288",
@@ -600,30 +600,6 @@
    "source": "BBC News Japan",
    "url": "https://www.bbc.com/japanese/articles/cqvg245403nzo?at_medium=RSS&at_campaign=rss",
    "place": "イタリア"
-  },
-  {
-   "id": "rss-358715709",
-   "title": "仏、ヨルダン川西岸入植地代表の入国拒否 イスラエルが非難",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 31.686,
-   "lon": 35.754,
-   "cat": "other",
-   "at": "2026-11-12T04:24:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662075",
-   "place": "ヨルダン川西岸"
-  },
-  {
-   "id": "rss-3413288195",
-   "title": "スペインで14年ぶりゼネスト、住宅難など背景に バルセロナでは警官隊と衝突",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 41.487,
-   "lon": 1.538,
-   "cat": "conflict",
-   "at": "2026-11-12T04:14:08.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cmy0en1k6g07o?at_medium=RSS&at_campaign=rss",
-   "place": "バルセロナ"
   },
   {
    "id": "20261111-abudhabi-talks",
