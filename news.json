@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T11:10:10.869Z",
+ "updatedAt": "2026-11-14T12:00:42.687Z",
  "items": [
   {
    "id": "rss-2037079873",
@@ -468,18 +468,6 @@
    "source": "TVG Daily Brief",
    "url": "https://theverardogroup.substack.com/p/tvg-daily-brief-12-nov-2026",
    "place": "深圳"
-  },
-  {
-   "id": "rss-2297945275",
-   "title": "ベトナムから高度人材確保へ 神奈川県が現地で就職面接会",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 20.938,
-   "lon": 106.565,
-   "cat": "other",
-   "at": "2026-11-12T11:18:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261112de75036",
-   "place": "ベトナム"
   },
   {
    "id": "20261112-gaza-nasser-hospital",
