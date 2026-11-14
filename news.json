@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T09:46:18.592Z",
+ "updatedAt": "2026-11-14T10:25:18.147Z",
  "items": [
   {
    "id": "rss-2037079873",
@@ -504,18 +504,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261112de75024",
    "place": "ガザ"
-  },
-  {
-   "id": "rss-1962539990",
-   "title": "土石流被害のネパールから訴える“気候正義” COP31でイベント",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 28.775,
-   "lon": 83.555,
-   "cat": "other",
-   "at": "2026-11-12T09:56:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261112de75000",
-   "place": "ネパール"
   },
   {
    "id": "20261112-gaza-nasser-hospital",
