@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T10:25:18.147Z",
+ "updatedAt": "2026-11-14T11:10:10.869Z",
  "items": [
   {
    "id": "rss-2037079873",
@@ -480,30 +480,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261112de75036",
    "place": "ベトナム"
-  },
-  {
-   "id": "rss-309454044",
-   "title": "ロシア・サンクトペテルブルクで車爆発、軍人1人死亡",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 59.527,
-   "lon": 30.641,
-   "cat": "conflict",
-   "at": "2026-11-12T10:59:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662164",
-   "place": "サンクトペテルブルク"
-  },
-  {
-   "id": "rss-83152472",
-   "title": "イスラエル軍がガザ地区の病院空爆 医師や患者など6人死亡か",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 31.746,
-   "lon": 33.96,
-   "cat": "conflict",
-   "at": "2026-11-12T10:58:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261112de75024",
-   "place": "ガザ"
   },
   {
    "id": "20261112-gaza-nasser-hospital",
