@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-14T02:55:10.536Z",
+ "updatedAt": "2026-11-14T03:51:21.604Z",
  "items": [
+  {
+   "id": "rss-3160596502",
+   "title": "北朝鮮ハッカー集団、AI偽動画使い640億円以上窃取 FBIが警告",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 38.917,
+   "lon": 126.374,
+   "cat": "other",
+   "at": "2026-11-14T03:25:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662377",
+   "place": "北朝鮮"
+  },
   {
    "id": "rss-4108345884",
    "title": "ウクライナ和平協議にヨーロッパ代表も 英仏独など5か国",
@@ -612,18 +624,6 @@
    "source": "BBC News Japan",
    "url": "https://www.bbc.com/japanese/articles/cmy0en1k6g07o?at_medium=RSS&at_campaign=rss",
    "place": "バルセロナ"
-  },
-  {
-   "id": "rss-358862804",
-   "title": "ドイツ連邦軍でセクハラまん延、特に階級の低い女性兵士の被害が深刻",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 52.238,
-   "lon": 13.786,
-   "cat": "other",
-   "at": "2026-11-12T03:16:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662061",
-   "place": "ドイツ"
   },
   {
    "id": "20261111-abudhabi-talks",
