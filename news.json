@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T12:00:42.687Z",
+ "updatedAt": "2026-11-14T12:49:25.684Z",
  "items": [
   {
    "id": "rss-2037079873",
@@ -420,42 +420,6 @@
    "source": "NPR",
    "url": "https://www.npr.org/sections/news/",
    "place": "ニューヨーク"
-  },
-  {
-   "id": "rss-32672520",
-   "title": "3年前のハマス奇襲 イスラエル第2党など調査委設置法案を提出",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 30.864,
-   "lon": 34.276,
-   "cat": "politics",
-   "at": "2026-11-12T12:38:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261112de75051",
-   "place": "イスラエル"
-  },
-  {
-   "id": "rss-66227758",
-   "title": "インドネシア副大統領が辞表 背景に現・前大統領のあつれきか",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": -5.905,
-   "lon": 106.482,
-   "cat": "politics",
-   "at": "2026-11-12T12:27:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261112de75053",
-   "place": "インドネシア"
-  },
-  {
-   "id": "rss-4210049388",
-   "title": "韓国で大規模旅行博覧会 日本から各地の自治体も参加 魅力をPR",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 36.982,
-   "lon": 127.034,
-   "cat": "other",
-   "at": "2026-11-12T12:22:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261112de75042",
-   "place": "韓国"
   },
   {
    "id": "20261119-apec-shenzhen",
