@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-14T08:00:30.150Z",
+ "updatedAt": "2026-11-14T08:52:26.855Z",
  "items": [
+  {
+   "id": "rss-2037079873",
+   "title": "自閉症の日本人画家の個展がニューヨークで開催",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.142,
+   "lon": -74.005,
+   "cat": "other",
+   "at": "2026-11-14T08:32:00.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261114de75906",
+   "place": "ニューヨーク"
+  },
   {
    "id": "rss-344142115",
    "title": "中国の研究チーム、サメの3D解剖データ集を世界に公開",
@@ -528,30 +540,6 @@
    "source": "Just Security（BBC報道の引用）",
    "url": "https://www.justsecurity.org/164226/early-edition-november-12-2026/",
    "place": "ガザ・ハンユニス"
-  },
-  {
-   "id": "rss-3167887391",
-   "title": "米ニューヨーク市で建物が崩壊、2人死亡 現場での捜索続く",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 41.135,
-   "lon": -74.282,
-   "cat": "conflict",
-   "at": "2026-11-12T08:27:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/usa/35254786.html?ref=rss",
-   "place": "ニューヨーク"
-  },
-  {
-   "id": "rss-2793277131",
-   "title": "米代表、カタール開催のサッカーU-17W杯出場を辞退 中東の治安懸念",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 25.286,
-   "lon": 52.287,
-   "cat": "other",
-   "at": "2026-11-12T08:16:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662136",
-   "place": "カタール"
   },
   {
    "id": "20261112-iran-us-talks",
