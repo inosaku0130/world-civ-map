@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T06:58:10.662Z",
+ "updatedAt": "2026-11-14T08:00:30.150Z",
  "items": [
   {
    "id": "rss-344142115",
@@ -552,18 +552,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662136",
    "place": "カタール"
-  },
-  {
-   "id": "rss-3497305117",
-   "title": "イスラエル軍がガザ南部のナセル病院を攻撃、少なくとも5人殺害と民間防衛隊",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 31.187,
-   "lon": 34.891,
-   "cat": "conflict",
-   "at": "2026-11-12T07:19:23.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cmr4g09x7z9zo?at_medium=RSS&at_campaign=rss",
-   "place": "ガザ"
   },
   {
    "id": "20261112-iran-us-talks",
