@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-14T21:38:19.464Z",
+ "updatedAt": "2026-11-14T23:37:38.884Z",
  "items": [
+  {
+   "id": "rss-1114124342",
+   "title": "米国、NATO加盟と引き換えに領土割譲を提案 ゼレンスキー氏",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 38.725,
+   "lon": -76.435,
+   "cat": "other",
+   "at": "2026-11-14T23:06:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662399",
+   "place": "アメリカ"
+  },
+  {
+   "id": "rss-3429130076",
+   "title": "ゼレンスキー大統領“米がNATO加盟と交換で軍撤退を打診”",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 50.638,
+   "lon": 4.935,
+   "cat": "politics",
+   "at": "2026-11-14T22:59:38.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261115de76042",
+   "place": "NATO本部"
+  },
   {
    "id": "rss-3731568503",
    "title": "アメリカ 航空機運航停止の影響で14日も混乱続く",
@@ -156,18 +180,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/world/35254877.html?ref=rss",
    "place": "ロシア"
-  },
-  {
-   "id": "rss-3177227026",
-   "title": "米国務長官、ICCに警告「剣を帯びる者に法律を説くのはやめろ」",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.442,
-   "lon": -77.155,
-   "cat": "other",
-   "at": "2026-11-14T00:31:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662364",
-   "place": "アメリカ"
   },
   {
    "id": "rss-3093338931",
