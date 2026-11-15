@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-15T22:20:35.763Z",
+ "updatedAt": "2026-11-15T23:46:16.894Z",
  "items": [
+  {
+   "id": "rss-3096714523",
+   "title": "ヘンリー英王子、ウクライナで負傷兵と面会 「あなた方は戦争に勝つ」",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 50.955,
+   "lon": 30.355,
+   "cat": "conflict",
+   "at": "2026-11-15T23:08:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662459",
+   "place": "ウクライナ"
+  },
   {
    "id": "rss-1574161958",
    "title": "マグサイサイ賞授賞式 ミャンマー人権団体創設者などに授与",
@@ -288,18 +300,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/usa/35254884.html?ref=rss",
    "place": "アメリカ"
-  },
-  {
-   "id": "rss-622658670",
-   "title": "【解説】 強硬姿勢を崩さないプーチン氏、ウクライナ和平の条件を一段と拡大",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 50.113,
-   "lon": 30.832,
-   "cat": "other",
-   "at": "2026-11-14T06:02:14.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cjx2r4rd93rzo?at_medium=RSS&at_campaign=rss",
-   "place": "ウクライナ"
   },
   {
    "id": "rss-1254731887",
