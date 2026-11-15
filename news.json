@@ -1,6 +1,54 @@
 {
- "updatedAt": "2026-11-15T06:40:35.738Z",
+ "updatedAt": "2026-11-15T07:50:27.140Z",
  "items": [
+  {
+   "id": "rss-3030589785",
+   "title": "バーレーンで複数回の爆発音、イランが米軍基地攻撃を主張",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 36.174,
+   "lon": 51.273,
+   "cat": "conflict",
+   "at": "2026-11-15T07:30:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662431",
+   "place": "イラン"
+  },
+  {
+   "id": "rss-1555026333",
+   "title": "空港滑走路で航空機同士が衝突、全米規模の運航停止の翌日 マイアミ",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 25.191,
+   "lon": -80.11,
+   "cat": "conflict",
+   "at": "2026-11-15T07:15:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/usa/35254906.html?ref=rss",
+   "place": "マイアミ"
+  },
+  {
+   "id": "rss-3125908431",
+   "title": "中国国際輸入博覧会、世界各国の食品が集結",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.407,
+   "lon": 116.504,
+   "cat": "other",
+   "at": "2026-11-15T06:50:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662305",
+   "place": "中国"
+  },
+  {
+   "id": "rss-3047514499",
+   "title": "豪比、新防衛協定に署名 中国の軍事的存在感増す中",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.529,
+   "lon": 116.744,
+   "cat": "conflict",
+   "at": "2026-11-15T06:40:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662424",
+   "place": "中国"
+  },
   {
    "id": "rss-1012325795",
    "title": "中国初 2億年以上前の海に生息していた両生類の化石を確認",
@@ -11,30 +59,6 @@
    "at": "2026-11-15T06:10:00.000Z",
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662327",
-   "place": "中国"
-  },
-  {
-   "id": "rss-995548176",
-   "title": "カラフルな精霊が姿を現す 中国南西部の山地でミナミヤイロチョウを初発見",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.784,
-   "lon": 117.006,
-   "cat": "other",
-   "at": "2026-11-15T06:00:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662326",
-   "place": "中国"
-  },
-  {
-   "id": "rss-1197026699",
-   "title": "中国北西部の陝西省楡林市で秦代の行宮遺跡を新たに発見",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.216,
-   "lon": 115.982,
-   "cat": "other",
-   "at": "2026-11-15T05:50:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662330",
    "place": "中国"
   },
   {
@@ -266,18 +290,6 @@
    "place": "イラン"
   },
   {
-   "id": "rss-2670771444",
-   "title": "イラン バーレーンの米軍通信設備を攻撃と発表",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 35.701,
-   "lon": 50.643,
-   "cat": "conflict",
-   "at": "2026-11-13T14:47:23.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261113de75728",
-   "place": "イラン"
-  },
-  {
    "id": "rss-2637363301",
    "title": "日本とメキシコの外相 有識者会議で中長期の戦略的関係議論へ",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -300,30 +312,6 @@
    "source": "BBC News Japan",
    "url": "https://www.bbc.com/japanese/articles/cm174lr79jx9o?at_medium=RSS&at_campaign=rss",
    "place": "北朝鮮"
-  },
-  {
-   "id": "rss-848092276",
-   "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月13日の動き）",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.725,
-   "lon": 38.412,
-   "cat": "conflict",
-   "at": "2026-11-13T07:13:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261028de67087",
-   "place": "ロシア"
-  },
-  {
-   "id": "rss-3109130812",
-   "title": "菓子そっくりの手製爆弾、口に入れたら爆発 インド人男性死亡",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 28.573,
-   "lon": 77.999,
-   "cat": "conflict",
-   "at": "2026-11-13T07:12:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662304",
-   "place": "インド"
   },
   {
    "id": "20261112-us-midterm-trump",
