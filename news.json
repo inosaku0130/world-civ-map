@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T10:44:34.438Z",
+ "updatedAt": "2026-11-15T14:45:08.577Z",
  "items": [
   {
    "id": "rss-1989360373",
@@ -336,18 +336,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662363",
    "place": "イラン"
-  },
-  {
-   "id": "rss-2637363301",
-   "title": "日本とメキシコの外相 有識者会議で中長期の戦略的関係議論へ",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 19.218,
-   "lon": -98.652,
-   "cat": "diplomacy",
-   "at": "2026-11-13T14:43:49.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261113de75730",
-   "place": "メキシコ"
   },
   {
    "id": "20261112-us-midterm-trump",
