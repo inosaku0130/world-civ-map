@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-15T02:34:02.979Z",
+ "updatedAt": "2026-11-15T03:37:41.965Z",
  "items": [
+  {
+   "id": "rss-3810836741",
+   "title": "サザビーズによるピサロ絵画の売却、パリの裁判所が無効に",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 49.434,
+   "lon": 2.353,
+   "cat": "other",
+   "at": "2026-11-15T03:26:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/style/arts/35254899.html?ref=rss",
+   "place": "パリ"
+  },
   {
    "id": "rss-3921381708",
    "title": "米国がウクライナによる領土割譲を提案、NATO加盟と引き替えに ゼレンスキー氏明かす",
@@ -336,18 +348,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662253",
    "place": "フィンランド"
-  },
-  {
-   "id": "rss-1142423370",
-   "title": "ニューヨーク建物倒壊事故で救助活動終了 死者は８人に",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.175,
-   "lon": -73.962,
-   "cat": "disaster",
-   "at": "2026-11-13T03:14:19.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261113de75209",
-   "place": "ニューヨーク"
   },
   {
    "id": "20261112-us-midterm-trump",
