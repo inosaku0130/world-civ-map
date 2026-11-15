@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-11-15T04:39:04.138Z",
+ "updatedAt": "2026-11-15T05:37:23.878Z",
  "items": [
+  {
+   "id": "rss-2776352417",
+   "title": "火球に伴う隕石が村の周辺に落下 「隕石ハンター」がネットで売買 中国石家荘",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.136,
+   "lon": 115.877,
+   "cat": "other",
+   "at": "2026-11-15T05:30:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662127",
+   "place": "中国"
+  },
+  {
+   "id": "rss-2759574798",
+   "title": "ティラピア（羅非魚）に付着した細菌「72時間で命を奪う恐れ」中国深セン",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.377,
+   "lon": 116.464,
+   "cat": "other",
+   "at": "2026-11-15T05:20:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662126",
+   "place": "中国"
+  },
+  {
+   "id": "rss-2111226535",
+   "title": "中国国際輸入博 海外中小企業の中国市場進出を後押し",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.364,
+   "lon": 116.258,
+   "cat": "economy",
+   "at": "2026-11-15T05:10:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3661919",
+   "place": "中国"
+  },
   {
    "id": "rss-1151202267",
    "title": "米中ロ首脳、19日に初の3者会談 ロシアも開催確認",
@@ -98,30 +134,6 @@
    "place": "ニューヨーク"
   },
   {
-   "id": "rss-344142115",
-   "title": "中国の研究チーム、サメの3D解剖データ集を世界に公開",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.416,
-   "lon": 116.326,
-   "cat": "other",
-   "at": "2026-11-14T06:50:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662114",
-   "place": "中国"
-  },
-  {
-   "id": "rss-3328519787",
-   "title": "中国、米国の半導体輸出規制強化の動きに反発 エヌビディアめぐるスパイ疑惑で",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.331,
-   "lon": 116.48,
-   "cat": "economy",
-   "at": "2026-11-14T06:45:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662381",
-   "place": "中国"
-  },
-  {
    "id": "rss-1897819946",
    "title": "米国、26年ぶりに「はしか排除状態」の認定取り消し ワクチン未接種で感染拡大",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -144,18 +156,6 @@
    "source": "BBC News Japan",
    "url": "https://www.bbc.com/japanese/articles/cjx2r4rd93rzo?at_medium=RSS&at_campaign=rss",
    "place": "ウクライナ"
-  },
-  {
-   "id": "rss-1943450345",
-   "title": "中国の園芸作業員の「ミツバチ服」が話題に",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.39,
-   "lon": 116.482,
-   "cat": "other",
-   "at": "2026-11-14T06:00:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3661917",
-   "place": "中国"
   },
   {
    "id": "rss-1254731887",
@@ -312,30 +312,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75357",
    "place": "北朝鮮"
-  },
-  {
-   "id": "rss-2784832841",
-   "title": "中国は民主派香港紙創業者を「非常に強く憎悪」 トランプ氏、釈放に悲観的",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 21.919,
-   "lon": 114.397,
-   "cat": "other",
-   "at": "2026-11-13T05:21:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662282",
-   "place": "香港"
-  },
-  {
-   "id": "rss-3272489435",
-   "title": "南米チリとペルーの大統領が来週訪日 高市首相と首脳会談へ",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": -11.877,
-   "lon": -77.571,
-   "cat": "diplomacy",
-   "at": "2026-11-13T04:45:49.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261113de75242",
-   "place": "ペルー"
   },
   {
    "id": "20261112-us-midterm-trump",
