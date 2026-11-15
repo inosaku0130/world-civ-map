@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-14T23:37:38.884Z",
+ "updatedAt": "2026-11-15T00:17:51.268Z",
  "items": [
+  {
+   "id": "rss-3921381708",
+   "title": "米国がウクライナによる領土割譲を提案、NATO加盟と引き替えに ゼレンスキー氏明かす",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 50.022,
+   "lon": 30.787,
+   "cat": "other",
+   "at": "2026-11-15T00:00:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/world/35254896.html?ref=rss",
+   "place": "ウクライナ"
+  },
+  {
+   "id": "rss-1302347933",
+   "title": "日本がブラジル撃破！ 終了間際に坂元が決勝点 サッカー国際親善試合",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": -16.133,
+   "lon": -47.576,
+   "cat": "other",
+   "at": "2026-11-14T23:53:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662400",
+   "place": "ブラジル"
+  },
   {
    "id": "rss-1114124342",
    "title": "米国、NATO加盟と引き換えに領土割譲を提案 ゼレンスキー氏",
@@ -242,18 +266,6 @@
    "place": "ロシア"
   },
   {
-   "id": "rss-3280631056",
-   "title": "ウクライナのドローン、ロシア軍艦を攻撃 フィンランド湾",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 50.936,
-   "lon": 30.33,
-   "cat": "conflict",
-   "at": "2026-11-13T07:12:08.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cqlyk7rrl9yno?at_medium=RSS&at_campaign=rss",
-   "place": "ウクライナ"
-  },
-  {
    "id": "rss-3109130812",
    "title": "菓子そっくりの手製爆弾、口に入れたら爆発 インド人男性死亡",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -372,30 +384,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662194",
    "place": "コロンビア"
-  },
-  {
-   "id": "rss-664049709",
-   "title": "イスラエル暫定国防相、軍事作戦に野党の承認不要と主張 ネタニヤフ氏はイラン攻撃を示唆",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 30.175,
-   "lon": 35.035,
-   "cat": "conflict",
-   "at": "2026-11-13T00:14:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662185",
-   "place": "イスラエル"
-  },
-  {
-   "id": "rss-748611677",
-   "title": "イスラエル軍、ガザの病院を攻撃 医師と子ども含む６人死亡 パレスチナ当局",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 31.495,
-   "lon": 35.225,
-   "cat": "conflict",
-   "at": "2026-11-12T23:59:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/world/35254817.html?ref=rss",
-   "place": "ガザ"
   },
   {
    "id": "20261112-us-midterm-trump",
