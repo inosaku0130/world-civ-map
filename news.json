@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T00:17:51.268Z",
+ "updatedAt": "2026-11-15T01:38:33.027Z",
  "items": [
   {
    "id": "rss-3921381708",
@@ -372,18 +372,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75168",
    "place": "ドイツ"
-  },
-  {
-   "id": "rss-613863947",
-   "title": "コロンビア外相、米民主党幹部らへの侮辱的投稿を謝罪 中間選挙での大勝受け態度軟化か",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 4.307,
-   "lon": -73.769,
-   "cat": "diplomacy",
-   "at": "2026-11-13T01:03:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662194",
-   "place": "コロンビア"
   },
   {
    "id": "20261112-us-midterm-trump",
