@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-15T07:50:27.140Z",
+ "updatedAt": "2026-11-15T08:53:03.180Z",
  "items": [
+  {
+   "id": "rss-3097700261",
+   "title": "中国・北京、ドローンの所持・保管を全面禁止 新規制施行",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.397,
+   "lon": 116.301,
+   "cat": "conflict",
+   "at": "2026-11-15T08:06:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662435",
+   "place": "北京"
+  },
   {
    "id": "rss-3030589785",
    "title": "バーレーンで複数回の爆発音、イランが米軍基地攻撃を主張",
@@ -300,18 +312,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75730",
    "place": "メキシコ"
-  },
-  {
-   "id": "rss-2467319106",
-   "title": "北朝鮮が支援するハッカー、偽のビデオ通話使い4億ドル相当の暗号資産盗む",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 38.612,
-   "lon": 125.968,
-   "cat": "other",
-   "at": "2026-11-13T08:30:37.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cm174lr79jx9o?at_medium=RSS&at_campaign=rss",
-   "place": "北朝鮮"
   },
   {
    "id": "20261112-us-midterm-trump",
