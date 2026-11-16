@@ -1,6 +1,78 @@
 {
- "updatedAt": "2026-11-16T22:48:54.432Z",
+ "updatedAt": "2026-11-16T23:44:02.715Z",
  "items": [
+  {
+   "id": "rss-2774684290",
+   "title": "インドネシアでM6.6の地震、津波のおそれなし",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": -6.003,
+   "lon": 106.274,
+   "cat": "disaster",
+   "at": "2026-11-16T23:29:37.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261117de76907",
+   "place": "インドネシア"
+  },
+  {
+   "id": "rss-2741129052",
+   "title": "ロシア高官 和平協議への欧州参加「合意していない」",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.669,
+   "lon": 38.26,
+   "cat": "diplomacy",
+   "at": "2026-11-16T23:17:00.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261117de76905",
+   "place": "ロシア"
+  },
+  {
+   "id": "rss-2724351433",
+   "title": "アメリカ商務省 先端半導体の中国などへのう回輸出防ぐ新規則",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.51,
+   "lon": 116.718,
+   "cat": "economy",
+   "at": "2026-11-16T23:14:00.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261117de76902",
+   "place": "中国"
+  },
+  {
+   "id": "rss-2757906671",
+   "title": "ロシア高官 米中ロ３か国首脳会談の共同声明検討",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 56.066,
+   "lon": 37.19,
+   "cat": "diplomacy",
+   "at": "2026-11-16T23:13:31.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261117de76904",
+   "place": "ロシア"
+  },
+  {
+   "id": "rss-1785910023",
+   "title": "トランプ氏、北朝鮮の金正恩氏と中国で会談の可能性",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 38.947,
+   "lon": 126.491,
+   "cat": "diplomacy",
+   "at": "2026-11-16T22:56:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662675",
+   "place": "北朝鮮"
+  },
+  {
+   "id": "rss-1769132404",
+   "title": "ルペン氏、当選すればウクライナへの財政支援打ち切りと表明 仏大統領選",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 50.491,
+   "lon": 29.736,
+   "cat": "politics",
+   "at": "2026-11-16T22:53:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662674",
+   "place": "ウクライナ"
+  },
   {
    "id": "rss-3199795070",
    "title": "ロシア報道官 日ロ首脳会談の可能性「排除せず」",
@@ -11,18 +83,6 @@
    "at": "2026-11-16T22:21:48.000Z",
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261117de76899",
-   "place": "ロシア"
-  },
-  {
-   "id": "rss-3082204642",
-   "title": "「18日に中ロ首脳会談」ロシア側は中国との連携強調ねらいか",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.796,
-   "lon": 36.906,
-   "cat": "diplomacy",
-   "at": "2026-11-16T21:15:25.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261117de76886",
    "place": "ロシア"
   },
   {
@@ -50,18 +110,6 @@
    "place": "中国"
   },
   {
-   "id": "rss-1802834737",
-   "title": "ロシア、米国の領土割譲案を公表したゼレンスキー氏を批判",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 56.322,
-   "lon": 37.53,
-   "cat": "other",
-   "at": "2026-11-16T11:11:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662660",
-   "place": "ロシア"
-  },
-  {
    "id": "rss-3155196975",
    "title": "世界の「汚職度」ランキング、米国が過去最低順位に転落",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -72,18 +120,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/business/35254961.html?ref=rss",
    "place": "アメリカ"
-  },
-  {
-   "id": "rss-1645134344",
-   "title": "アメリカ・中国・ロシアの3か国首脳会談 中国も正式に発表",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.602,
-   "lon": 116.842,
-   "cat": "diplomacy",
-   "at": "2026-11-16T09:51:30.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261116de76469",
-   "place": "中国"
   },
   {
    "id": "rss-1920425165",
@@ -554,16 +590,16 @@
    "place": "アメリカ"
   },
   {
-   "id": "rss-3921381708",
-   "title": "米国がウクライナによる領土割譲を提案、NATO加盟と引き替えに ゼレンスキー氏明かす",
+   "id": "rss-3429130076",
+   "title": "ゼレンスキー大統領“米がNATO加盟と交換で軍撤退を打診”",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 50.022,
-   "lon": 30.787,
-   "cat": "other",
-   "at": "2026-11-15T00:00:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/world/35254896.html?ref=rss",
-   "place": "ウクライナ"
+   "lat": 50.638,
+   "lon": 4.935,
+   "cat": "politics",
+   "at": "2026-11-15T00:01:00.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261115de76042",
+   "place": "NATO本部"
   },
   {
    "id": "rss-1302347933",
@@ -576,18 +612,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662400",
    "place": "ブラジル"
-  },
-  {
-   "id": "rss-3429130076",
-   "title": "ゼレンスキー大統領“米がNATO加盟と交換で軍撤退を打診”",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 50.638,
-   "lon": 4.935,
-   "cat": "politics",
-   "at": "2026-11-14T22:59:38.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261115de76042",
-   "place": "NATO本部"
   },
   {
    "id": "20261112-us-midterm-trump",
