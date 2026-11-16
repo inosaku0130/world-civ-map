@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-16T05:00:05.133Z",
+ "updatedAt": "2026-11-16T06:13:43.707Z",
  "items": [
+  {
+   "id": "rss-3977664670",
+   "title": "香港のディズニーで不正アクセス 電子チケット盗み取られたか",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 22.198,
+   "lon": 114.768,
+   "cat": "other",
+   "at": "2026-11-16T05:54:07.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261116de76430",
+   "place": "香港"
+  },
+  {
+   "id": "rss-1162468431",
+   "title": "チェコ公共放送、財源を受信料から国家予算に移す政府案 数十万人が抗議",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 50.215,
+   "lon": 14.972,
+   "cat": "politics",
+   "at": "2026-11-16T05:34:22.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/cmx20pd8wkk9o?at_medium=RSS&at_campaign=rss",
+   "place": "チェコ"
+  },
   {
    "id": "rss-19746353",
    "title": "イギリスで性交同意年齢の引き上げを議論へ、著名人による性加害事件受け",
