@@ -1,6 +1,54 @@
 {
- "updatedAt": "2026-11-16T09:14:33.072Z",
+ "updatedAt": "2026-11-16T10:54:43.226Z",
  "items": [
+  {
+   "id": "rss-3155196975",
+   "title": "世界の「汚職度」ランキング、米国が過去最低順位に転落",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 38.67,
+   "lon": -76.509,
+   "cat": "other",
+   "at": "2026-11-16T10:05:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/business/35254961.html?ref=rss",
+   "place": "アメリカ"
+  },
+  {
+   "id": "rss-1645134344",
+   "title": "アメリカ・中国・ロシアの3か国首脳会談 中国も正式に発表",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.602,
+   "lon": 116.842,
+   "cat": "diplomacy",
+   "at": "2026-11-16T09:51:30.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261116de76469",
+   "place": "中国"
+  },
+  {
+   "id": "rss-1920425165",
+   "title": "ウクライナ、1300機超の無人機でロシア攻撃 クリミア橋も標的に",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 45.339,
+   "lon": 33.78,
+   "cat": "conflict",
+   "at": "2026-11-16T09:43:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662651",
+   "place": "クリミア"
+  },
+  {
+   "id": "rss-3749332731",
+   "title": "国連、「殺人ロボット」規制めぐり協議 主要国は慎重姿勢",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.204,
+   "lon": -73.86,
+   "cat": "diplomacy",
+   "at": "2026-11-16T09:08:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662648",
+   "place": "国連本部"
+  },
   {
    "id": "rss-1102805792",
    "title": "米陸軍少佐が告発書を提出 米兵6人が死亡したイランの攻撃めぐり",
@@ -143,18 +191,6 @@
    "at": "2026-11-16T07:00:00.000Z",
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662302",
-   "place": "中国"
-  },
-  {
-   "id": "rss-3092353193",
-   "title": "中国・景徳鎮の陶磁器博覧会、伝統と最新技術が融合",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.064,
-   "lon": 115.858,
-   "cat": "other",
-   "at": "2026-11-16T06:50:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662303",
    "place": "中国"
   },
   {
@@ -552,18 +588,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261115de76042",
    "place": "NATO本部"
-  },
-  {
-   "id": "rss-3731568503",
-   "title": "アメリカ 航空機運航停止の影響で14日も混乱続く",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 38.394,
-   "lon": -76.954,
-   "cat": "other",
-   "at": "2026-11-14T21:31:25.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261115de76032",
-   "place": "アメリカ"
   },
   {
    "id": "20261112-us-midterm-trump",
