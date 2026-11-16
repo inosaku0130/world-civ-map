@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-16T02:10:47.382Z",
+ "updatedAt": "2026-11-16T03:26:27.611Z",
  "items": [
+  {
+   "id": "rss-1925805001",
+   "title": "イラン、バーレーンの米軍基地をドローン攻撃",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 35.997,
+   "lon": 51.038,
+   "cat": "conflict",
+   "at": "2026-11-16T02:51:32.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/c85y1w3e7lnno?at_medium=RSS&at_campaign=rss",
+   "place": "イラン"
+  },
+  {
+   "id": "rss-2120729341",
+   "title": "パリ警察、一部の高校・大学の周囲で5日間の抗議禁止",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 48.447,
+   "lon": 2.638,
+   "cat": "politics",
+   "at": "2026-11-16T02:43:35.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/cq7825lr047go?at_medium=RSS&at_campaign=rss",
+   "place": "パリ"
+  },
   {
    "id": "rss-1811577365",
    "title": "ゼレンスキー氏、スターリンクの制限解除を米国とマスク氏に要請 「歴史の正しい側に立つ」よう訴え",
@@ -372,18 +396,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/usa/35254881.html?ref=rss",
    "place": "イラン"
-  },
-  {
-   "id": "rss-3160596502",
-   "title": "北朝鮮ハッカー集団、AI偽動画使い640億円以上窃取 FBIが警告",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 38.917,
-   "lon": 126.374,
-   "cat": "other",
-   "at": "2026-11-14T03:25:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662377",
-   "place": "北朝鮮"
   },
   {
    "id": "20261112-us-midterm-trump",
