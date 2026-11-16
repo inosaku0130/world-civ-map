@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-15T23:46:16.894Z",
+ "updatedAt": "2026-11-16T00:36:41.799Z",
  "items": [
+  {
+   "id": "rss-2421968609",
+   "title": "イスラエル、ガザでハマスの幹部司令官を殺害 前任者の殺害から2カ月後",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 31.428,
+   "lon": 35.136,
+   "cat": "conflict",
+   "at": "2026-11-16T00:10:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/world/35254923.html?ref=rss",
+   "place": "ガザ"
+  },
+  {
+   "id": "rss-999909506",
+   "title": "フーシ派がアデンに進軍、イエメン政府軍は紅海沿岸地域から撤退",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 20.424,
+   "lon": 38.303,
+   "cat": "other",
+   "at": "2026-11-15T23:58:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662470",
+   "place": "紅海"
+  },
   {
    "id": "rss-3096714523",
    "title": "ヘンリー英王子、ウクライナで負傷兵と面会 「あなた方は戦争に勝つ」",
@@ -360,18 +384,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/world/35254877.html?ref=rss",
    "place": "ロシア"
-  },
-  {
-   "id": "rss-3093338931",
-   "title": "米中ロ首脳、来週会談へ 核兵器削減やイラン戦争を協議",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 35.698,
-   "lon": 52.163,
-   "cat": "conflict",
-   "at": "2026-11-14T00:06:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662363",
-   "place": "イラン"
   },
   {
    "id": "20261112-us-midterm-trump",
