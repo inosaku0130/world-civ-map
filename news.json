@@ -1,6 +1,78 @@
 {
- "updatedAt": "2026-11-16T03:26:27.611Z",
+ "updatedAt": "2026-11-16T05:00:05.133Z",
  "items": [
+  {
+   "id": "rss-19746353",
+   "title": "イギリスで性交同意年齢の引き上げを議論へ、著名人による性加害事件受け",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 51.658,
+   "lon": -0.695,
+   "cat": "other",
+   "at": "2026-11-16T04:47:48.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/c60qj0evd3l0o?at_medium=RSS&at_campaign=rss",
+   "place": "イギリス"
+  },
+  {
+   "id": "rss-1912590510",
+   "title": "韓国の半導体製造の一大拠点公開 課題の中小企業育成へ",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 37.431,
+   "lon": 127.556,
+   "cat": "economy",
+   "at": "2026-11-16T04:09:06.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261116de76485",
+   "place": "韓国"
+  },
+  {
+   "id": "rss-1561212714",
+   "title": "豪、中国の鉄鉱石貿易「操作」に懸念 経済への打撃警戒",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.839,
+   "lon": 117.08,
+   "cat": "economy",
+   "at": "2026-11-16T03:54:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662562",
+   "place": "中国"
+  },
+  {
+   "id": "rss-1544435095",
+   "title": "パリ、一部高校・大学周辺で無届けデモ禁止 学校封鎖続く",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 48.804,
+   "lon": 3.113,
+   "cat": "politics",
+   "at": "2026-11-16T03:53:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662561",
+   "place": "パリ"
+  },
+  {
+   "id": "rss-1645134344",
+   "title": "アメリカ・中国・ロシアの3か国首脳会談 中国も正式に発表",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.602,
+   "lon": 116.842,
+   "cat": "diplomacy",
+   "at": "2026-11-16T03:38:34.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261116de76469",
+   "place": "中国"
+  },
+  {
+   "id": "rss-1628356725",
+   "title": "エストニア ロシア国境検問所閉鎖へ 放火事件にロシア関与か",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 59.132,
+   "lon": 25.718,
+   "cat": "other",
+   "at": "2026-11-16T03:28:00.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261116de76466",
+   "place": "エストニア"
+  },
   {
    "id": "rss-1925805001",
    "title": "イラン、バーレーンの米軍基地をドローン攻撃",
@@ -242,30 +314,6 @@
    "place": "マイアミ"
   },
   {
-   "id": "rss-3125908431",
-   "title": "中国国際輸入博覧会、世界各国の食品が集結",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.407,
-   "lon": 116.504,
-   "cat": "other",
-   "at": "2026-11-15T06:50:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662305",
-   "place": "中国"
-  },
-  {
-   "id": "rss-3047514499",
-   "title": "豪比、新防衛協定に署名 中国の軍事的存在感増す中",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.529,
-   "lon": 116.744,
-   "cat": "conflict",
-   "at": "2026-11-15T06:40:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662424",
-   "place": "中国"
-  },
-  {
    "id": "rss-1184757505",
    "title": "国家資格試験でAI使用、トップ合格者が不正自白 韓国警察が捜査",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -384,18 +432,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261114de75906",
    "place": "ニューヨーク"
-  },
-  {
-   "id": "rss-1254731887",
-   "title": "イランが湾岸地域の米軍施設を攻撃、2カ月ぶり 合意の望み薄れる中",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 35.955,
-   "lon": 50.905,
-   "cat": "conflict",
-   "at": "2026-11-14T04:18:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/usa/35254881.html?ref=rss",
-   "place": "イラン"
   },
   {
    "id": "20261112-us-midterm-trump",
