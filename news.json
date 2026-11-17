@@ -1,6 +1,78 @@
 {
- "updatedAt": "2026-11-17T00:28:51.405Z",
+ "updatedAt": "2026-11-17T01:56:52.664Z",
  "items": [
+  {
+   "id": "rss-727520582",
+   "title": "新ロシア大使に宇山秀樹氏 元外務省欧州局長 政府が閣議決定",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 56.001,
+   "lon": 37.18,
+   "cat": "diplomacy",
+   "at": "2026-11-17T01:49:30.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261117de76929",
+   "place": "ロシア"
+  },
+  {
+   "id": "rss-945776724",
+   "title": "ロシア機か 一時領空侵犯 福岡 沖ノ島周辺",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 33.05,
+   "lon": 130.518,
+   "cat": "other",
+   "at": "2026-11-17T01:37:43.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261117de76912",
+   "place": "福岡"
+  },
+  {
+   "id": "rss-3635145778",
+   "title": "イランが米首都で「汚い爆弾」の使用を計画か 米情報機関 CNN EXCLUSIVE",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 35.467,
+   "lon": 51.931,
+   "cat": "other",
+   "at": "2026-11-17T01:37:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/usa/35254985.html?ref=rss",
+   "place": "イラン"
+  },
+  {
+   "id": "rss-4092379797",
+   "title": "ロシア軍機が韓国の防空識別圏に進入、韓国軍が戦闘機出動",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.712,
+   "lon": 38.394,
+   "cat": "conflict",
+   "at": "2026-11-17T01:34:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662703",
+   "place": "ロシア"
+  },
+  {
+   "id": "rss-1278457682",
+   "title": "モスクワ車爆弾事件、ロシア人女性を拘束 親ロシア派ウクライナ人政治家の元側近が負傷",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 56.025,
+   "lon": 37.135,
+   "cat": "other",
+   "at": "2026-11-17T01:07:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/world/35254982.html?ref=rss",
+   "place": "モスクワ"
+  },
+  {
+   "id": "rss-3866084516",
+   "title": "ロシア軍のウクライナ南部の村への攻撃、死者72人に 当局発表",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.186,
+   "lon": 37.617,
+   "cat": "conflict",
+   "at": "2026-11-17T00:40:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662689",
+   "place": "ロシア"
+  },
   {
    "id": "rss-2774684290",
    "title": "インドネシアでM6.6の地震、津波のおそれなし",
@@ -14,18 +86,6 @@
    "place": "インドネシア"
   },
   {
-   "id": "rss-2741129052",
-   "title": "ロシア高官 和平協議への欧州参加「合意していない」",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.669,
-   "lon": 38.26,
-   "cat": "diplomacy",
-   "at": "2026-11-16T23:17:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261117de76905",
-   "place": "ロシア"
-  },
-  {
    "id": "rss-2724351433",
    "title": "アメリカ商務省 先端半導体の中国などへのう回輸出防ぐ新規則",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -36,18 +96,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261117de76902",
    "place": "中国"
-  },
-  {
-   "id": "rss-2757906671",
-   "title": "ロシア高官 米中ロ３か国首脳会談の共同声明検討",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 56.066,
-   "lon": 37.19,
-   "cat": "diplomacy",
-   "at": "2026-11-16T23:13:31.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261117de76904",
-   "place": "ロシア"
   },
   {
    "id": "rss-1785910023",
@@ -72,18 +120,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662674",
    "place": "ウクライナ"
-  },
-  {
-   "id": "rss-3199795070",
-   "title": "ロシア報道官 日ロ首脳会談の可能性「排除せず」",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.315,
-   "lon": 37.788,
-   "cat": "diplomacy",
-   "at": "2026-11-16T22:21:48.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261117de76899",
-   "place": "ロシア"
   },
   {
    "id": "rss-3285948831",
@@ -516,18 +552,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662435",
    "place": "北京"
-  },
-  {
-   "id": "rss-3030589785",
-   "title": "バーレーンで複数回の爆発音、イランが米軍基地攻撃を主張",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 36.174,
-   "lon": 51.273,
-   "cat": "conflict",
-   "at": "2026-11-15T07:30:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662431",
-   "place": "イラン"
   },
   {
    "id": "rss-1555026333",
