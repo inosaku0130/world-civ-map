@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T11:30:30.589Z",
+ "updatedAt": "2026-11-17T12:38:31.043Z",
  "items": [
   {
    "id": "rss-4159908651",
@@ -780,18 +780,6 @@
    "source": "WORLD Radio",
    "url": "https://wng.org/podcasts/thursday-morning-news-november-12-2026-1794436796",
    "place": "アブダビ"
-  },
-  {
-   "id": "20261110-sudan-blue-nile-drone",
-   "title": "スーダン青ナイル州で無人機攻撃、9人死亡",
-   "summary": "州都ダマジン近郊の村が攻撃を受けた。RSFによるものとみられている。",
-   "lat": 11.79,
-   "lon": 34.36,
-   "cat": "conflict",
-   "at": "2026-11-10T12:00:00Z",
-   "source": "CFR Global Conflict Tracker",
-   "url": "https://www.cfr.org/global-conflict-tracker/conflict/power-struggle-sudan",
-   "place": "スーダン・ダマジン近郊"
   }
  ]
 }
