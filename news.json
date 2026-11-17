@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-17T20:57:53.430Z",
+ "updatedAt": "2026-11-17T21:54:45.770Z",
  "items": [
+  {
+   "id": "rss-4050467347",
+   "title": "トランプ大統領 米中ロ首脳会談に向け中国へ",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.719,
+   "lon": 116.997,
+   "cat": "diplomacy",
+   "at": "2026-11-17T21:21:36.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261118de77483",
+   "place": "中国"
+  },
   {
    "id": "rss-2071252758",
    "title": "ロシア 米中ロ首脳会談を\"孤立していないと示す場\"として重視",
@@ -132,18 +144,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662850",
    "place": "韓国"
-  },
-  {
-   "id": "rss-2096511777",
-   "title": "中国、米国の半導体輸出規制強化に反発 「必要な措置」講じる方針",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.399,
-   "lon": 116.304,
-   "cat": "economy",
-   "at": "2026-11-17T08:42:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662844",
-   "place": "中国"
   },
   {
    "id": "rss-2930378486",
@@ -696,18 +696,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261115de76314",
    "place": "ミャンマー"
-  },
-  {
-   "id": "rss-1607717196",
-   "title": "ASEAN 南シナ海「行動規範」 年内妥結は見送りに",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 11.798,
-   "lon": 114.57,
-   "cat": "other",
-   "at": "2026-11-15T21:12:18.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261115de76312",
-   "place": "南シナ海"
   },
   {
    "id": "20261112-us-midterm-trump",
