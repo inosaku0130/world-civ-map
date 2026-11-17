@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-11-17T09:42:46.136Z",
+ "updatedAt": "2026-11-17T10:42:39.795Z",
  "items": [
+  {
+   "id": "rss-844816820",
+   "title": "高市首相 今夜クアッド首脳会合 中国念頭に“深刻懸念”表明へ",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.483,
+   "lon": 116.416,
+   "cat": "diplomacy",
+   "at": "2026-11-17T10:06:00.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261117de76934",
+   "place": "中国"
+  },
+  {
+   "id": "rss-1924178223",
+   "title": "トランプ大統領がマニラ到着 一連のアジア外交スタート",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 14.398,
+   "lon": 121.55,
+   "cat": "politics",
+   "at": "2026-11-17T10:04:00.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261117de77165",
+   "place": "マニラ"
+  },
+  {
+   "id": "rss-4065365434",
+   "title": "SNSで話題、韓国の「スカーフおじさん」 「買うな」のトークに大行列",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 38.111,
+   "lon": 126.94,
+   "cat": "other",
+   "at": "2026-11-17T09:47:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/travel/35255024.html?ref=rss",
+   "place": "韓国"
+  },
   {
    "id": "rss-4210241508",
    "title": "韓国大学入試、AI不正防止へ異例の警戒 眼鏡の確認や緊急警報送信も",
@@ -120,30 +156,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662603",
    "place": "中国"
-  },
-  {
-   "id": "rss-4001438301",
-   "title": "中国でイケメン屋台店主が話題 売り上げ急増",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.58,
-   "lon": 116.734,
-   "cat": "other",
-   "at": "2026-11-17T06:50:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662615",
-   "place": "中国"
-  },
-  {
-   "id": "rss-354402767",
-   "title": "韓国の税理士試験トップ合格者、生成AIなどを使った不正認める",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 37.053,
-   "lon": 127.129,
-   "cat": "other",
-   "at": "2026-11-17T06:38:35.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/c6wy0dd09pd8o?at_medium=RSS&at_campaign=rss",
-   "place": "韓国"
   },
   {
    "id": "rss-2911489150",
