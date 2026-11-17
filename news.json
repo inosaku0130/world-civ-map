@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T22:55:49.352Z",
+ "updatedAt": "2026-11-17T23:52:01.752Z",
  "items": [
   {
    "id": "rss-4244635389",
@@ -696,18 +696,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662470",
    "place": "紅海"
-  },
-  {
-   "id": "rss-3096714523",
-   "title": "ヘンリー英王子、ウクライナで負傷兵と面会 「あなた方は戦争に勝つ」",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 50.955,
-   "lon": 30.355,
-   "cat": "conflict",
-   "at": "2026-11-15T23:08:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662459",
-   "place": "ウクライナ"
   },
   {
    "id": "20261112-us-midterm-trump",
