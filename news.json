@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-11-17T01:56:52.664Z",
+ "updatedAt": "2026-11-17T02:52:30.485Z",
  "items": [
+  {
+   "id": "rss-1745598919",
+   "title": "EU5カ国がルワンダに不法移民の強制送還センターを設置へ",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 50.544,
+   "lon": 4.78,
+   "cat": "other",
+   "at": "2026-11-17T02:40:19.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/cm62p3wnp6j4o?at_medium=RSS&at_campaign=rss",
+   "place": "EU（ブリュッセル）"
+  },
+  {
+   "id": "rss-32740452",
+   "title": "ロシア軍の攻撃、キーウの主要な橋2本に被害 市長発表",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 49.85,
+   "lon": 30.482,
+   "cat": "conflict",
+   "at": "2026-11-17T02:16:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662731",
+   "place": "キーウ"
+  },
+  {
+   "id": "rss-4193045511",
+   "title": "ウィリアム皇太子夫妻、ムンバイで地下鉄に乗車 環境配慮をアピール",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 19.38,
+   "lon": 72.442,
+   "cat": "other",
+   "at": "2026-11-17T01:54:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662709",
+   "place": "ムンバイ"
+  },
   {
    "id": "rss-727520582",
    "title": "新ロシア大使に宇山秀樹氏 元外務省欧州局長 政府が閣議決定",
@@ -600,18 +636,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/style/arts/35254899.html?ref=rss",
    "place": "パリ"
-  },
-  {
-   "id": "rss-3731568503",
-   "title": "アメリカ 空港で欠航や遅延トラブル 当局「15日中に正常化へ」",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 38.394,
-   "lon": -76.954,
-   "cat": "other",
-   "at": "2026-11-15T02:48:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261115de76032",
-   "place": "アメリカ"
   },
   {
    "id": "20261112-us-midterm-trump",
