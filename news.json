@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-17T15:57:37.083Z",
+ "updatedAt": "2026-11-17T20:57:53.430Z",
  "items": [
+  {
+   "id": "rss-2071252758",
+   "title": "ロシア 米中ロ首脳会談を\"孤立していないと示す場\"として重視",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.774,
+   "lon": 38.401,
+   "cat": "diplomacy",
+   "at": "2026-11-17T20:54:11.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261118de77479",
+   "place": "ロシア"
+  },
   {
    "id": "rss-315805692",
    "title": "日本政府がミャンマー避難民の就労を支援へ",
@@ -324,18 +336,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/usa/35254985.html?ref=rss",
    "place": "イラン"
-  },
-  {
-   "id": "rss-4092379797",
-   "title": "ロシア軍機が韓国の防空識別圏に進入、韓国軍が戦闘機出動",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.712,
-   "lon": 38.394,
-   "cat": "conflict",
-   "at": "2026-11-17T01:34:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662703",
-   "place": "ロシア"
   },
   {
    "id": "rss-1278457682",
@@ -708,18 +708,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261115de76312",
    "place": "南シナ海"
-  },
-  {
-   "id": "rss-1925845442",
-   "title": "イエメン 暫定政権側 バーブルマンデブ海峡から撤退報道も",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 15.822,
-   "lon": 44.032,
-   "cat": "politics",
-   "at": "2026-11-15T20:51:47.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261116de76328",
-   "place": "イエメン"
   },
   {
    "id": "20261112-us-midterm-trump",
