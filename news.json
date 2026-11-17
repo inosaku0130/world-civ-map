@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-11-17T03:54:48.339Z",
+ "updatedAt": "2026-11-17T06:00:11.420Z",
  "items": [
+  {
+   "id": "rss-2911489150",
+   "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月17日の動き）",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 56.164,
+   "lon": 37.398,
+   "cat": "conflict",
+   "at": "2026-11-17T05:55:14.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261028de67092",
+   "place": "ロシア"
+  },
+  {
+   "id": "rss-2104529070",
+   "title": "トランプ氏、中国スパイ疑惑の女性について習氏と協議する「かもしれない」",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.213,
+   "lon": 115.979,
+   "cat": "diplomacy",
+   "at": "2026-11-17T05:54:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/usa/35255007.html?ref=rss",
+   "place": "中国"
+  },
+  {
+   "id": "rss-3618913492",
+   "title": "ウクライナが過去最大のドローン攻撃、クリミア半島の象徴的な橋に被害とロシア",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 45.458,
+   "lon": 33.938,
+   "cat": "conflict",
+   "at": "2026-11-17T05:22:06.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/cvde1k4e7p3xo?at_medium=RSS&at_campaign=rss",
+   "place": "クリミア"
+  },
   {
    "id": "rss-1845980932",
    "title": "「ボスの中のボス」、有力カルテル率いた受刑者が80歳で病死 メキシコ",
@@ -134,18 +170,6 @@
    "place": "モスクワ"
   },
   {
-   "id": "rss-3866084516",
-   "title": "ロシア軍のウクライナ南部の村への攻撃、死者72人に 当局発表",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.186,
-   "lon": 37.617,
-   "cat": "conflict",
-   "at": "2026-11-17T00:40:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662689",
-   "place": "ロシア"
-  },
-  {
    "id": "rss-2774684290",
    "title": "インドネシアでM6.6の地震、津波のおそれなし",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -192,18 +216,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662674",
    "place": "ウクライナ"
-  },
-  {
-   "id": "rss-3285948831",
-   "title": "クアッド首脳 中国動向念頭\"経済的威圧に深刻懸念表明\"で調整",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.341,
-   "lon": 116.493,
-   "cat": "diplomacy",
-   "at": "2026-11-16T20:35:03.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261117de76878",
-   "place": "中国"
   },
   {
    "id": "rss-3155196975",
@@ -624,30 +636,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/usa/35254906.html?ref=rss",
    "place": "マイアミ"
-  },
-  {
-   "id": "rss-1184757505",
-   "title": "国家資格試験でAI使用、トップ合格者が不正自白 韓国警察が捜査",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 37.152,
-   "lon": 127.185,
-   "cat": "other",
-   "at": "2026-11-15T05:42:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662417",
-   "place": "韓国"
-  },
-  {
-   "id": "rss-2658909084",
-   "title": "ベネズエラの天然資源輸出収入120億ドル 米国管理下の口座へ移管",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 10.878,
-   "lon": -67.207,
-   "cat": "economy",
-   "at": "2026-11-15T05:40:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662128",
-   "place": "ベネズエラ"
   },
   {
    "id": "20261112-us-midterm-trump",
