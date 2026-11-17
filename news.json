@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-17T21:54:45.770Z",
+ "updatedAt": "2026-11-17T22:55:49.352Z",
  "items": [
+  {
+   "id": "rss-4244635389",
+   "title": "クアッド首脳会議、マニラで開催",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 14.268,
+   "lon": 121.375,
+   "cat": "diplomacy",
+   "at": "2026-11-17T22:12:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662884",
+   "place": "マニラ"
+  },
+  {
+   "id": "rss-2003848092",
+   "title": "日米首脳が短時間懇談 インド太平洋情勢で緊密連携確認",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 28.52,
+   "lon": 77.852,
+   "cat": "diplomacy",
+   "at": "2026-11-17T21:56:51.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261118de77491",
+   "place": "インド"
+  },
   {
    "id": "rss-4050467347",
    "title": "トランプ大統領 米中ロ首脳会談に向け中国へ",
@@ -684,18 +708,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662459",
    "place": "ウクライナ"
-  },
-  {
-   "id": "rss-1574161958",
-   "title": "マグサイサイ賞授賞式 ミャンマー人権団体創設者などに授与",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 19.338,
-   "lon": 96.355,
-   "cat": "other",
-   "at": "2026-11-15T22:03:44.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261115de76314",
-   "place": "ミャンマー"
   },
   {
    "id": "20261112-us-midterm-trump",
