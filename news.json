@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-11-17T02:52:30.485Z",
+ "updatedAt": "2026-11-17T03:54:48.339Z",
  "items": [
+  {
+   "id": "rss-1845980932",
+   "title": "「ボスの中のボス」、有力カルテル率いた受刑者が80歳で病死 メキシコ",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 18.979,
+   "lon": -98.893,
+   "cat": "other",
+   "at": "2026-11-17T03:27:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/world/35254988.html?ref=rss",
+   "place": "メキシコ"
+  },
+  {
+   "id": "rss-844816820",
+   "title": "高市首相 今夜クアッド首脳会合 中国念頭に\"深刻懸念”表明へ",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.483,
+   "lon": 116.416,
+   "cat": "diplomacy",
+   "at": "2026-11-17T02:58:51.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261117de76934",
+   "place": "中国"
+  },
+  {
+   "id": "rss-4294152510",
+   "title": "推定ロシア機2機が領空侵犯、福岡県沖ノ島北西 政府が厳重抗議",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 33.211,
+   "lon": 130.656,
+   "cat": "politics",
+   "at": "2026-11-17T02:56:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662737",
+   "place": "福岡"
+  },
   {
    "id": "rss-1745598919",
    "title": "EU5カ国がルワンダに不法移民の強制送還センターを設置へ",
@@ -167,18 +203,6 @@
    "at": "2026-11-16T20:35:03.000Z",
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261117de76878",
-   "place": "中国"
-  },
-  {
-   "id": "rss-1437854241",
-   "title": "トランプ大統領 中国で「キム総書記と会うかもしれない」",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.756,
-   "lon": 117.046,
-   "cat": "politics",
-   "at": "2026-11-16T20:05:01.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261116de76866",
    "place": "中国"
   },
   {
@@ -624,18 +648,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662128",
    "place": "ベネズエラ"
-  },
-  {
-   "id": "rss-3810836741",
-   "title": "サザビーズによるピサロ絵画の売却、パリの裁判所が無効に",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 49.434,
-   "lon": 2.353,
-   "cat": "other",
-   "at": "2026-11-15T03:26:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/style/arts/35254899.html?ref=rss",
-   "place": "パリ"
   },
   {
    "id": "20261112-us-midterm-trump",
