@@ -1,6 +1,66 @@
 {
- "updatedAt": "2026-11-17T07:17:01.132Z",
+ "updatedAt": "2026-11-17T08:35:36.053Z",
  "items": [
+  {
+   "id": "rss-2930378486",
+   "title": "クリミア半島とロシア本土を結ぶ橋が一部崩落 ロシアとウクライナ、2夜連続で応酬",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 44.661,
+   "lon": 34.476,
+   "cat": "disaster",
+   "at": "2026-11-17T08:30:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/world/35255017.html?ref=rss",
+   "place": "クリミア"
+  },
+  {
+   "id": "rss-2113289396",
+   "title": "米アップル、iPhone修理妨害の疑いでパリで公判へ 「計画的陳腐化」か",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 48.295,
+   "lon": 2.435,
+   "cat": "other",
+   "at": "2026-11-17T08:13:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662843",
+   "place": "パリ"
+  },
+  {
+   "id": "rss-2269708272",
+   "title": "キーウの主要な橋2本をロシアが攻撃、市長が発表 米欧ウのオンライン協議の後に",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 50.892,
+   "lon": 30.347,
+   "cat": "conflict",
+   "at": "2026-11-17T07:49:22.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/ck3rgq2nr8rro?at_medium=RSS&at_campaign=rss",
+   "place": "キーウ"
+  },
+  {
+   "id": "rss-3559780544",
+   "title": "韓国、大学入試でスマートデバイス対策 受験者が着用するすべての眼鏡を検査へ",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 37.588,
+   "lon": 127.766,
+   "cat": "other",
+   "at": "2026-11-17T07:31:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/world/35254997.html?ref=rss",
+   "place": "韓国"
+  },
+  {
+   "id": "rss-1702830",
+   "title": "バーナム英首相、イギリスはEU離脱で得たものよりも失ったものの方が多かったと発言",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 51.884,
+   "lon": -0.392,
+   "cat": "politics",
+   "at": "2026-11-17T07:14:38.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/crgqx1p18275o?at_medium=RSS&at_campaign=rss",
+   "place": "イギリス"
+  },
   {
    "id": "rss-2058693365",
    "title": "欧州5か国 滞在資格ない移民をルワンダに移送計画 反発も",
@@ -50,6 +110,18 @@
    "place": "中国"
   },
   {
+   "id": "rss-844816820",
+   "title": "高市首相 今夜クアッド首脳会合 中国念頭に\"深刻懸念”表明へ",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.483,
+   "lon": 116.416,
+   "cat": "diplomacy",
+   "at": "2026-11-17T06:44:21.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261117de76934",
+   "place": "中国"
+  },
+  {
    "id": "rss-354402767",
    "title": "韓国の税理士試験トップ合格者、生成AIなどを使った不正認める",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -60,18 +132,6 @@
    "source": "BBC News Japan",
    "url": "https://www.bbc.com/japanese/articles/c6wy0dd09pd8o?at_medium=RSS&at_campaign=rss",
    "place": "韓国"
-  },
-  {
-   "id": "rss-2128265541",
-   "title": "金正恩氏、中国国境近くのスキーリゾート視察 米朝会談の観測広がる中",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.009,
-   "lon": 115.784,
-   "cat": "diplomacy",
-   "at": "2026-11-17T06:13:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662798",
-   "place": "中国"
   },
   {
    "id": "rss-2911489150",
@@ -648,18 +708,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261115de76209",
    "place": "ミャンマー"
-  },
-  {
-   "id": "rss-3097700261",
-   "title": "中国・北京、ドローンの所持・保管を全面禁止 新規制施行",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.397,
-   "lon": 116.301,
-   "cat": "conflict",
-   "at": "2026-11-15T08:06:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662435",
-   "place": "北京"
   },
   {
    "id": "20261112-us-midterm-trump",
