@@ -1,6 +1,78 @@
 {
- "updatedAt": "2026-11-17T06:00:11.420Z",
+ "updatedAt": "2026-11-17T07:17:01.132Z",
  "items": [
+  {
+   "id": "rss-2058693365",
+   "title": "欧州5か国 滞在資格ない移民をルワンダに移送計画 反発も",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": -2.372,
+   "lon": 30.335,
+   "cat": "other",
+   "at": "2026-11-17T07:04:00.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261117de77141",
+   "place": "ルワンダ"
+  },
+  {
+   "id": "rss-3953884591",
+   "title": "運航停止よりホワイトハウスの改修を優先か、記者の指摘にトランプ氏が反発",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 38.636,
+   "lon": -76.63,
+   "cat": "other",
+   "at": "2026-11-17T07:04:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/usa/35255006.html?ref=rss",
+   "place": "ワシントン"
+  },
+  {
+   "id": "rss-1887708570",
+   "title": "【三里河中国経済観察】外国企業が中国への投資を続ける理由",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.363,
+   "lon": 116.179,
+   "cat": "economy",
+   "at": "2026-11-17T07:00:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662603",
+   "place": "中国"
+  },
+  {
+   "id": "rss-4001438301",
+   "title": "中国でイケメン屋台店主が話題 売り上げ急増",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.58,
+   "lon": 116.734,
+   "cat": "other",
+   "at": "2026-11-17T06:50:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662615",
+   "place": "中国"
+  },
+  {
+   "id": "rss-354402767",
+   "title": "韓国の税理士試験トップ合格者、生成AIなどを使った不正認める",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 37.053,
+   "lon": 127.129,
+   "cat": "other",
+   "at": "2026-11-17T06:38:35.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/c6wy0dd09pd8o?at_medium=RSS&at_campaign=rss",
+   "place": "韓国"
+  },
+  {
+   "id": "rss-2128265541",
+   "title": "金正恩氏、中国国境近くのスキーリゾート視察 米朝会談の観測広がる中",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.009,
+   "lon": 115.784,
+   "cat": "diplomacy",
+   "at": "2026-11-17T06:13:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662798",
+   "place": "中国"
+  },
   {
    "id": "rss-2911489150",
    "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月17日の動き）",
@@ -12,18 +84,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261028de67092",
    "place": "ロシア"
-  },
-  {
-   "id": "rss-2104529070",
-   "title": "トランプ氏、中国スパイ疑惑の女性について習氏と協議する「かもしれない」",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.213,
-   "lon": 115.979,
-   "cat": "diplomacy",
-   "at": "2026-11-17T05:54:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/usa/35255007.html?ref=rss",
-   "place": "中国"
   },
   {
    "id": "rss-3618913492",
@@ -48,18 +108,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/world/35254988.html?ref=rss",
    "place": "メキシコ"
-  },
-  {
-   "id": "rss-844816820",
-   "title": "高市首相 今夜クアッド首脳会合 中国念頭に\"深刻懸念”表明へ",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.483,
-   "lon": 116.416,
-   "cat": "diplomacy",
-   "at": "2026-11-17T02:58:51.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261117de76934",
-   "place": "中国"
   },
   {
    "id": "rss-4294152510",
@@ -180,18 +228,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261117de76907",
    "place": "インドネシア"
-  },
-  {
-   "id": "rss-2724351433",
-   "title": "アメリカ商務省 先端半導体の中国などへのう回輸出防ぐ新規則",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.51,
-   "lon": 116.718,
-   "cat": "economy",
-   "at": "2026-11-16T23:14:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261117de76902",
-   "place": "中国"
   },
   {
    "id": "rss-1785910023",
@@ -624,18 +660,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662435",
    "place": "北京"
-  },
-  {
-   "id": "rss-1555026333",
-   "title": "空港滑走路で航空機同士が衝突、全米規模の運航停止の翌日 マイアミ",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 25.191,
-   "lon": -80.11,
-   "cat": "conflict",
-   "at": "2026-11-15T07:15:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/usa/35254906.html?ref=rss",
-   "place": "マイアミ"
   },
   {
    "id": "20261112-us-midterm-trump",
