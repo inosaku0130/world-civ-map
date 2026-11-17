@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T23:44:02.715Z",
+ "updatedAt": "2026-11-17T00:28:51.405Z",
  "items": [
   {
    "id": "rss-2774684290",
@@ -588,30 +588,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261115de76032",
    "place": "アメリカ"
-  },
-  {
-   "id": "rss-3429130076",
-   "title": "ゼレンスキー大統領“米がNATO加盟と交換で軍撤退を打診”",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 50.638,
-   "lon": 4.935,
-   "cat": "politics",
-   "at": "2026-11-15T00:01:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261115de76042",
-   "place": "NATO本部"
-  },
-  {
-   "id": "rss-1302347933",
-   "title": "日本がブラジル撃破！ 終了間際に坂元が決勝点 サッカー国際親善試合",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": -16.133,
-   "lon": -47.576,
-   "cat": "other",
-   "at": "2026-11-14T23:53:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662400",
-   "place": "ブラジル"
   },
   {
    "id": "20261112-us-midterm-trump",
