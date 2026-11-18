@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-18T07:59:01.307Z",
+ "updatedAt": "2026-11-18T09:04:15.398Z",
  "items": [
+  {
+   "id": "rss-507424731",
+   "title": "EUの域内生産EV優遇措置を検討 日本の鉄鋼業界から懸念の声",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 50.898,
+   "lon": 3.652,
+   "cat": "other",
+   "at": "2026-11-18T08:36:20.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261118de77689",
+   "place": "EU（ブリュッセル）"
+  },
   {
    "id": "rss-457238969",
    "title": "高市首相APECで中国到着 習主席出迎えは プーチン氏と接触調整",
@@ -120,6 +132,18 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/world/35255085.html?ref=rss",
    "place": "ロシア"
+  },
+  {
+   "id": "rss-1991705746",
+   "title": "米メトロポリタン美術館のジュエリーコレクション展が上海に上陸",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 31.408,
+   "lon": 120.868,
+   "cat": "other",
+   "at": "2026-11-18T06:00:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663073",
+   "place": "上海"
   },
   {
    "id": "rss-1990867103",
@@ -612,42 +636,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662648",
    "place": "国連本部"
-  },
-  {
-   "id": "rss-1241443892",
-   "title": "Bリーグワン東京Uが強豪 ・ 熊本とのGAME1に95 ― 83で勝利 （ スポニチ ）",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 36.248,
-   "lon": 139.755,
-   "cat": "other",
-   "at": "2026-11-16T08:15:00.000Z",
-   "source": "mainichi.jp",
-   "url": "https://mainichi.jp/articles/20261116/spp/sp0/004/234000c",
-   "place": "東京"
-  },
-  {
-   "id": "rss-333256078",
-   "title": "車いすでも利用しやすい 「 ＵＤタクシー 」 普及率 、 東京と地方で格差最大４０倍超 …「 高価で買えない 」 費用の壁",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 35.428,
-   "lon": 140.262,
-   "cat": "other",
-   "at": "2026-11-16T08:15:00.000Z",
-   "source": "yomiuri.co.jp",
-   "url": "https://www.yomiuri.co.jp/yomidr/article/20261116-GYT1T00019/",
-   "place": "東京"
-  },
-  {
-   "id": "rss-3866923159",
-   "title": "ウィリアム英皇太子夫妻、環境賞授賞式でインド訪問 路上クリケットも楽しむ",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 28.551,
-   "lon": 77.893,
-   "cat": "diplomacy",
-   "at": "2026-11-16T08:01:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662639",
-   "place": "インド"
   },
   {
    "id": "20261112-us-midterm-trump",
