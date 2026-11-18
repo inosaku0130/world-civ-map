@@ -1,6 +1,66 @@
 {
- "updatedAt": "2026-11-17T23:52:01.752Z",
+ "updatedAt": "2026-11-18T01:15:11.328Z",
  "items": [
+  {
+   "id": "rss-2855263331",
+   "title": "トランプ氏、アジア歴訪初日にフィリピン訪問 クアッド首脳会議に参加",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 14.32,
+   "lon": 121.369,
+   "cat": "diplomacy",
+   "at": "2026-11-18T01:04:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/world/35255038.html?ref=rss",
+   "place": "フィリピン"
+  },
+  {
+   "id": "rss-212078468",
+   "title": "米、ウクライナの対ロシア「深部攻撃」を批判 逆効果だと主張",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 50.953,
+   "lon": 30.429,
+   "cat": "conflict",
+   "at": "2026-11-18T00:45:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662906",
+   "place": "ウクライナ"
+  },
+  {
+   "id": "rss-1838715177",
+   "title": "米戦闘機、イランのミサイル発射施設を精密攻撃 「自衛のため」と説明",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 35.929,
+   "lon": 50.87,
+   "cat": "conflict",
+   "at": "2026-11-18T00:35:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/usa/35255040.html?ref=rss",
+   "place": "イラン"
+  },
+  {
+   "id": "rss-245633706",
+   "title": "ロシア外相、フランス兵のウクライナ派遣を「戦争への直接参加」と非難",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.221,
+   "lon": 37.663,
+   "cat": "conflict",
+   "at": "2026-11-18T00:16:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662904",
+   "place": "ロシア"
+  },
+  {
+   "id": "rss-195300849",
+   "title": "デンマーク首相、ルワンダへの不法移民送還拠点設置を正当化 国境管理は「私の信じる価値観」",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.687,
+   "lon": 10.534,
+   "cat": "politics",
+   "at": "2026-11-17T23:50:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662901",
+   "place": "デンマーク"
+  },
   {
    "id": "rss-4244635389",
    "title": "クアッド首脳会議、マニラで開催",
@@ -326,18 +386,6 @@
    "place": "ムンバイ"
   },
   {
-   "id": "rss-727520582",
-   "title": "新ロシア大使に宇山秀樹氏 元外務省欧州局長 政府が閣議決定",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 56.001,
-   "lon": 37.18,
-   "cat": "diplomacy",
-   "at": "2026-11-17T01:49:30.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261117de76929",
-   "place": "ロシア"
-  },
-  {
    "id": "rss-945776724",
    "title": "ロシア機か 一時領空侵犯 福岡 沖ノ島周辺",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -614,18 +662,6 @@
    "place": "エストニア"
   },
   {
-   "id": "rss-1925805001",
-   "title": "イラン、バーレーンの米軍基地をドローン攻撃",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 35.997,
-   "lon": 51.038,
-   "cat": "conflict",
-   "at": "2026-11-16T02:51:32.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/c85y1w3e7lnno?at_medium=RSS&at_campaign=rss",
-   "place": "イラン"
-  },
-  {
    "id": "rss-2120729341",
    "title": "パリ警察、一部の高校・大学の周囲で5日間の抗議禁止",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -648,54 +684,6 @@
    "source": "BBC News Japan",
    "url": "https://www.bbc.com/japanese/articles/cm4gnzgeglj6o?at_medium=RSS&at_campaign=rss",
    "place": "アメリカ"
-  },
-  {
-   "id": "rss-3082055475",
-   "title": "エストニアがロシアとの国境閉鎖へ、防衛企業への放火未遂受け",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 58.402,
-   "lon": 26.345,
-   "cat": "economy",
-   "at": "2026-11-16T01:01:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662486",
-   "place": "エストニア"
-  },
-  {
-   "id": "rss-1045344971",
-   "title": "エストニア、ロシアとの国境を閉鎖へ 破壊工作を計画とロシア政府を非難",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 58.332,
-   "lon": 26.25,
-   "cat": "other",
-   "at": "2026-11-16T00:47:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/world/35254925.html?ref=rss",
-   "place": "エストニア"
-  },
-  {
-   "id": "rss-2421968609",
-   "title": "イスラエル、ガザでハマスの幹部司令官を殺害 前任者の殺害から2カ月後",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 31.428,
-   "lon": 35.136,
-   "cat": "conflict",
-   "at": "2026-11-16T00:10:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/world/35254923.html?ref=rss",
-   "place": "ガザ"
-  },
-  {
-   "id": "rss-999909506",
-   "title": "フーシ派がアデンに進軍、イエメン政府軍は紅海沿岸地域から撤退",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 20.424,
-   "lon": 38.303,
-   "cat": "other",
-   "at": "2026-11-15T23:58:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662470",
-   "place": "紅海"
   },
   {
    "id": "20261112-us-midterm-trump",
