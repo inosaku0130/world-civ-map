@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-18T17:42:08.543Z",
+ "updatedAt": "2026-11-18T20:37:30.248Z",
  "items": [
+  {
+   "id": "rss-1334557715",
+   "title": "ペルーのケイコ・フジモリ大統領が来日し高市首相と会談へ",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": -12.645,
+   "lon": -76.995,
+   "cat": "diplomacy",
+   "at": "2026-11-18T20:23:17.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261119de78085",
+   "place": "ペルー"
+  },
+  {
+   "id": "rss-3532572899",
+   "title": "米中ロ首脳会談 ウクライナ外相「当事国抜きの決定は不可能」",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 50.93,
+   "lon": 30.398,
+   "cat": "diplomacy",
+   "at": "2026-11-18T19:47:00.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261119de78096",
+   "place": "ウクライナ"
+  },
   {
    "id": "rss-1368112953",
    "title": "EUがウクライナに7兆円余の追加融資へ「和平協議で優位に」",
@@ -660,18 +684,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662675",
    "place": "北朝鮮"
-  },
-  {
-   "id": "rss-1769132404",
-   "title": "ルペン氏、当選すればウクライナへの財政支援打ち切りと表明 仏大統領選",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 50.491,
-   "lon": 29.736,
-   "cat": "politics",
-   "at": "2026-11-16T22:53:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662674",
-   "place": "ウクライナ"
   },
   {
    "id": "20261112-us-midterm-trump",
