@@ -1,6 +1,54 @@
 {
- "updatedAt": "2026-11-18T05:29:48.299Z",
+ "updatedAt": "2026-11-18T06:43:41.143Z",
  "items": [
+  {
+   "id": "rss-103074147",
+   "title": "ロシアと中国、首脳が両国関係の安定を強調 トランプ氏との会談控え",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.314,
+   "lon": 37.313,
+   "cat": "diplomacy",
+   "at": "2026-11-18T06:31:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/world/35255085.html?ref=rss",
+   "place": "ロシア"
+  },
+  {
+   "id": "rss-61838276",
+   "title": "中国・習主席、AI分野で国際協力強化呼び掛け APEC会合で",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.454,
+   "lon": 116.378,
+   "cat": "other",
+   "at": "2026-11-18T06:28:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663040",
+   "place": "中国"
+  },
+  {
+   "id": "rss-2222251329",
+   "title": "高市首相APECで中国へ出発 習主席対応は プーチン氏と接触調整",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.199,
+   "lon": 116.037,
+   "cat": "politics",
+   "at": "2026-11-18T05:52:03.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261118de77470",
+   "place": "中国"
+  },
+  {
+   "id": "rss-1990867103",
+   "title": "イラン、米での化学兵器使用計画を否定 「ばかげている」",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 35.653,
+   "lon": 52.179,
+   "cat": "other",
+   "at": "2026-11-18T05:37:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663023",
+   "place": "イラン"
+  },
   {
    "id": "rss-1127644676",
    "title": "ロシアに攻撃されたキーウの橋からBBC報告 「橋をめぐる戦い」",
@@ -254,30 +302,6 @@
    "place": "インド"
   },
   {
-   "id": "rss-4050467347",
-   "title": "トランプ大統領 米中ロ首脳会談に向け中国へ",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.719,
-   "lon": 116.997,
-   "cat": "diplomacy",
-   "at": "2026-11-17T21:21:36.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261118de77483",
-   "place": "中国"
-  },
-  {
-   "id": "rss-2071252758",
-   "title": "ロシア 米中ロ首脳会談を\"孤立していないと示す場\"として重視",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.774,
-   "lon": 38.401,
-   "cat": "diplomacy",
-   "at": "2026-11-17T20:54:11.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261118de77479",
-   "place": "ロシア"
-  },
-  {
    "id": "rss-315805692",
    "title": "日本政府がミャンマー避難民の就労を支援へ",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -288,6 +312,18 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261117de77454",
    "place": "ミャンマー"
+  },
+  {
+   "id": "rss-1924178223",
+   "title": "トランプ大統領がマニラ到着 一連のアジア外交スタート",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 14.398,
+   "lon": 121.55,
+   "cat": "politics",
+   "at": "2026-11-17T15:07:46.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261117de77165",
+   "place": "マニラ"
   },
   {
    "id": "rss-299175168",
@@ -312,30 +348,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261117de77424",
    "place": "韓国"
-  },
-  {
-   "id": "rss-333716144",
-   "title": "中国外務省 米の先端半導体輸出新規則に反発",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.87,
-   "lon": 117.122,
-   "cat": "economy",
-   "at": "2026-11-17T13:42:47.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261117de77425",
-   "place": "中国"
-  },
-  {
-   "id": "rss-4159908651",
-   "title": "トランプ米大統領、マニラに到着 ASEAN首脳会議出席へ",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 14.188,
-   "lon": 121.27,
-   "cat": "diplomacy",
-   "at": "2026-11-17T11:05:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662855",
-   "place": "マニラ"
   },
   {
    "id": "rss-4143131032",
@@ -518,18 +530,6 @@
    "place": "福岡"
   },
   {
-   "id": "rss-3635145778",
-   "title": "イランが米首都で「汚い爆弾」の使用を計画か 米情報機関 CNN EXCLUSIVE",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 35.467,
-   "lon": 51.931,
-   "cat": "other",
-   "at": "2026-11-17T01:37:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/usa/35254985.html?ref=rss",
-   "place": "イラン"
-  },
-  {
    "id": "rss-1278457682",
    "title": "モスクワ車爆弾事件、ロシア人女性を拘束 親ロシア派ウクライナ人政治家の元側近が負傷",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -672,42 +672,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662618",
    "place": "北京"
-  },
-  {
-   "id": "rss-1854153332",
-   "title": "イスラエル軍、AFPに映像提供のフリー記者拘束 ハマスとの関係疑う",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 30.748,
-   "lon": 34.123,
-   "cat": "other",
-   "at": "2026-11-16T06:22:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662601",
-   "place": "イスラエル"
-  },
-  {
-   "id": "rss-3977664670",
-   "title": "香港のディズニーで不正アクセス 電子チケット盗み取られたか",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 22.198,
-   "lon": 114.768,
-   "cat": "other",
-   "at": "2026-11-16T05:54:07.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261116de76430",
-   "place": "香港"
-  },
-  {
-   "id": "rss-1162468431",
-   "title": "チェコ公共放送、財源を受信料から国家予算に移す政府案 数十万人が抗議",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 50.215,
-   "lon": 14.972,
-   "cat": "politics",
-   "at": "2026-11-16T05:34:22.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cmx20pd8wkk9o?at_medium=RSS&at_campaign=rss",
-   "place": "チェコ"
   },
   {
    "id": "20261112-us-midterm-trump",
