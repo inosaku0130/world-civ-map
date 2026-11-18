@@ -1,6 +1,54 @@
 {
- "updatedAt": "2026-11-18T02:27:07.614Z",
+ "updatedAt": "2026-11-18T03:23:03.482Z",
  "items": [
+  {
+   "id": "rss-3977607252",
+   "title": "アメリカ 国家安全保障局の機密通信が停止 大規模障害相次ぐ",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.129,
+   "lon": -77.573,
+   "cat": "other",
+   "at": "2026-11-18T03:21:27.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261118de77569",
+   "place": "アメリカ"
+  },
+  {
+   "id": "rss-4203768694",
+   "title": "遺伝子編集試験で6歳女児死亡、隠蔽した中国人科学者を解任",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.135,
+   "lon": 115.875,
+   "cat": "conflict",
+   "at": "2026-11-18T03:03:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662980",
+   "place": "中国"
+  },
+  {
+   "id": "rss-2157737819",
+   "title": "米国のはしか「排除国」認定取り消し ワクチン接種率低下で感染急増",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.091,
+   "lon": -77.624,
+   "cat": "disaster",
+   "at": "2026-11-18T02:31:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662958",
+   "place": "アメリカ"
+  },
+  {
+   "id": "rss-1896447021",
+   "title": "WHO地域機関 アメリカのはしか“排除認定”を取り消し",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 38.388,
+   "lon": -76.962,
+   "cat": "other",
+   "at": "2026-11-18T02:27:00.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261118de77539",
+   "place": "アメリカ"
+  },
   {
    "id": "rss-1319121432",
    "title": "ロシアとクリミアを結ぶ橋が一部崩落 ゼレンスキー氏はウクライナの「前例のない」攻撃を称賛",
@@ -240,18 +288,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662854",
    "place": "ウクライナ"
-  },
-  {
-   "id": "rss-844816820",
-   "title": "高市首相 今夜クアッド首脳会合 中国念頭に“深刻懸念”表明へ",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.483,
-   "lon": 116.416,
-   "cat": "diplomacy",
-   "at": "2026-11-17T10:06:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261117de76934",
-   "place": "中国"
   },
   {
    "id": "rss-1924178223",
@@ -494,18 +530,6 @@
    "place": "ウクライナ"
   },
   {
-   "id": "rss-3155196975",
-   "title": "世界の「汚職度」ランキング、米国が過去最低順位に転落",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 38.67,
-   "lon": -76.509,
-   "cat": "other",
-   "at": "2026-11-16T10:05:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/business/35254961.html?ref=rss",
-   "place": "アメリカ"
-  },
-  {
    "id": "rss-3749332731",
    "title": "国連、「殺人ロボット」規制めぐり協議 主要国は慎重姿勢",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -672,18 +696,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76466",
    "place": "エストニア"
-  },
-  {
-   "id": "rss-2120729341",
-   "title": "パリ警察、一部の高校・大学の周囲で5日間の抗議禁止",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 48.447,
-   "lon": 2.638,
-   "cat": "politics",
-   "at": "2026-11-16T02:43:35.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cq7825lr047go?at_medium=RSS&at_campaign=rss",
-   "place": "パリ"
   },
   {
    "id": "20261112-us-midterm-trump",
