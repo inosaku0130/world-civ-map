@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-11-18T03:23:03.482Z",
+ "updatedAt": "2026-11-18T04:25:01.199Z",
  "items": [
+  {
+   "id": "rss-2256729679",
+   "title": "米国土安全保障長官、アメフト観戦での飛行機移動を擁護 運航停止の影響残る中",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 38.382,
+   "lon": -76.893,
+   "cat": "other",
+   "at": "2026-11-18T03:48:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/usa/35255060.html?ref=rss",
+   "place": "アメリカ"
+  },
+  {
+   "id": "rss-9614207",
+   "title": "イタリア議会、反ユダヤ主義対策法案を可決 イスラエル批判への影響めぐり賛否",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 41.506,
+   "lon": 12.814,
+   "cat": "politics",
+   "at": "2026-11-18T03:44:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662990",
+   "place": "イタリア"
+  },
+  {
+   "id": "rss-1509809529",
+   "title": "漁船を襲った謎のドローン攻撃、エクアドルの漁師が米政府を提訴 EEZ内で攻撃と主張",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": -0.941,
+   "lon": -78.593,
+   "cat": "conflict",
+   "at": "2026-11-18T03:23:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/world/35255061.html?ref=rss",
+   "place": "エクアドル"
+  },
   {
    "id": "rss-3977607252",
    "title": "アメリカ 国家安全保障局の機密通信が停止 大規模障害相次ぐ",
@@ -35,18 +71,6 @@
    "at": "2026-11-18T02:31:00.000Z",
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662958",
-   "place": "アメリカ"
-  },
-  {
-   "id": "rss-1896447021",
-   "title": "WHO地域機関 アメリカのはしか“排除認定”を取り消し",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 38.388,
-   "lon": -76.962,
-   "cat": "other",
-   "at": "2026-11-18T02:27:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261118de77539",
    "place": "アメリカ"
   },
   {
@@ -672,30 +696,6 @@
    "source": "BBC News Japan",
    "url": "https://www.bbc.com/japanese/articles/c60qj0evd3l0o?at_medium=RSS&at_campaign=rss",
    "place": "イギリス"
-  },
-  {
-   "id": "rss-1544435095",
-   "title": "パリ、一部高校・大学周辺で無届けデモ禁止 学校封鎖続く",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 48.804,
-   "lon": 3.113,
-   "cat": "politics",
-   "at": "2026-11-16T03:53:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662561",
-   "place": "パリ"
-  },
-  {
-   "id": "rss-1628356725",
-   "title": "エストニア ロシア国境検問所閉鎖へ 放火事件にロシア関与か",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 59.132,
-   "lon": 25.718,
-   "cat": "other",
-   "at": "2026-11-16T03:28:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261116de76466",
-   "place": "エストニア"
   },
   {
    "id": "20261112-us-midterm-trump",
