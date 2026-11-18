@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-18T10:04:27.683Z",
+ "updatedAt": "2026-11-18T11:06:38.991Z",
  "items": [
+  {
+   "id": "rss-2126220888",
+   "title": "イスラエル、英国の入植地関連企業への制裁に報復表明",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 30.58,
+   "lon": 33.976,
+   "cat": "diplomacy",
+   "at": "2026-11-18T10:55:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663093",
+   "place": "イスラエル"
+  },
+  {
+   "id": "rss-2159776126",
+   "title": "トランプ氏と高市首相が中国入り 習主席、米大統領を空港で出迎え",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.016,
+   "lon": 115.794,
+   "cat": "politics",
+   "at": "2026-11-18T10:11:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663091",
+   "place": "中国"
+  },
   {
    "id": "rss-3718816",
    "title": "ロシアのスパイ容疑で英警察が逮捕した米兵、身柄を米軍に移送",
@@ -108,18 +132,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662800",
    "place": "上海"
-  },
-  {
-   "id": "rss-3825114841",
-   "title": "【解説】 エヌビディアめぐるスパイ疑惑、中国のAI構想にとって想定外の障害に 米中首脳が会談へ",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.253,
-   "lon": 116.109,
-   "cat": "diplomacy",
-   "at": "2026-11-18T06:58:29.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cqz0kl38nyzeo?at_medium=RSS&at_campaign=rss",
-   "place": "中国"
   },
   {
    "id": "rss-2928266769",
