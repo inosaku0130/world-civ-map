@@ -1,6 +1,66 @@
 {
- "updatedAt": "2026-11-18T01:15:11.328Z",
+ "updatedAt": "2026-11-18T02:27:07.614Z",
  "items": [
+  {
+   "id": "rss-1319121432",
+   "title": "ロシアとクリミアを結ぶ橋が一部崩落 ゼレンスキー氏はウクライナの「前例のない」攻撃を称賛",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 45.252,
+   "lon": 33.665,
+   "cat": "disaster",
+   "at": "2026-11-18T02:09:17.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/c6ewv5x7g544o?at_medium=RSS&at_campaign=rss",
+   "place": "クリミア"
+  },
+  {
+   "id": "rss-1762226069",
+   "title": "米軍がイランのミサイル施設を攻撃 両者で攻撃の応酬に",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 35.625,
+   "lon": 52.065,
+   "cat": "conflict",
+   "at": "2026-11-18T01:48:00.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261118de77531",
+   "place": "イラン"
+  },
+  {
+   "id": "rss-2157884914",
+   "title": "対ロ交渉を米国に委ねるのは無責任、欧州はプーチン氏と直接対話を フィンランド大統領",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 60.744,
+   "lon": 24.943,
+   "cat": "diplomacy",
+   "at": "2026-11-18T01:36:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662922",
+   "place": "フィンランド"
+  },
+  {
+   "id": "rss-699797841",
+   "title": "ウクライナ 、 クリミア橋を攻撃 「 偉大さという神話が揺らいだ 」： 朝日新聞",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 45.518,
+   "lon": 34.095,
+   "cat": "conflict",
+   "at": "2026-11-18T01:15:00.000Z",
+   "source": "asahi.com",
+   "url": "https://www.asahi.com/articles/ASVCK7DT4VCKUHBI003M.html",
+   "place": "クリミア"
+  },
+  {
+   "id": "rss-229003182",
+   "title": "米中ロ首脳会談は「ヤルタ会談」と異なる、他国の運命を決めるものではない ロシア大統領府",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.832,
+   "lon": 36.878,
+   "cat": "diplomacy",
+   "at": "2026-11-18T01:12:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662917",
+   "place": "ロシア"
+  },
   {
    "id": "rss-2855263331",
    "title": "トランプ氏、アジア歴訪初日にフィリピン訪問 クアッド首脳会議に参加",
@@ -302,30 +362,6 @@
    "place": "ワシントン"
   },
   {
-   "id": "rss-2911489150",
-   "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月17日の動き）",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 56.164,
-   "lon": 37.398,
-   "cat": "conflict",
-   "at": "2026-11-17T05:55:14.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261028de67092",
-   "place": "ロシア"
-  },
-  {
-   "id": "rss-3618913492",
-   "title": "ウクライナが過去最大のドローン攻撃、クリミア半島の象徴的な橋に被害とロシア",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 45.458,
-   "lon": 33.938,
-   "cat": "conflict",
-   "at": "2026-11-17T05:22:06.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cvde1k4e7p3xo?at_medium=RSS&at_campaign=rss",
-   "place": "クリミア"
-  },
-  {
    "id": "rss-1845980932",
    "title": "「ボスの中のボス」、有力カルテル率いた受刑者が80歳で病死 メキシコ",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -470,18 +506,6 @@
    "place": "アメリカ"
   },
   {
-   "id": "rss-1920425165",
-   "title": "ウクライナ、1300機超の無人機でロシア攻撃 クリミア橋も標的に",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 45.339,
-   "lon": 33.78,
-   "cat": "conflict",
-   "at": "2026-11-16T09:43:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662651",
-   "place": "クリミア"
-  },
-  {
    "id": "rss-3749332731",
    "title": "国連、「殺人ロボット」規制めぐり協議 主要国は慎重姿勢",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -492,18 +516,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662648",
    "place": "国連本部"
-  },
-  {
-   "id": "rss-1102805792",
-   "title": "米陸軍少佐が告発書を提出 米兵6人が死亡したイランの攻撃めぐり",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 35.913,
-   "lon": 50.849,
-   "cat": "conflict",
-   "at": "2026-11-16T08:26:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/usa/35254954.html?ref=rss",
-   "place": "イラン"
   },
   {
    "id": "rss-1241443892",
@@ -672,18 +684,6 @@
    "source": "BBC News Japan",
    "url": "https://www.bbc.com/japanese/articles/cq7825lr047go?at_medium=RSS&at_campaign=rss",
    "place": "パリ"
-  },
-  {
-   "id": "rss-1811577365",
-   "title": "ゼレンスキー氏、スターリンクの制限解除を米国とマスク氏に要請 「歴史の正しい側に立つ」よう訴え",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.367,
-   "lon": -77.256,
-   "cat": "other",
-   "at": "2026-11-16T01:50:59.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cm4gnzgeglj6o?at_medium=RSS&at_campaign=rss",
-   "place": "アメリカ"
   },
   {
    "id": "20261112-us-midterm-trump",
