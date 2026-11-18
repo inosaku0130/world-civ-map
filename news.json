@@ -1,6 +1,114 @@
 {
- "updatedAt": "2026-11-18T06:43:41.143Z",
+ "updatedAt": "2026-11-18T07:59:01.307Z",
  "items": [
+  {
+   "id": "rss-457238969",
+   "title": "高市首相APECで中国到着 習主席出迎えは プーチン氏と接触調整",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.948,
+   "lon": 115.702,
+   "cat": "politics",
+   "at": "2026-11-18T07:54:53.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261118de77690",
+   "place": "中国"
+  },
+  {
+   "id": "rss-1941225794",
+   "title": "「民主主義の時代は終わった」NZ最大都市の市長、中国の一党支配体制を称賛",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.344,
+   "lon": 116.498,
+   "cat": "other",
+   "at": "2026-11-18T07:47:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663064",
+   "place": "中国"
+  },
+  {
+   "id": "rss-2548373681",
+   "title": "アメリカ中間選挙 アラスカ州も民主当確 上院で56議席に",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 38.353,
+   "lon": -76.458,
+   "cat": "politics",
+   "at": "2026-11-18T07:23:37.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261118de77720",
+   "place": "アメリカ"
+  },
+  {
+   "id": "rss-1124890674",
+   "title": "アメリカで相次いだ技術障害、「組織的な攻撃ではない」とルビオ国務長官",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 38.659,
+   "lon": -76.6,
+   "cat": "conflict",
+   "at": "2026-11-18T07:16:11.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/cq5y17lee2vyo?at_medium=RSS&at_campaign=rss",
+   "place": "アメリカ"
+  },
+  {
+   "id": "rss-200859398",
+   "title": "トランプ氏がイランに警告、「汚い爆弾」攻撃を実行すれば大きな代償",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 35.974,
+   "lon": 50.931,
+   "cat": "conflict",
+   "at": "2026-11-18T07:00:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/usa/35255087.html?ref=rss",
+   "place": "イラン"
+  },
+  {
+   "id": "rss-3907803081",
+   "title": "【三里河中国経済観察】上海市、衛星インターネット産業の育成を加速",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 31.816,
+   "lon": 121.489,
+   "cat": "economy",
+   "at": "2026-11-18T07:00:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662800",
+   "place": "上海"
+  },
+  {
+   "id": "rss-3825114841",
+   "title": "【解説】 エヌビディアめぐるスパイ疑惑、中国のAI構想にとって想定外の障害に 米中首脳が会談へ",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.253,
+   "lon": 116.109,
+   "cat": "diplomacy",
+   "at": "2026-11-18T06:58:29.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/cqz0kl38nyzeo?at_medium=RSS&at_campaign=rss",
+   "place": "中国"
+  },
+  {
+   "id": "rss-2928266769",
+   "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月18日の動き）",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.443,
+   "lon": 38.036,
+   "cat": "conflict",
+   "at": "2026-11-18T06:57:49.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261028de67093",
+   "place": "ロシア"
+  },
+  {
+   "id": "rss-1019420158",
+   "title": "【解説】ロシアの超富裕層はすでに「プーチン氏以後」の未来を考えている",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 56.238,
+   "lon": 37.495,
+   "cat": "other",
+   "at": "2026-11-18T06:45:33.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/ck053pge55m6o?at_medium=RSS&at_campaign=rss",
+   "place": "ロシア"
+  },
   {
    "id": "rss-103074147",
    "title": "ロシアと中国、首脳が両国関係の安定を強調 トランプ氏との会談控え",
@@ -12,30 +120,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/world/35255085.html?ref=rss",
    "place": "ロシア"
-  },
-  {
-   "id": "rss-61838276",
-   "title": "中国・習主席、AI分野で国際協力強化呼び掛け APEC会合で",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.454,
-   "lon": 116.378,
-   "cat": "other",
-   "at": "2026-11-18T06:28:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663040",
-   "place": "中国"
-  },
-  {
-   "id": "rss-2222251329",
-   "title": "高市首相APECで中国へ出発 習主席対応は プーチン氏と接触調整",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.199,
-   "lon": 116.037,
-   "cat": "politics",
-   "at": "2026-11-18T05:52:03.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261118de77470",
-   "place": "中国"
   },
   {
    "id": "rss-1990867103",
@@ -122,42 +206,6 @@
    "place": "エクアドル"
   },
   {
-   "id": "rss-3977607252",
-   "title": "アメリカ 国家安全保障局の機密通信が停止 大規模障害相次ぐ",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.129,
-   "lon": -77.573,
-   "cat": "other",
-   "at": "2026-11-18T03:21:27.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261118de77569",
-   "place": "アメリカ"
-  },
-  {
-   "id": "rss-4203768694",
-   "title": "遺伝子編集試験で6歳女児死亡、隠蔽した中国人科学者を解任",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.135,
-   "lon": 115.875,
-   "cat": "conflict",
-   "at": "2026-11-18T03:03:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662980",
-   "place": "中国"
-  },
-  {
-   "id": "rss-2157737819",
-   "title": "米国のはしか「排除国」認定取り消し ワクチン接種率低下で感染急増",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.091,
-   "lon": -77.624,
-   "cat": "disaster",
-   "at": "2026-11-18T02:31:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662958",
-   "place": "アメリカ"
-  },
-  {
    "id": "rss-1319121432",
    "title": "ロシアとクリミアを結ぶ橋が一部崩落 ゼレンスキー氏はウクライナの「前例のない」攻撃を称賛",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -206,18 +254,6 @@
    "place": "クリミア"
   },
   {
-   "id": "rss-229003182",
-   "title": "米中ロ首脳会談は「ヤルタ会談」と異なる、他国の運命を決めるものではない ロシア大統領府",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.832,
-   "lon": 36.878,
-   "cat": "diplomacy",
-   "at": "2026-11-18T01:12:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662917",
-   "place": "ロシア"
-  },
-  {
    "id": "rss-2855263331",
    "title": "トランプ氏、アジア歴訪初日にフィリピン訪問 クアッド首脳会議に参加",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -240,30 +276,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662906",
    "place": "ウクライナ"
-  },
-  {
-   "id": "rss-1838715177",
-   "title": "米戦闘機、イランのミサイル発射施設を精密攻撃 「自衛のため」と説明",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 35.929,
-   "lon": 50.87,
-   "cat": "conflict",
-   "at": "2026-11-18T00:35:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/usa/35255040.html?ref=rss",
-   "place": "イラン"
-  },
-  {
-   "id": "rss-245633706",
-   "title": "ロシア外相、フランス兵のウクライナ派遣を「戦争への直接参加」と非難",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.221,
-   "lon": 37.663,
-   "cat": "conflict",
-   "at": "2026-11-18T00:16:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662904",
-   "place": "ロシア"
   },
   {
    "id": "rss-195300849",
@@ -578,6 +590,18 @@
    "place": "ウクライナ"
   },
   {
+   "id": "rss-3769706246",
+   "title": "高市首相 フィリピン到着 石油備蓄などで新たな枠組み提唱へ",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 14.935,
+   "lon": 120.588,
+   "cat": "politics",
+   "at": "2026-11-16T13:10:04.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261116de76382",
+   "place": "フィリピン"
+  },
+  {
    "id": "rss-3749332731",
    "title": "国連、「殺人ロボット」規制めぐり協議 主要国は慎重姿勢",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -624,54 +648,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662639",
    "place": "インド"
-  },
-  {
-   "id": "rss-3769706246",
-   "title": "高市首相 フィリピン到着 石油備蓄などで新たな枠組み提唱へ",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 14.935,
-   "lon": 120.588,
-   "cat": "politics",
-   "at": "2026-11-16T07:33:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261116de76382",
-   "place": "フィリピン"
-  },
-  {
-   "id": "rss-3766404540",
-   "title": "香港、監視カメラにAI活用 市民からは悪用懸念の声も",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 22.478,
-   "lon": 113.543,
-   "cat": "other",
-   "at": "2026-11-16T07:33:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662623",
-   "place": "香港"
-  },
-  {
-   "id": "rss-1509087498",
-   "title": "バングラデシュで賃上げ求めストライキ、縫製工場が操業停止に",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 23.347,
-   "lon": 90.631,
-   "cat": "other",
-   "at": "2026-11-16T07:25:26.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cqkgm88gk66vo?at_medium=RSS&at_campaign=rss",
-   "place": "バングラデシュ"
-  },
-  {
-   "id": "rss-3783329254",
-   "title": "中国大陸と台湾の書道家、北京で孫文生誕160周年を記念",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.474,
-   "lon": 116.594,
-   "cat": "other",
-   "at": "2026-11-16T07:00:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662618",
-   "place": "北京"
   },
   {
    "id": "20261112-us-midterm-trump",
