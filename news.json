@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-18T22:36:10.447Z",
+ "updatedAt": "2026-11-18T23:34:17.807Z",
  "items": [
+  {
+   "id": "rss-4255990966",
+   "title": "トランプ氏、プーチン氏と19日に個別会談へ 米特使はドイツでウクライナ協議",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 52.309,
+   "lon": 13.957,
+   "cat": "diplomacy",
+   "at": "2026-11-18T23:19:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/usa/35255115.html?ref=rss",
+   "place": "ドイツ"
+  },
   {
    "id": "rss-3946648030",
    "title": "ウクライナ、米中首脳にロシアへの「圧力」要請 3者会談を前に",
@@ -672,30 +684,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/world/35254982.html?ref=rss",
    "place": "モスクワ"
-  },
-  {
-   "id": "rss-2774684290",
-   "title": "インドネシアでM6.6の地震、津波のおそれなし",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": -6.003,
-   "lon": 106.274,
-   "cat": "disaster",
-   "at": "2026-11-16T23:29:37.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261117de76907",
-   "place": "インドネシア"
-  },
-  {
-   "id": "rss-1785910023",
-   "title": "トランプ氏、北朝鮮の金正恩氏と中国で会談の可能性",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 38.947,
-   "lon": 126.491,
-   "cat": "diplomacy",
-   "at": "2026-11-16T22:56:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662675",
-   "place": "北朝鮮"
   },
   {
    "id": "20261112-us-midterm-trump",
