@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-18T09:04:15.398Z",
+ "updatedAt": "2026-11-18T10:04:27.683Z",
  "items": [
+  {
+   "id": "rss-3718816",
+   "title": "ロシアのスパイ容疑で英警察が逮捕した米兵、身柄を米軍に移送",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.903,
+   "lon": 36.972,
+   "cat": "other",
+   "at": "2026-11-18T09:13:08.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/cq99ey15xv9do?at_medium=RSS&at_campaign=rss",
+   "place": "ロシア"
+  },
+  {
+   "id": "rss-3250585714",
+   "title": "フィリピン警察、英メガン妃の父を起訴するよう検察に要請、児童ポルノめぐり",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 14.51,
+   "lon": 121.622,
+   "cat": "other",
+   "at": "2026-11-18T09:12:19.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/cry498kn8ejzo?at_medium=RSS&at_campaign=rss",
+   "place": "フィリピン"
+  },
   {
    "id": "rss-507424731",
    "title": "EUの域内生産EV優遇措置を検討 日本の鉄鋼業界から懸念の声",
@@ -119,18 +143,6 @@
    "at": "2026-11-18T06:45:33.000Z",
    "source": "BBC News Japan",
    "url": "https://www.bbc.com/japanese/articles/ck053pge55m6o?at_medium=RSS&at_campaign=rss",
-   "place": "ロシア"
-  },
-  {
-   "id": "rss-103074147",
-   "title": "ロシアと中国、首脳が両国関係の安定を強調 トランプ氏との会談控え",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.314,
-   "lon": 37.313,
-   "cat": "diplomacy",
-   "at": "2026-11-18T06:31:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/world/35255085.html?ref=rss",
    "place": "ロシア"
   },
   {
@@ -624,18 +636,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76382",
    "place": "フィリピン"
-  },
-  {
-   "id": "rss-3749332731",
-   "title": "国連、「殺人ロボット」規制めぐり協議 主要国は慎重姿勢",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.204,
-   "lon": -73.86,
-   "cat": "diplomacy",
-   "at": "2026-11-16T09:08:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662648",
-   "place": "国連本部"
   },
   {
    "id": "20261112-us-midterm-trump",
