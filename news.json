@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-11-18T04:25:01.199Z",
+ "updatedAt": "2026-11-18T05:29:48.299Z",
  "items": [
+  {
+   "id": "rss-1127644676",
+   "title": "ロシアに攻撃されたキーウの橋からBBC報告 「橋をめぐる戦い」",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 50.48,
+   "lon": 29.798,
+   "cat": "conflict",
+   "at": "2026-11-18T05:15:31.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/watch/cvj6l57wdrk4o?at_medium=RSS&at_campaign=rss",
+   "place": "キーウ"
+  },
+  {
+   "id": "rss-1810246704",
+   "title": "アイルランドの空港で米軍機に侵入し破壊行為、男を起訴 米司法省",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 53.148,
+   "lon": -5.69,
+   "cat": "other",
+   "at": "2026-11-18T05:15:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/world/35255073.html?ref=rss",
+   "place": "アイルランド"
+  },
+  {
+   "id": "rss-1906831913",
+   "title": "高市首相、トランプ米大統領とマニラで懇談 米中露会談を前に連携確認",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 14.334,
+   "lon": 121.386,
+   "cat": "diplomacy",
+   "at": "2026-11-18T04:22:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663010",
+   "place": "マニラ"
+  },
   {
    "id": "rss-2256729679",
    "title": "米国土安全保障長官、アメフト観戦での飛行機移動を擁護 運航停止の影響残る中",
@@ -312,18 +348,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662854",
    "place": "ウクライナ"
-  },
-  {
-   "id": "rss-1924178223",
-   "title": "トランプ大統領がマニラ到着 一連のアジア外交スタート",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 14.398,
-   "lon": 121.55,
-   "cat": "politics",
-   "at": "2026-11-17T10:04:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261117de77165",
-   "place": "マニラ"
   },
   {
    "id": "rss-4065365434",
@@ -684,18 +708,6 @@
    "source": "BBC News Japan",
    "url": "https://www.bbc.com/japanese/articles/cmx20pd8wkk9o?at_medium=RSS&at_campaign=rss",
    "place": "チェコ"
-  },
-  {
-   "id": "rss-19746353",
-   "title": "イギリスで性交同意年齢の引き上げを議論へ、著名人による性加害事件受け",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 51.658,
-   "lon": -0.695,
-   "cat": "other",
-   "at": "2026-11-16T04:47:48.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/c60qj0evd3l0o?at_medium=RSS&at_campaign=rss",
-   "place": "イギリス"
   },
   {
    "id": "20261112-us-midterm-trump",
