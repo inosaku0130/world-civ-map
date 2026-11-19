@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-11-19T01:59:34.606Z",
+ "updatedAt": "2026-11-19T02:54:00.508Z",
  "items": [
+  {
+   "id": "rss-3002322700",
+   "title": "米防衛技術大手パランティアの従業員にストーカー行為、ロシア人の男を逮捕・起訴 情報筋",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.254,
+   "lon": 37.706,
+   "cat": "other",
+   "at": "2026-11-19T02:34:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/usa/35255126.html?ref=rss",
+   "place": "ロシア"
+  },
+  {
+   "id": "rss-3896462268",
+   "title": "イスラエル軍、ガザで地上作戦 ハマスは「停戦違反」と非難",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 30.992,
+   "lon": 34.632,
+   "cat": "conflict",
+   "at": "2026-11-19T02:29:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663178",
+   "place": "ガザ"
+  },
+  {
+   "id": "rss-1682213918",
+   "title": "フランスで記者への暴力や脅迫が深刻化 メディア不信が極まり憎悪の域に",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 48.898,
+   "lon": 1.64,
+   "cat": "other",
+   "at": "2026-11-19T01:57:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663158",
+   "place": "フランス"
+  },
   {
    "id": "rss-2667667475",
    "title": "米中ロ3首脳、顔を合わせ握手 中国での歴史的会談を前に",
@@ -299,18 +335,6 @@
    "at": "2026-11-18T06:57:49.000Z",
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261028de67093",
-   "place": "ロシア"
-  },
-  {
-   "id": "rss-1019420158",
-   "title": "【解説】ロシアの超富裕層はすでに「プーチン氏以後」の未来を考えている",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 56.238,
-   "lon": 37.495,
-   "cat": "other",
-   "at": "2026-11-18T06:45:33.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/ck053pge55m6o?at_medium=RSS&at_campaign=rss",
    "place": "ロシア"
   },
   {
@@ -672,30 +696,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662737",
    "place": "福岡"
-  },
-  {
-   "id": "rss-1745598919",
-   "title": "EU5カ国がルワンダに不法移民の強制送還センターを設置へ",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 50.544,
-   "lon": 4.78,
-   "cat": "other",
-   "at": "2026-11-17T02:40:19.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cm62p3wnp6j4o?at_medium=RSS&at_campaign=rss",
-   "place": "EU（ブリュッセル）"
-  },
-  {
-   "id": "rss-32740452",
-   "title": "ロシア軍の攻撃、キーウの主要な橋2本に被害 市長発表",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 49.85,
-   "lon": 30.482,
-   "cat": "conflict",
-   "at": "2026-11-17T02:16:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662731",
-   "place": "キーウ"
   },
   {
    "id": "20261112-us-midterm-trump",
