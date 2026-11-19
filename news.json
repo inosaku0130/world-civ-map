@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T14:02:03.196Z",
+ "updatedAt": "2026-11-19T15:59:41.841Z",
  "items": [
   {
    "id": "rss-3819157804",
@@ -708,18 +708,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261118de77491",
    "place": "インド"
-  },
-  {
-   "id": "rss-315805692",
-   "title": "日本政府がミャンマー避難民の就労を支援へ",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 19.393,
-   "lon": 96.429,
-   "cat": "other",
-   "at": "2026-11-17T15:18:16.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261117de77454",
-   "place": "ミャンマー"
   },
   {
    "id": "20261112-us-midterm-trump",
