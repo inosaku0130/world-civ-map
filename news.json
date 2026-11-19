@@ -1,6 +1,78 @@
 {
- "updatedAt": "2026-11-19T06:07:43.867Z",
+ "updatedAt": "2026-11-19T07:46:06.246Z",
  "items": [
+  {
+   "id": "rss-2840967676",
+   "title": "ウクライナがクリミア橋を攻撃、1週間で3度目 ロシア当局が発表",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 44.72,
+   "lon": 34.631,
+   "cat": "conflict",
+   "at": "2026-11-19T07:24:45.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/c5j9m1kkkj3ro?at_medium=RSS&at_campaign=rss",
+   "place": "クリミア"
+  },
+  {
+   "id": "rss-3687636154",
+   "title": "クリミア橋に攻撃、1週間で3回目 通行は一時停止",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 45.255,
+   "lon": 33.745,
+   "cat": "conflict",
+   "at": "2026-11-19T07:23:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663257",
+   "place": "クリミア"
+  },
+  {
+   "id": "rss-28430133",
+   "title": "中国・平陸運河を台湾のメディア関係者が見学 観光や交流に期待",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.664,
+   "lon": 116.923,
+   "cat": "other",
+   "at": "2026-11-19T07:00:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663058",
+   "place": "中国"
+  },
+  {
+   "id": "rss-78762990",
+   "title": "中国の若者に人気の「中華版カウンター料理」",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.649,
+   "lon": 116.827,
+   "cat": "other",
+   "at": "2026-11-19T07:00:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663055",
+   "place": "中国"
+  },
+  {
+   "id": "rss-3435824774",
+   "title": "米中両国はウクライナ戦争を終わらせる手助けをしたい トランプ氏",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 49.972,
+   "lon": 30.645,
+   "cat": "conflict",
+   "at": "2026-11-19T06:36:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663244",
+   "place": "ウクライナ"
+  },
+  {
+   "id": "rss-1071537432",
+   "title": "【分析】ロシア、異例の武力誇示繰り返す 米中との3首脳会談控えての思惑は",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.969,
+   "lon": 37.137,
+   "cat": "diplomacy",
+   "at": "2026-11-19T06:15:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/world/35255147.html?ref=rss",
+   "place": "ロシア"
+  },
   {
    "id": "rss-2754110248",
    "title": "米ヘグセス国防長官がベネズエラ初訪問 軍事協力協定を締結",
@@ -170,18 +242,6 @@
    "place": "フランス"
   },
   {
-   "id": "rss-2667667475",
-   "title": "米中ロ3首脳、顔を合わせ握手 中国での歴史的会談を前に",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.978,
-   "lon": 115.742,
-   "cat": "diplomacy",
-   "at": "2026-11-19T01:42:52.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/ck782wyn9974o?at_medium=RSS&at_campaign=rss",
-   "place": "中国"
-  },
-  {
    "id": "rss-4260014666",
    "title": "イスラエル人入植者、72歳パレスチナ人女性を射殺 軍がパレスチナ人2人を拘束",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -302,18 +362,6 @@
    "place": "EU（ブリュッセル）"
   },
   {
-   "id": "rss-708400940",
-   "title": "トランプ氏、中国でのAPEC歓迎晩餐会に出席 プーチン氏と握手",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.304,
-   "lon": 116.366,
-   "cat": "other",
-   "at": "2026-11-18T15:04:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/world/35255107.html?ref=rss",
-   "place": "中国"
-  },
-  {
    "id": "rss-3504455527",
    "title": "日本とインドとの関係強化へ 政財界の関係者が議論",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -372,18 +420,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261118de77531",
    "place": "イラン"
-  },
-  {
-   "id": "rss-3718816",
-   "title": "ロシアのスパイ容疑で英警察が逮捕した米兵、身柄を米軍に移送",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.903,
-   "lon": 36.972,
-   "cat": "other",
-   "at": "2026-11-18T09:13:08.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cq99ey15xv9do?at_medium=RSS&at_campaign=rss",
-   "place": "ロシア"
   },
   {
    "id": "rss-3250585714",
@@ -542,18 +578,6 @@
    "place": "フィンランド"
   },
   {
-   "id": "rss-699797841",
-   "title": "ウクライナ 、 クリミア橋を攻撃 「 偉大さという神話が揺らいだ 」： 朝日新聞",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 45.518,
-   "lon": 34.095,
-   "cat": "conflict",
-   "at": "2026-11-18T01:15:00.000Z",
-   "source": "asahi.com",
-   "url": "https://www.asahi.com/articles/ASVCK7DT4VCKUHBI003M.html",
-   "place": "クリミア"
-  },
-  {
    "id": "rss-2855263331",
    "title": "トランプ氏、アジア歴訪初日にフィリピン訪問 クアッド首脳会議に参加",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -564,18 +588,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/world/35255038.html?ref=rss",
    "place": "フィリピン"
-  },
-  {
-   "id": "rss-212078468",
-   "title": "米、ウクライナの対ロシア「深部攻撃」を批判 逆効果だと主張",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 50.953,
-   "lon": 30.429,
-   "cat": "conflict",
-   "at": "2026-11-18T00:45:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662906",
-   "place": "ウクライナ"
   },
   {
    "id": "rss-195300849",
@@ -662,18 +674,6 @@
    "place": "福岡"
   },
   {
-   "id": "rss-2930378486",
-   "title": "クリミア半島とロシア本土を結ぶ橋が一部崩落 ロシアとウクライナ、2夜連続で応酬",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 44.661,
-   "lon": 34.476,
-   "cat": "disaster",
-   "at": "2026-11-17T08:30:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/world/35255017.html?ref=rss",
-   "place": "クリミア"
-  },
-  {
    "id": "rss-2113289396",
    "title": "米アップル、iPhone修理妨害の疑いでパリで公判へ 「計画的陳腐化」か",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -696,30 +696,6 @@
    "source": "BBC News Japan",
    "url": "https://www.bbc.com/japanese/articles/ck3rgq2nr8rro?at_medium=RSS&at_campaign=rss",
    "place": "キーウ"
-  },
-  {
-   "id": "rss-1702830",
-   "title": "バーナム英首相、イギリスはEU離脱で得たものよりも失ったものの方が多かったと発言",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 51.884,
-   "lon": -0.392,
-   "cat": "politics",
-   "at": "2026-11-17T07:14:38.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/crgqx1p18275o?at_medium=RSS&at_campaign=rss",
-   "place": "イギリス"
-  },
-  {
-   "id": "rss-2058693365",
-   "title": "欧州5か国 滞在資格ない移民をルワンダに移送計画 反発も",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": -2.372,
-   "lon": 30.335,
-   "cat": "other",
-   "at": "2026-11-17T07:04:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261117de77141",
-   "place": "ルワンダ"
   },
   {
    "id": "20261112-us-midterm-trump",
