@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-11-19T00:37:34.913Z",
+ "updatedAt": "2026-11-19T01:59:34.606Z",
  "items": [
+  {
+   "id": "rss-2667667475",
+   "title": "米中ロ3首脳、顔を合わせ握手 中国での歴史的会談を前に",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.978,
+   "lon": 115.742,
+   "cat": "diplomacy",
+   "at": "2026-11-19T01:42:52.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/ck782wyn9974o?at_medium=RSS&at_campaign=rss",
+   "place": "中国"
+  },
+  {
+   "id": "rss-4260014666",
+   "title": "イスラエル人入植者、72歳パレスチナ人女性を射殺 軍がパレスチナ人2人を拘束",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 31.132,
+   "lon": 34.635,
+   "cat": "other",
+   "at": "2026-11-19T01:40:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/world/35255127.html?ref=rss",
+   "place": "イスラエル"
+  },
+  {
+   "id": "rss-1614117704",
+   "title": "モディ氏との気まずい一幕、イメルダ夫人との再会 トランプ氏のマニラ訪問こぼれ話",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 14.095,
+   "lon": 121.145,
+   "cat": "diplomacy",
+   "at": "2026-11-19T01:03:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663138",
+   "place": "マニラ"
+  },
   {
    "id": "rss-1563931942",
    "title": "メキシコ大統領、エコノミークラスで深セン入り 中国SNSで称賛の声",
@@ -168,18 +204,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663093",
    "place": "イスラエル"
-  },
-  {
-   "id": "rss-2159776126",
-   "title": "トランプ氏と高市首相が中国入り 習主席、米大統領を空港で出迎え",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.016,
-   "lon": 115.794,
-   "cat": "politics",
-   "at": "2026-11-18T10:11:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663091",
-   "place": "中国"
   },
   {
    "id": "rss-3718816",
@@ -506,18 +530,6 @@
    "place": "ミャンマー"
   },
   {
-   "id": "rss-1924178223",
-   "title": "トランプ大統領がマニラ到着 一連のアジア外交スタート",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 14.398,
-   "lon": 121.55,
-   "cat": "politics",
-   "at": "2026-11-17T15:07:46.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261117de77165",
-   "place": "マニラ"
-  },
-  {
    "id": "rss-299175168",
    "title": "チェコで列車正面衝突40人以上けが 信号無視原因か",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -552,6 +564,18 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/travel/35255024.html?ref=rss",
    "place": "韓国"
+  },
+  {
+   "id": "rss-945776724",
+   "title": "ロシア機と推定の航空機が領空侵犯 福岡 沖ノ島周辺",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 33.05,
+   "lon": 130.518,
+   "cat": "other",
+   "at": "2026-11-17T09:37:59.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261117de76912",
+   "place": "福岡"
   },
   {
    "id": "rss-2930378486",
@@ -672,42 +696,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662731",
    "place": "キーウ"
-  },
-  {
-   "id": "rss-4193045511",
-   "title": "ウィリアム皇太子夫妻、ムンバイで地下鉄に乗車 環境配慮をアピール",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 19.38,
-   "lon": 72.442,
-   "cat": "other",
-   "at": "2026-11-17T01:54:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662709",
-   "place": "ムンバイ"
-  },
-  {
-   "id": "rss-945776724",
-   "title": "ロシア機か 一時領空侵犯 福岡 沖ノ島周辺",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 33.05,
-   "lon": 130.518,
-   "cat": "other",
-   "at": "2026-11-17T01:37:43.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261117de76912",
-   "place": "福岡"
-  },
-  {
-   "id": "rss-1278457682",
-   "title": "モスクワ車爆弾事件、ロシア人女性を拘束 親ロシア派ウクライナ人政治家の元側近が負傷",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 56.025,
-   "lon": 37.135,
-   "cat": "other",
-   "at": "2026-11-17T01:07:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/world/35254982.html?ref=rss",
-   "place": "モスクワ"
   },
   {
    "id": "20261112-us-midterm-trump",
