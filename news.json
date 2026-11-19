@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-19T11:39:15.767Z",
+ "updatedAt": "2026-11-19T12:45:37.153Z",
  "items": [
+  {
+   "id": "rss-2959863598",
+   "title": "米中ロの3首脳が会談、世界のエネルギー流通や国際法について議論 中国国営メディア",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.82,
+   "lon": 117.054,
+   "cat": "diplomacy",
+   "at": "2026-11-19T12:17:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/world/35255170.html?ref=rss",
+   "place": "中国"
+  },
   {
    "id": "rss-2320462637",
    "title": "国連人口基金トップ “紛争地域の若者増加 国際支援の継続を”",
@@ -108,18 +120,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/style/arts/35255164.html?ref=rss",
    "place": "ベルギー"
-  },
-  {
-   "id": "rss-3188540095",
-   "title": "【現地の映像配信】史上初 米中ロ首脳会談始まる 中国メディア",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.08,
-   "lon": 115.878,
-   "cat": "diplomacy",
-   "at": "2026-11-19T08:30:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261119de78117",
-   "place": "中国"
   },
   {
    "id": "rss-2840967676",
@@ -744,18 +744,6 @@
    "source": "NPR",
    "url": "https://www.npr.org/sections/news/",
    "place": "ニューヨーク"
-  },
-  {
-   "id": "20261119-apec-shenzhen",
-   "title": "来週、深圳でAPEC首脳会議 米中首脳会談の見通し",
-   "summary": "首脳会議に合わせて習近平国家主席とトランプ大統領の会談が見込まれている。",
-   "lat": 22.54,
-   "lon": 114.06,
-   "cat": "diplomacy",
-   "at": "2026-11-12T12:00:00Z",
-   "source": "TVG Daily Brief",
-   "url": "https://theverardogroup.substack.com/p/tvg-daily-brief-12-nov-2026",
-   "place": "深圳"
   }
  ]
 }
