@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-19T19:00:14.302Z",
+ "updatedAt": "2026-11-19T20:05:06.873Z",
  "items": [
+  {
+   "id": "rss-4267450706",
+   "title": "高市首相 、 台湾めぐり 「 日中共同声明の立場に変更なし 」 会見で表明 [ アジア太平洋経済協力会議 ][ トランプ米大統領 ][ 高市早苗首相 自民党総裁 ][ 台湾有事答弁めぐる日中応酬 存立危機事態 高市首相 中国 ]： 朝日新聞",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 25.404,
+   "lon": 121.298,
+   "cat": "politics",
+   "at": "2026-11-19T19:30:00.000Z",
+   "source": "asahi.com",
+   "url": "https://www.asahi.com/articles/ASVCM4TFDVCMUTFK00WM.html",
+   "place": "台湾"
+  },
   {
    "id": "rss-4020783422",
    "title": "ドイツBMW 2018年以来の24時間ストライキ実施へ",
@@ -708,18 +720,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662884",
    "place": "マニラ"
-  },
-  {
-   "id": "rss-2003848092",
-   "title": "日米首脳が短時間懇談 インド太平洋情勢で緊密連携確認",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 28.52,
-   "lon": 77.852,
-   "cat": "diplomacy",
-   "at": "2026-11-17T21:56:51.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261118de77491",
-   "place": "インド"
   },
   {
    "id": "20261112-us-midterm-trump",
