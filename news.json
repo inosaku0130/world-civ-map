@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-19T08:47:26.990Z",
+ "updatedAt": "2026-11-19T09:45:51.903Z",
  "items": [
+  {
+   "id": "rss-4233846678",
+   "title": "中国 高市首相 出迎え「国際慣例に基づく適切な儀礼上の手配」",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.21,
+   "lon": 115.974,
+   "cat": "politics",
+   "at": "2026-11-19T09:29:01.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261119de78608",
+   "place": "中国"
+  },
+  {
+   "id": "rss-3458409022",
+   "title": "高市首相 訪問先の中国で記者会見【動画 全編】",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.84,
+   "lon": 117.158,
+   "cat": "diplomacy",
+   "at": "2026-11-19T09:09:00.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261119de78187",
+   "place": "中国"
+  },
   {
    "id": "rss-2272877659",
    "title": "「子羊の目が不気味」、復元された15世紀絵画に戸惑いの声 20年ベルギー",
@@ -23,30 +47,6 @@
    "at": "2026-11-19T08:30:00.000Z",
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78117",
-   "place": "中国"
-  },
-  {
-   "id": "rss-1153774400",
-   "title": "高市首相、中国と「建設的かつ安定的な関係を構築」望む",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.098,
-   "lon": 115.826,
-   "cat": "politics",
-   "at": "2026-11-19T08:25:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663260",
-   "place": "中国"
-  },
-  {
-   "id": "rss-3452749488",
-   "title": "中国、西沙諸島に新滑走路建設 軍事的なプレゼンスが大幅に強化される可能性",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.23,
-   "lon": 116.078,
-   "cat": "conflict",
-   "at": "2026-11-19T07:35:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663259",
    "place": "中国"
   },
   {
@@ -686,18 +686,6 @@
    "place": "韓国"
   },
   {
-   "id": "rss-945776724",
-   "title": "ロシア機と推定の航空機が領空侵犯 福岡 沖ノ島周辺",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 33.05,
-   "lon": 130.518,
-   "cat": "other",
-   "at": "2026-11-17T09:37:59.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261117de76912",
-   "place": "福岡"
-  },
-  {
    "id": "20261112-us-midterm-trump",
    "title": "トランプ大統領、中間選挙の共和党敗北とイラン戦争の影響に言及",
    "summary": "大統領は、戦争が招いた経済面の影響が共和党の大敗につながった可能性を認めた。",
@@ -732,18 +720,6 @@
    "source": "TVG Daily Brief",
    "url": "https://theverardogroup.substack.com/p/tvg-daily-brief-12-nov-2026",
    "place": "深圳"
-  },
-  {
-   "id": "20261112-gaza-nasser-hospital",
-   "title": "ガザ南部ナセル病院の建物にイスラエル軍の空爆",
-   "summary": "ハンユニスのナセル病院の建物が空爆を受け、外科医を含む死者が出たとガザの民間防衛当局者が述べた。",
-   "lat": 31.35,
-   "lon": 34.3,
-   "cat": "conflict",
-   "at": "2026-11-12T09:00:00Z",
-   "source": "Just Security（BBC報道の引用）",
-   "url": "https://www.justsecurity.org/164226/early-edition-november-12-2026/",
-   "place": "ガザ・ハンユニス"
   }
  ]
 }
