@@ -1,6 +1,54 @@
 {
- "updatedAt": "2026-11-19T07:46:06.246Z",
+ "updatedAt": "2026-11-19T08:47:26.990Z",
  "items": [
+  {
+   "id": "rss-2272877659",
+   "title": "「子羊の目が不気味」、復元された15世紀絵画に戸惑いの声 20年ベルギー",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 50.622,
+   "lon": 4.808,
+   "cat": "other",
+   "at": "2026-11-19T08:44:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/style/arts/35255164.html?ref=rss",
+   "place": "ベルギー"
+  },
+  {
+   "id": "rss-3188540095",
+   "title": "【現地の映像配信】史上初 米中ロ首脳会談始まる 中国メディア",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.08,
+   "lon": 115.878,
+   "cat": "diplomacy",
+   "at": "2026-11-19T08:30:00.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261119de78117",
+   "place": "中国"
+  },
+  {
+   "id": "rss-1153774400",
+   "title": "高市首相、中国と「建設的かつ安定的な関係を構築」望む",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.098,
+   "lon": 115.826,
+   "cat": "politics",
+   "at": "2026-11-19T08:25:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663260",
+   "place": "中国"
+  },
+  {
+   "id": "rss-3452749488",
+   "title": "中国、西沙諸島に新滑走路建設 軍事的なプレゼンスが大幅に強化される可能性",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.23,
+   "lon": 116.078,
+   "cat": "conflict",
+   "at": "2026-11-19T07:35:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663259",
+   "place": "中国"
+  },
   {
    "id": "rss-2840967676",
    "title": "ウクライナがクリミア橋を攻撃、1週間で3度目 ロシア当局が発表",
@@ -26,28 +74,16 @@
    "place": "クリミア"
   },
   {
-   "id": "rss-28430133",
-   "title": "中国・平陸運河を台湾のメディア関係者が見学 観光や交流に期待",
+   "id": "rss-2945044388",
+   "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月19日の動き）",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.664,
-   "lon": 116.923,
-   "cat": "other",
-   "at": "2026-11-19T07:00:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663058",
-   "place": "中国"
-  },
-  {
-   "id": "rss-78762990",
-   "title": "中国の若者に人気の「中華版カウンター料理」",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.649,
-   "lon": 116.827,
-   "cat": "other",
-   "at": "2026-11-19T07:00:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663055",
-   "place": "中国"
+   "lat": 56.118,
+   "lon": 37.258,
+   "cat": "conflict",
+   "at": "2026-11-19T06:39:46.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261028de67094",
+   "place": "ロシア"
   },
   {
    "id": "rss-3435824774",
@@ -60,6 +96,18 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663244",
    "place": "ウクライナ"
+  },
+  {
+   "id": "rss-3536343393",
+   "title": "北京大興国際空港 2026年の旅客取扱量が5000万人超",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.146,
+   "lon": 115.89,
+   "cat": "other",
+   "at": "2026-11-19T06:20:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663278",
+   "place": "北京"
   },
   {
    "id": "rss-1071537432",
@@ -194,30 +242,6 @@
    "place": "ロシア"
   },
   {
-   "id": "rss-3458409022",
-   "title": "高市首相 APECで中国の習主席と再度握手 首脳会議に臨む",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.84,
-   "lon": 117.158,
-   "cat": "diplomacy",
-   "at": "2026-11-19T03:16:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261119de78187",
-   "place": "中国"
-  },
-  {
-   "id": "rss-3002322700",
-   "title": "米防衛技術大手パランティアの従業員にストーカー行為、ロシア人の男を逮捕・起訴 情報筋",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.254,
-   "lon": 37.706,
-   "cat": "other",
-   "at": "2026-11-19T02:34:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/usa/35255126.html?ref=rss",
-   "place": "ロシア"
-  },
-  {
    "id": "rss-3896462268",
    "title": "イスラエル軍、ガザで地上作戦 ハマスは「停戦違反」と非難",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -252,6 +276,18 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/world/35255127.html?ref=rss",
    "place": "イスラエル"
+  },
+  {
+   "id": "rss-4277655694",
+   "title": "クリミア半島とロシア本土を結ぶ橋に再び攻撃",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 44.852,
+   "lon": 34.807,
+   "cat": "conflict",
+   "at": "2026-11-19T01:17:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/world/35255123.html?ref=rss",
+   "place": "クリミア"
   },
   {
    "id": "rss-1614117704",
@@ -554,18 +590,6 @@
    "place": "エクアドル"
   },
   {
-   "id": "rss-1319121432",
-   "title": "ロシアとクリミアを結ぶ橋が一部崩落 ゼレンスキー氏はウクライナの「前例のない」攻撃を称賛",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 45.252,
-   "lon": 33.665,
-   "cat": "disaster",
-   "at": "2026-11-18T02:09:17.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/c6ewv5x7g544o?at_medium=RSS&at_campaign=rss",
-   "place": "クリミア"
-  },
-  {
    "id": "rss-2157884914",
    "title": "対ロ交渉を米国に委ねるのは無責任、欧州はプーチン氏と直接対話を フィンランド大統領",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -672,30 +696,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261117de76912",
    "place": "福岡"
-  },
-  {
-   "id": "rss-2113289396",
-   "title": "米アップル、iPhone修理妨害の疑いでパリで公判へ 「計画的陳腐化」か",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 48.295,
-   "lon": 2.435,
-   "cat": "other",
-   "at": "2026-11-17T08:13:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662843",
-   "place": "パリ"
-  },
-  {
-   "id": "rss-2269708272",
-   "title": "キーウの主要な橋2本をロシアが攻撃、市長が発表 米欧ウのオンライン協議の後に",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 50.892,
-   "lon": 30.347,
-   "cat": "conflict",
-   "at": "2026-11-17T07:49:22.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/ck3rgq2nr8rro?at_medium=RSS&at_campaign=rss",
-   "place": "キーウ"
   },
   {
    "id": "20261112-us-midterm-trump",
