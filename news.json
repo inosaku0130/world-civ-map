@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T20:05:06.873Z",
+ "updatedAt": "2026-11-19T22:50:53.142Z",
  "items": [
   {
    "id": "rss-4267450706",
@@ -708,18 +708,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662901",
    "place": "デンマーク"
-  },
-  {
-   "id": "rss-4244635389",
-   "title": "クアッド首脳会議、マニラで開催",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 14.268,
-   "lon": 121.375,
-   "cat": "diplomacy",
-   "at": "2026-11-17T22:12:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662884",
-   "place": "マニラ"
   },
   {
    "id": "20261112-us-midterm-trump",
