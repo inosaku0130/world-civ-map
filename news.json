@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T17:07:01.481Z",
+ "updatedAt": "2026-11-19T19:00:14.302Z",
  "items": [
   {
    "id": "rss-4020783422",
@@ -732,18 +732,6 @@
    "source": "CNN",
    "url": "https://www.cnn.com/2026/11/12/politics/live-news/trump-congress",
    "place": "ワシントンD.C."
-  },
-  {
-   "id": "20261112-brooklyn-collapse",
-   "title": "ニューヨーク・ブルックリンで建物が崩落",
-   "summary": "少なくとも8人が死亡、数十人が負傷。救助隊が生存者の捜索を続けている。",
-   "lat": 40.65,
-   "lon": -73.95,
-   "cat": "disaster",
-   "at": "2026-11-12T18:00:00Z",
-   "source": "NPR",
-   "url": "https://www.npr.org/sections/news/",
-   "place": "ニューヨーク"
   }
  ]
 }
