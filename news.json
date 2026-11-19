@@ -1,6 +1,54 @@
 {
- "updatedAt": "2026-11-19T02:54:00.508Z",
+ "updatedAt": "2026-11-19T03:58:25.418Z",
  "items": [
+  {
+   "id": "rss-2896958719",
+   "title": "北朝鮮メディア トランプ大統領「米朝会談」発言に反応伝えず",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 38.541,
+   "lon": 125.95,
+   "cat": "diplomacy",
+   "at": "2026-11-19T03:49:26.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261119de78261",
+   "place": "北朝鮮"
+  },
+  {
+   "id": "rss-3836162495",
+   "title": "イラン、湾岸地域での攻撃範囲拡大 米軍によるミサイル発射施設への攻撃受け",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 36.132,
+   "lon": 51.217,
+   "cat": "conflict",
+   "at": "2026-11-19T03:46:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/world/35255135.html?ref=rss",
+   "place": "イラン"
+  },
+  {
+   "id": "rss-3610184232",
+   "title": "【解説】 プーチン氏にとって米中ロ首脳会談は快挙＝BBCロシア編集長",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.682,
+   "lon": 38.278,
+   "cat": "diplomacy",
+   "at": "2026-11-19T03:24:59.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/crlyenvl96jqo?at_medium=RSS&at_campaign=rss",
+   "place": "ロシア"
+  },
+  {
+   "id": "rss-3458409022",
+   "title": "高市首相 APECで中国の習主席と再度握手 首脳会議に臨む",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.84,
+   "lon": 117.158,
+   "cat": "diplomacy",
+   "at": "2026-11-19T03:16:00.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261119de78187",
+   "place": "中国"
+  },
   {
    "id": "rss-3002322700",
    "title": "米防衛技術大手パランティアの従業員にストーカー行為、ロシア人の男を逮捕・起訴 情報筋",
@@ -206,18 +254,6 @@
    "place": "韓国"
   },
   {
-   "id": "rss-802110416",
-   "title": "APEC首脳会議 中国で開幕 NW9広内キャスターが現地取材",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.109,
-   "lon": 116.39,
-   "cat": "diplomacy",
-   "at": "2026-11-18T13:03:42.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261118de77987",
-   "place": "中国"
-  },
-  {
    "id": "rss-783508416",
    "title": "イスラエル新議長は野党議員 ネタニヤフ首相に痛手",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -326,18 +362,6 @@
    "place": "上海"
   },
   {
-   "id": "rss-2928266769",
-   "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月18日の動き）",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.443,
-   "lon": 38.036,
-   "cat": "conflict",
-   "at": "2026-11-18T06:57:49.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261028de67093",
-   "place": "ロシア"
-  },
-  {
    "id": "rss-1991705746",
    "title": "米メトロポリタン美術館のジュエリーコレクション展が上海に上陸",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -444,18 +468,6 @@
    "source": "BBC News Japan",
    "url": "https://www.bbc.com/japanese/articles/c6ewv5x7g544o?at_medium=RSS&at_campaign=rss",
    "place": "クリミア"
-  },
-  {
-   "id": "rss-1762226069",
-   "title": "米軍がイランのミサイル施設を攻撃 両者で攻撃の応酬に",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 35.625,
-   "lon": 52.065,
-   "cat": "conflict",
-   "at": "2026-11-18T01:48:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261118de77531",
-   "place": "イラン"
   },
   {
    "id": "rss-2157884914",
@@ -672,30 +684,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/usa/35255006.html?ref=rss",
    "place": "ワシントン"
-  },
-  {
-   "id": "rss-1845980932",
-   "title": "「ボスの中のボス」、有力カルテル率いた受刑者が80歳で病死 メキシコ",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 18.979,
-   "lon": -98.893,
-   "cat": "other",
-   "at": "2026-11-17T03:27:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/world/35254988.html?ref=rss",
-   "place": "メキシコ"
-  },
-  {
-   "id": "rss-4294152510",
-   "title": "推定ロシア機2機が領空侵犯、福岡県沖ノ島北西 政府が厳重抗議",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 33.211,
-   "lon": 130.656,
-   "cat": "politics",
-   "at": "2026-11-17T02:56:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662737",
-   "place": "福岡"
   },
   {
    "id": "20261112-us-midterm-trump",
