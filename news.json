@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-20T02:53:19.986Z",
+ "updatedAt": "2026-11-20T03:55:29.495Z",
  "items": [
+  {
+   "id": "rss-2944030462",
+   "title": "トランプ大統領 アジア訪問終えホワイトハウスに 各国の反応は",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.338,
+   "lon": -77.294,
+   "cat": "diplomacy",
+   "at": "2026-11-20T03:00:35.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261120de78820",
+   "place": "ワシントン"
+  },
+  {
+   "id": "rss-3042444851",
+   "title": "トランプ氏、ウクライナへのNATO型「安全の保証」に前向き 米特使",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 50.136,
+   "lon": 30.862,
+   "cat": "other",
+   "at": "2026-11-20T02:48:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663382",
+   "place": "ウクライナ"
+  },
   {
    "id": "rss-2887056159",
    "title": "国際司法裁判所、ミャンマーによるジェノサイドの罪を認定 少数民族ロヒンギャを迫害",
@@ -288,18 +312,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78660",
    "place": "インド"
-  },
-  {
-   "id": "rss-3588941916",
-   "title": "米中ロ首脳会談、1時間20分で終了 核軍縮やウクライナ紛争に言及",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 50.84,
-   "lon": 30.202,
-   "cat": "diplomacy",
-   "at": "2026-11-19T11:01:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663299",
-   "place": "ウクライナ"
   },
   {
    "id": "rss-4233846678",
@@ -708,18 +720,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/world/35255073.html?ref=rss",
    "place": "アイルランド"
-  },
-  {
-   "id": "rss-1906831913",
-   "title": "高市首相、トランプ米大統領とマニラで懇談 米中露会談を前に連携確認",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 14.334,
-   "lon": 121.386,
-   "cat": "diplomacy",
-   "at": "2026-11-18T04:22:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663010",
-   "place": "マニラ"
   }
  ]
 }
