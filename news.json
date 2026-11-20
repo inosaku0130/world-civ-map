@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-20T03:55:29.495Z",
+ "updatedAt": "2026-11-20T06:06:17.117Z",
  "items": [
+  {
+   "id": "rss-2958125439",
+   "title": "鉄器時代の女性、意図的な斬首で殺された可能性 北アイルランドに残された「湿地遺体」の謎を解く",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 53.666,
+   "lon": -6.678,
+   "cat": "other",
+   "at": "2026-11-20T05:51:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/fringe/35255219.html?ref=rss",
+   "place": "アイルランド"
+  },
+  {
+   "id": "rss-4282305468",
+   "title": "欧州諸国首脳、ウクライナでの戦争終結に向けてロシアと協議する用意あると",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 50.648,
+   "lon": 29.946,
+   "cat": "conflict",
+   "at": "2026-11-20T04:58:35.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/cvwy0n8p07r7o?at_medium=RSS&at_campaign=rss",
+   "place": "ウクライナ"
+  },
   {
    "id": "rss-2944030462",
    "title": "トランプ大統領 アジア訪問終えホワイトハウスに 各国の反応は",
@@ -192,18 +216,6 @@
    "source": "sankei.com",
    "url": "https://www.sankei.com/article/20261120-QDAKPC4RWNJB7OJCSQHGQQ2PIM/",
    "place": "韓国"
-  },
-  {
-   "id": "rss-3175694078",
-   "title": "トランプ氏、プーチン氏と習氏に「非常に強いメッセージ」 ウクライナ巡る有志会合に電話参加",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 50.382,
-   "lon": 31.19,
-   "cat": "other",
-   "at": "2026-11-19T23:26:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/usa/35255186.html?ref=rss",
-   "place": "ウクライナ"
   },
   {
    "id": "rss-3345574826",
@@ -684,42 +696,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662800",
    "place": "上海"
-  },
-  {
-   "id": "rss-1991705746",
-   "title": "米メトロポリタン美術館のジュエリーコレクション展が上海に上陸",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 31.408,
-   "lon": 120.868,
-   "cat": "other",
-   "at": "2026-11-18T06:00:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663073",
-   "place": "上海"
-  },
-  {
-   "id": "rss-1127644676",
-   "title": "ロシアに攻撃されたキーウの橋からBBC報告 「橋をめぐる戦い」",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 50.48,
-   "lon": 29.798,
-   "cat": "conflict",
-   "at": "2026-11-18T05:15:31.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/watch/cvj6l57wdrk4o?at_medium=RSS&at_campaign=rss",
-   "place": "キーウ"
-  },
-  {
-   "id": "rss-1810246704",
-   "title": "アイルランドの空港で米軍機に侵入し破壊行為、男を起訴 米司法省",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 53.148,
-   "lon": -5.69,
-   "cat": "other",
-   "at": "2026-11-18T05:15:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/world/35255073.html?ref=rss",
-   "place": "アイルランド"
   }
  ]
 }
