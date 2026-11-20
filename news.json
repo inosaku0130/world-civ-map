@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T12:43:04.664Z",
+ "updatedAt": "2026-11-20T13:58:04.218Z",
  "items": [
   {
    "id": "rss-2164729418",
@@ -96,6 +96,18 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/world/35255236.html?ref=rss",
    "place": "ロシア"
+  },
+  {
+   "id": "rss-2994363319",
+   "title": "シンガポール訪問の愛子さま「実り多い滞在」",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 1.038,
+   "lon": 104.166,
+   "cat": "diplomacy",
+   "at": "2026-11-20T08:43:00.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261120de78827",
+   "place": "シンガポール"
   },
   {
    "id": "rss-1815917991",
@@ -708,18 +720,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78087",
    "place": "EU（ブリュッセル）"
-  },
-  {
-   "id": "rss-3504455527",
-   "title": "日本とインドとの関係強化へ 政財界の関係者が議論",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 29.079,
-   "lon": 76.997,
-   "cat": "other",
-   "at": "2026-11-18T13:30:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261118de78046",
-   "place": "インド"
   }
  ]
 }
