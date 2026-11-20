@@ -1,6 +1,66 @@
 {
- "updatedAt": "2026-11-20T00:29:30.498Z",
+ "updatedAt": "2026-11-20T01:55:19.705Z",
  "items": [
+  {
+   "id": "rss-2843217653",
+   "title": "気候変動の偽情報投稿 国連「対策の障害に」日本も増加 注意を",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.292,
+   "lon": -73.82,
+   "cat": "diplomacy",
+   "at": "2026-11-20T01:32:40.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261120de78810",
+   "place": "国連本部"
+  },
+  {
+   "id": "rss-1944315414",
+   "title": "ミャンマー軍はロヒンギャにジェノサイドと認定 国際司法裁判所",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 19.442,
+   "lon": 96.418,
+   "cat": "other",
+   "at": "2026-11-20T01:27:30.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/crq5vz4j0xlvo?at_medium=RSS&at_campaign=rss",
+   "place": "ミャンマー"
+  },
+  {
+   "id": "rss-1014324428",
+   "title": "スウェーデン名門校に下級生に対する「暴力と虐待の文化」 最上級生6人を性的暴行などで起訴",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 59.76,
+   "lon": 17.881,
+   "cat": "other",
+   "at": "2026-11-20T01:27:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663343",
+   "place": "スウェーデン"
+  },
+  {
+   "id": "rss-1047879666",
+   "title": "国際舞台の最前列に復帰 プーチン氏、中国で米中首脳と並び立つ",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.942,
+   "lon": 115.694,
+   "cat": "diplomacy",
+   "at": "2026-11-20T01:19:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663341",
+   "place": "中国"
+  },
+  {
+   "id": "rss-26889210",
+   "title": "クリミア半島とロシア本土結ぶ橋に週3回目の攻撃、鉄道も一時停止 プーチン氏は報復表明",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 44.454,
+   "lon": 34.278,
+   "cat": "conflict",
+   "at": "2026-11-20T00:57:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/world/35255196.html?ref=rss",
+   "place": "クリミア"
+  },
   {
    "id": "rss-997252619",
    "title": "ミャンマーのロヒンギャ迫害はジェノサイド、国際司法裁判所が認定",
@@ -206,18 +266,6 @@
    "place": "中国"
   },
   {
-   "id": "rss-3458409022",
-   "title": "高市首相 訪問先の中国で記者会見【動画 全編】",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.84,
-   "lon": 117.158,
-   "cat": "diplomacy",
-   "at": "2026-11-19T09:09:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261119de78187",
-   "place": "中国"
-  },
-  {
    "id": "rss-2272877659",
    "title": "「子羊の目が不気味」、復元された15世紀絵画に戸惑いの声 20年ベルギー",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -239,18 +287,6 @@
    "at": "2026-11-19T07:24:45.000Z",
    "source": "BBC News Japan",
    "url": "https://www.bbc.com/japanese/articles/c5j9m1kkkj3ro?at_medium=RSS&at_campaign=rss",
-   "place": "クリミア"
-  },
-  {
-   "id": "rss-3687636154",
-   "title": "クリミア橋に攻撃、1週間で3回目 通行は一時停止",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 45.255,
-   "lon": 33.745,
-   "cat": "conflict",
-   "at": "2026-11-19T07:23:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663257",
    "place": "クリミア"
   },
   {
@@ -684,42 +720,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662990",
    "place": "イタリア"
-  },
-  {
-   "id": "rss-1509809529",
-   "title": "漁船を襲った謎のドローン攻撃、エクアドルの漁師が米政府を提訴 EEZ内で攻撃と主張",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": -0.941,
-   "lon": -78.593,
-   "cat": "conflict",
-   "at": "2026-11-18T03:23:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/world/35255061.html?ref=rss",
-   "place": "エクアドル"
-  },
-  {
-   "id": "rss-2157884914",
-   "title": "対ロ交渉を米国に委ねるのは無責任、欧州はプーチン氏と直接対話を フィンランド大統領",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 60.744,
-   "lon": 24.943,
-   "cat": "diplomacy",
-   "at": "2026-11-18T01:36:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662922",
-   "place": "フィンランド"
-  },
-  {
-   "id": "rss-2855263331",
-   "title": "トランプ氏、アジア歴訪初日にフィリピン訪問 クアッド首脳会議に参加",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 14.32,
-   "lon": 121.369,
-   "cat": "diplomacy",
-   "at": "2026-11-18T01:04:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/world/35255038.html?ref=rss",
-   "place": "フィリピン"
   }
  ]
 }
