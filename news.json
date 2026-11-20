@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-20T08:34:54.298Z",
+ "updatedAt": "2026-11-20T09:40:13.684Z",
  "items": [
+  {
+   "id": "rss-897348899",
+   "title": "ロシアがウクライナに大規模攻撃、死者も 米中ロ会談で「世界平和の推進役」を自任",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.976,
+   "lon": 37.07,
+   "cat": "conflict",
+   "at": "2026-11-20T09:22:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/world/35255236.html?ref=rss",
+   "place": "ロシア"
+  },
   {
    "id": "rss-1815917991",
    "title": "ヘンリー王子、必要ならロシアと戦うため軍に復帰する用意 英メディアに発言",
@@ -98,6 +110,18 @@
    "place": "大阪"
   },
   {
+   "id": "rss-2961822007",
+   "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月20日の動き）",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 56.067,
+   "lon": 37.268,
+   "cat": "conflict",
+   "at": "2026-11-20T06:14:00.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261028de67095",
+   "place": "ロシア"
+  },
+  {
    "id": "rss-2956352731",
    "title": "米軍の対イラン戦費、約7兆7200億円 国防総省",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -180,18 +204,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/world/35255210.html?ref=rss",
    "place": "ミャンマー"
-  },
-  {
-   "id": "rss-3290398141",
-   "title": "米検察、ロシア人をスパイ罪で起訴 ウクライナ支援する米企業を狙ったか",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.872,
-   "lon": 36.93,
-   "cat": "economy",
-   "at": "2026-11-20T02:17:11.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cw1md545zk5xo?at_medium=RSS&at_campaign=rss",
-   "place": "ロシア"
   },
   {
    "id": "rss-3795066067",
@@ -324,18 +336,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663316",
    "place": "クリミア"
-  },
-  {
-   "id": "rss-3295241969",
-   "title": "ヘンリー英王子、必要なら軍務に復帰しロシアと戦う用意",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.807,
-   "lon": 36.844,
-   "cat": "other",
-   "at": "2026-11-19T23:00:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663313",
-   "place": "ロシア"
   },
   {
    "id": "rss-4267450706",
@@ -696,30 +696,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663093",
    "place": "イスラエル"
-  },
-  {
-   "id": "rss-3250585714",
-   "title": "フィリピン警察、英メガン妃の父を起訴するよう検察に要請、児童ポルノめぐり",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 14.51,
-   "lon": 121.622,
-   "cat": "other",
-   "at": "2026-11-18T09:12:19.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cry498kn8ejzo?at_medium=RSS&at_campaign=rss",
-   "place": "フィリピン"
-  },
-  {
-   "id": "rss-507424731",
-   "title": "EUの域内生産EV優遇措置を検討 日本の鉄鋼業界から懸念の声",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 50.898,
-   "lon": 3.652,
-   "cat": "other",
-   "at": "2026-11-18T08:36:20.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261118de77689",
-   "place": "EU（ブリュッセル）"
   }
  ]
 }
