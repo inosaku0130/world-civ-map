@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-20T22:48:06.712Z",
+ "updatedAt": "2026-11-20T23:48:28.418Z",
  "items": [
+  {
+   "id": "rss-315463410",
+   "title": "中国、日本に「誤った言動の是正」要求「真に客観的かつ理性的になるべき」",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.387,
+   "lon": 116.288,
+   "cat": "other",
+   "at": "2026-11-20T23:25:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663547",
+   "place": "中国"
+  },
+  {
+   "id": "rss-4289244106",
+   "title": "国連事務総長は9回目の投票も決まらず",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 41.277,
+   "lon": -74.106,
+   "cat": "diplomacy",
+   "at": "2026-11-20T22:51:29.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261121de79510",
+   "place": "国連本部"
+  },
   {
    "id": "rss-2130704728",
    "title": "英EU首脳会談 輸出入手続きの簡素化で合意 離脱後の関係強化",
@@ -180,18 +204,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663506",
    "place": "ウクライナ"
-  },
-  {
-   "id": "rss-1220884876",
-   "title": "【三里河中国経済観察】中国の民間企業、アジア太平洋地域の経済協力で存在感",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.069,
-   "lon": 115.787,
-   "cat": "economy",
-   "at": "2026-11-20T07:10:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663264",
-   "place": "中国"
   },
   {
    "id": "rss-1735374279",
@@ -696,18 +708,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/usa/35255119.html?ref=rss",
    "place": "ベネズエラ"
-  },
-  {
-   "id": "rss-4255990966",
-   "title": "トランプ氏、プーチン氏と19日に個別会談へ 米特使はドイツでウクライナ協議",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 52.309,
-   "lon": 13.957,
-   "cat": "diplomacy",
-   "at": "2026-11-18T23:19:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/usa/35255115.html?ref=rss",
-   "place": "ドイツ"
   }
  ]
 }
