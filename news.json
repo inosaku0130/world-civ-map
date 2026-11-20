@@ -1,6 +1,54 @@
 {
- "updatedAt": "2026-11-20T01:55:19.705Z",
+ "updatedAt": "2026-11-20T02:53:19.986Z",
  "items": [
+  {
+   "id": "rss-2887056159",
+   "title": "国際司法裁判所、ミャンマーによるジェノサイドの罪を認定 少数民族ロヒンギャを迫害",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 19.455,
+   "lon": 96.435,
+   "cat": "other",
+   "at": "2026-11-20T02:38:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/world/35255210.html?ref=rss",
+   "place": "ミャンマー"
+  },
+  {
+   "id": "rss-3290398141",
+   "title": "米検察、ロシア人をスパイ罪で起訴 ウクライナ支援する米企業を狙ったか",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.872,
+   "lon": 36.93,
+   "cat": "economy",
+   "at": "2026-11-20T02:17:11.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/cw1md545zk5xo?at_medium=RSS&at_campaign=rss",
+   "place": "ロシア"
+  },
+  {
+   "id": "rss-3795066067",
+   "title": "トランプ氏、イラン戦争巡る判断は「急がず」 年明けに情勢を見極める考え",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 35.472,
+   "lon": 51.86,
+   "cat": "conflict",
+   "at": "2026-11-20T02:01:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/usa/35255208.html?ref=rss",
+   "place": "イラン"
+  },
+  {
+   "id": "rss-278525848",
+   "title": "アメリカの「はしか排除国」認定、26年ぶり取り消し 2年連続の記録的症例数を受け",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.435,
+   "lon": -77.088,
+   "cat": "other",
+   "at": "2026-11-20T01:57:10.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/cm1wr0nrp1e7o?at_medium=RSS&at_campaign=rss",
+   "place": "アメリカ"
+  },
   {
    "id": "rss-2843217653",
    "title": "気候変動の偽情報投稿 国連「対策の障害に」日本も増加 注意を",
@@ -60,6 +108,18 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/world/35255196.html?ref=rss",
    "place": "クリミア"
+  },
+  {
+   "id": "rss-1279197390",
+   "title": "高市首相の 「 約10秒間の握手 」 大国主義の危機に問われる外交手腕 [ 台湾有事答弁めぐる日中応酬 存立危機事態 高市首相 中国 ][ 高市早苗首相 自民党総裁 ][ アジア太平洋経済協力会議 ][ トランプ米大統領 ]： 朝日新聞",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 24.501,
+   "lon": 121.616,
+   "cat": "politics",
+   "at": "2026-11-20T00:15:00.000Z",
+   "source": "asahi.com",
+   "url": "https://www.asahi.com/articles/ASVCM4S6ZVCMUTFK011M.html",
+   "place": "台湾"
   },
   {
    "id": "rss-997252619",
@@ -242,18 +302,6 @@
    "place": "ウクライナ"
   },
   {
-   "id": "rss-89730858",
-   "title": "ミャンマー政権トップ「ASEANとの関係見直す」",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 19.44,
-   "lon": 96.414,
-   "cat": "politics",
-   "at": "2026-11-19T10:09:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261119de78639",
-   "place": "ミャンマー"
-  },
-  {
    "id": "rss-4233846678",
    "title": "中国 高市首相 出迎え「国際慣例に基づく適切な儀礼上の手配」",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -312,18 +360,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663278",
    "place": "北京"
-  },
-  {
-   "id": "rss-1071537432",
-   "title": "【分析】ロシア、異例の武力誇示繰り返す 米中との3首脳会談控えての思惑は",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.969,
-   "lon": 37.137,
-   "cat": "diplomacy",
-   "at": "2026-11-19T06:15:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/world/35255147.html?ref=rss",
-   "place": "ロシア"
   },
   {
    "id": "rss-2754110248",
@@ -590,18 +626,6 @@
    "place": "イスラエル"
   },
   {
-   "id": "rss-1762226069",
-   "title": "米軍がイランのミサイル施設を攻撃 両者で攻撃の応酬に",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 35.625,
-   "lon": 52.065,
-   "cat": "conflict",
-   "at": "2026-11-18T10:03:58.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261118de77531",
-   "place": "イラン"
-  },
-  {
    "id": "rss-3250585714",
    "title": "フィリピン警察、英メガン妃の父を起訴するよう検察に要請、児童ポルノめぐり",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -635,18 +659,6 @@
    "at": "2026-11-18T07:23:37.000Z",
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261118de77720",
-   "place": "アメリカ"
-  },
-  {
-   "id": "rss-1124890674",
-   "title": "アメリカで相次いだ技術障害、「組織的な攻撃ではない」とルビオ国務長官",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 38.659,
-   "lon": -76.6,
-   "cat": "conflict",
-   "at": "2026-11-18T07:16:11.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cq5y17lee2vyo?at_medium=RSS&at_campaign=rss",
    "place": "アメリカ"
   },
   {
@@ -708,18 +720,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663010",
    "place": "マニラ"
-  },
-  {
-   "id": "rss-9614207",
-   "title": "イタリア議会、反ユダヤ主義対策法案を可決 イスラエル批判への影響めぐり賛否",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 41.506,
-   "lon": 12.814,
-   "cat": "politics",
-   "at": "2026-11-18T03:44:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662990",
-   "place": "イタリア"
   }
  ]
 }
