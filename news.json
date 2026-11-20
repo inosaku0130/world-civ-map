@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-11-20T07:21:09.402Z",
+ "updatedAt": "2026-11-20T08:34:54.298Z",
  "items": [
+  {
+   "id": "rss-1815917991",
+   "title": "ヘンリー王子、必要ならロシアと戦うため軍に復帰する用意 英メディアに発言",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 56.242,
+   "lon": 37.425,
+   "cat": "other",
+   "at": "2026-11-20T08:22:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/world/35255232.html?ref=rss",
+   "place": "ロシア"
+  },
+  {
+   "id": "rss-3217587094",
+   "title": "ペルー フジモリ大統領 日本からの投資や企業進出を呼びかけ",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": -11.6,
+   "lon": -77.278,
+   "cat": "politics",
+   "at": "2026-11-20T08:16:42.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261120de79139",
+   "place": "ペルー"
+  },
+  {
+   "id": "rss-2748806545",
+   "title": "ウクライナへ大規模攻撃、プーチン氏が「痛烈な」報復表明後",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 50.992,
+   "lon": 30.405,
+   "cat": "conflict",
+   "at": "2026-11-20T07:59:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663506",
+   "place": "ウクライナ"
+  },
   {
    "id": "rss-1220884876",
    "title": "【三里河中国経済観察】中国の民間企業、アジア太平洋地域の経済協力で存在感",
@@ -36,6 +72,30 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663485",
    "place": "中国"
+  },
+  {
+   "id": "rss-1735374279",
+   "title": "両陛下 、 海づくり大会式典にご臨席 愛子さまがシンガポールをご訪問 皇室ウイークリー 皇室ウイークリー （ 975 ）",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 1.15,
+   "lon": 104.391,
+   "cat": "diplomacy",
+   "at": "2026-11-20T06:45:00.000Z",
+   "source": "sankei.com",
+   "url": "https://www.sankei.com/article/20261120-P7T4CBJAONMMZLPTBGMOTHUX3A/",
+   "place": "シンガポール"
+  },
+  {
+   "id": "rss-2174036084",
+   "title": "暴行映像 、 父のスマホに 事件時の物証 、 全容解明へ ― 両親逮捕１週間 ・ 大阪女児虐待 ： 時事ドットコム",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 34.282,
+   "lon": 135.718,
+   "cat": "other",
+   "at": "2026-11-20T06:15:00.000Z",
+   "source": "jiji.com",
+   "url": "https://www.jiji.com/jc/article?k=2026112000289&g=soc",
+   "place": "大阪"
   },
   {
    "id": "rss-2956352731",
@@ -96,6 +156,18 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663382",
    "place": "ウクライナ"
+  },
+  {
+   "id": "rss-490758290",
+   "title": "ゴダイゴ 46年ぶりネパールの舞台へ 50周年の初主催フェスでも健在示す",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 28.304,
+   "lon": 83.003,
+   "cat": "other",
+   "at": "2026-11-20T02:45:00.000Z",
+   "source": "sankei.com",
+   "url": "https://www.sankei.com/article/20261120-JHPMZOE2K5KYNDY4PHCKFUXLOI/",
+   "place": "ネパール"
   },
   {
    "id": "rss-2887056159",
@@ -216,18 +288,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663328",
    "place": "ミャンマー"
-  },
-  {
-   "id": "rss-946919762",
-   "title": "「負け犬トリオ」に何が決められる？ ウクライナ国民、米中ロ首脳会談を冷笑",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 50.937,
-   "lon": 30.408,
-   "cat": "diplomacy",
-   "at": "2026-11-19T23:48:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663327",
-   "place": "ウクライナ"
   },
   {
    "id": "rss-2986737702",
@@ -372,18 +432,6 @@
    "source": "BBC News Japan",
    "url": "https://www.bbc.com/japanese/articles/c5j9m1kkkj3ro?at_medium=RSS&at_campaign=rss",
    "place": "クリミア"
-  },
-  {
-   "id": "rss-2945044388",
-   "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月19日の動き）",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 56.118,
-   "lon": 37.258,
-   "cat": "conflict",
-   "at": "2026-11-19T06:39:46.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261028de67094",
-   "place": "ロシア"
   },
   {
    "id": "rss-3536343393",
@@ -672,18 +720,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261118de77689",
    "place": "EU（ブリュッセル）"
-  },
-  {
-   "id": "rss-2548373681",
-   "title": "アメリカ中間選挙 アラスカ州も民主当確 上院で56議席に",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 38.353,
-   "lon": -76.458,
-   "cat": "politics",
-   "at": "2026-11-18T07:23:37.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261118de77720",
-   "place": "アメリカ"
   }
  ]
 }
