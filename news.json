@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-21T12:28:44.939Z",
+ "updatedAt": "2026-11-21T13:43:18.165Z",
  "items": [
+  {
+   "id": "rss-801555723",
+   "title": "99歳女性、5000万人に1人の「内臓逆位症」 献体で初めて判明 19年米国",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 38.649,
+   "lon": -76.613,
+   "cat": "other",
+   "at": "2026-11-21T13:40:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/fringe/35255259.html?ref=rss",
+   "place": "アメリカ"
+  },
+  {
+   "id": "rss-3587131684",
+   "title": "ウクライナ支援の有志連合 初の軍事演習をメディアに公開",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 50.646,
+   "lon": 30.019,
+   "cat": "conflict",
+   "at": "2026-11-21T12:30:45.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261121de79750",
+   "place": "ウクライナ"
+  },
   {
    "id": "rss-3734558605",
    "title": "サッカー : FC東京 、 J1新記録の10戦連続無失点 21日の結果と戦評",
@@ -254,18 +278,6 @@
    "place": "ペルー"
   },
   {
-   "id": "rss-1583284209",
-   "title": "アメリカとヴェネズエラ、軍事協力の再構築で合意 マドゥロ前大統領拘束から1年足らず",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.17,
-   "lon": -77.442,
-   "cat": "conflict",
-   "at": "2026-11-20T11:23:11.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/c9e85mzrjn5xo?at_medium=RSS&at_campaign=rss",
-   "place": "アメリカ"
-  },
-  {
    "id": "rss-3969511774",
    "title": "ミャンマー政権側 ICJ判決に「不公平」と反発",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -360,18 +372,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de79139",
    "place": "ペルー"
-  },
-  {
-   "id": "rss-2748806545",
-   "title": "ウクライナへ大規模攻撃、プーチン氏が「痛烈な」報復表明後",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 50.992,
-   "lon": 30.405,
-   "cat": "conflict",
-   "at": "2026-11-20T07:59:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663506",
-   "place": "ウクライナ"
   },
   {
    "id": "rss-2174036084",
@@ -588,18 +588,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78723",
    "place": "ドイツ"
-  },
-  {
-   "id": "rss-3819157804",
-   "title": "高市首相 フィリピン・中国の訪問を終えて帰国",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 14.26,
-   "lon": 121.289,
-   "cat": "diplomacy",
-   "at": "2026-11-19T13:36:35.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261119de78707",
-   "place": "フィリピン"
   }
  ]
 }
