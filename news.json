@@ -1,6 +1,54 @@
 {
- "updatedAt": "2026-11-21T06:20:04.606Z",
+ "updatedAt": "2026-11-21T07:40:11.423Z",
  "items": [
+  {
+   "id": "rss-2680563236",
+   "title": "ウクライナで今年1144人の子どもが死傷 1日平均3人 ユニセフ",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 49.924,
+   "lon": 30.581,
+   "cat": "other",
+   "at": "2026-11-21T07:24:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663574",
+   "place": "ウクライナ"
+  },
+  {
+   "id": "rss-2663785617",
+   "title": "ギリシャでスーツケースからブルキナファソ人女性遺体、19歳ギニア人男をフランスで逮捕",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 38.237,
+   "lon": 23.311,
+   "cat": "other",
+   "at": "2026-11-21T06:55:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663573",
+   "place": "ギリシャ"
+  },
+  {
+   "id": "rss-3452455298",
+   "title": "中国当局、支払い期間の長期化が目立つ自動車メーカーを聴取へ",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.222,
+   "lon": 115.99,
+   "cat": "other",
+   "at": "2026-11-21T06:50:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663275",
+   "place": "中国"
+  },
+  {
+   "id": "rss-2647007998",
+   "title": "ベトナム、違法薬物取引や未成年者に対するレイプなどを死刑の対象外に",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 21.007,
+   "lon": 106.581,
+   "cat": "other",
+   "at": "2026-11-21T06:36:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663572",
+   "place": "ベトナム"
+  },
   {
    "id": "rss-1907817651",
    "title": "中国・深センの華強北で「AI八駿」が話題に",
@@ -23,18 +71,6 @@
    "at": "2026-11-21T05:50:00.000Z",
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3662834",
-   "place": "中国"
-  },
-  {
-   "id": "rss-3991838271",
-   "title": "中国タクラマカン砂漠の奥地で樹齢1000年級の巨大コトカケヤナギを発見",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.434,
-   "lon": 116.541,
-   "cat": "other",
-   "at": "2026-11-21T05:40:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662833",
    "place": "中国"
   },
   {
@@ -362,18 +398,6 @@
    "place": "アイルランド"
   },
   {
-   "id": "rss-4282305468",
-   "title": "欧州諸国首脳、ウクライナでの戦争終結に向けてロシアと協議する用意あると",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 50.648,
-   "lon": 29.946,
-   "cat": "conflict",
-   "at": "2026-11-20T04:58:35.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cvwy0n8p07r7o?at_medium=RSS&at_campaign=rss",
-   "place": "ウクライナ"
-  },
-  {
    "id": "rss-2944030462",
    "title": "トランプ大統領 アジア訪問終えホワイトハウスに 各国の反応は",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -612,18 +636,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/style/arts/35255164.html?ref=rss",
    "place": "ベルギー"
-  },
-  {
-   "id": "rss-2840967676",
-   "title": "ウクライナがクリミア橋を攻撃、1週間で3度目 ロシア当局が発表",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 44.72,
-   "lon": 34.631,
-   "cat": "conflict",
-   "at": "2026-11-19T07:24:45.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/c5j9m1kkkj3ro?at_medium=RSS&at_campaign=rss",
-   "place": "クリミア"
   }
  ]
 }
