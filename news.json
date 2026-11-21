@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-21T03:11:15.602Z",
+ "updatedAt": "2026-11-21T04:20:01.926Z",
  "items": [
+  {
+   "id": "rss-3011391639",
+   "title": "英・EU、食品輸出や青少年プログラムなどで合意 関係深化を検討するとバーナム英首相",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 51.19,
+   "lon": 4.041,
+   "cat": "diplomacy",
+   "at": "2026-11-21T03:45:57.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/c61wr0wnnpxpo?at_medium=RSS&at_campaign=rss",
+   "place": "EU（ブリュッセル）"
+  },
   {
    "id": "rss-516500648",
    "title": "女性議員の顔面殴り重傷負わせた疑い セルビア首都の市長起訴",
@@ -660,30 +672,6 @@
    "source": "BBC News Japan",
    "url": "https://www.bbc.com/japanese/articles/cj62p6q10xngo?at_medium=RSS&at_campaign=rss",
    "place": "ガザ"
-  },
-  {
-   "id": "rss-1238648233",
-   "title": "イランが湾岸諸国に攻撃、米軍のケシュム島攻撃受け",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 36.015,
-   "lon": 50.985,
-   "cat": "conflict",
-   "at": "2026-11-19T03:57:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663201",
-   "place": "イラン"
-  },
-  {
-   "id": "rss-2896958719",
-   "title": "北朝鮮メディア トランプ大統領「米朝会談」発言に反応伝えず",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 38.541,
-   "lon": 125.95,
-   "cat": "diplomacy",
-   "at": "2026-11-19T03:49:26.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261119de78261",
-   "place": "北朝鮮"
   }
  ]
 }
