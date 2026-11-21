@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-21T11:28:38.270Z",
+ "updatedAt": "2026-11-21T12:28:44.939Z",
  "items": [
+  {
+   "id": "rss-3734558605",
+   "title": "サッカー : FC東京 、 J1新記録の10戦連続無失点 21日の結果と戦評",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 36.188,
+   "lon": 139.598,
+   "cat": "other",
+   "at": "2026-11-21T11:30:00.000Z",
+   "source": "nikkei.com",
+   "url": "https://www.nikkei.com/article/DGXZQODH211QU0R21C26A1000000/",
+   "place": "東京"
+  },
   {
    "id": "rss-3053814064",
    "title": "FBI最重要指名手配者の麻薬カルテル首領、メキシコ軍の作戦で身柄拘束か 激しい銃撃戦も",
@@ -588,18 +600,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78707",
    "place": "フィリピン"
-  },
-  {
-   "id": "rss-607413659",
-   "title": "韓国で大学入試 スマートグラスなどＡＩ不正に警戒",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 37.644,
-   "lon": 126.318,
-   "cat": "other",
-   "at": "2026-11-19T11:56:27.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261119de78342",
-   "place": "韓国"
   }
  ]
 }
