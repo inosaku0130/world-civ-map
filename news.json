@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T14:32:25.880Z",
+ "updatedAt": "2026-11-21T16:26:58.446Z",
  "items": [
   {
    "id": "rss-801555723",
@@ -36,6 +36,18 @@
    "source": "mainichi.jp",
    "url": "https://mainichi.jp/articles/20261121/spp/sp0/006/338000c",
    "place": "大阪"
+  },
+  {
+   "id": "rss-1122283799",
+   "title": "【詳細】ロシア ウクライナに軍事侵攻（11月21日の動き）",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.195,
+   "lon": 37.705,
+   "cat": "conflict",
+   "at": "2026-11-21T13:00:00.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261028de67165",
+   "place": "ロシア"
   },
   {
    "id": "rss-3587131684",
@@ -408,18 +420,6 @@
    "source": "jiji.com",
    "url": "https://www.jiji.com/jc/article?k=2026112000289&g=soc",
    "place": "大阪"
-  },
-  {
-   "id": "rss-2961822007",
-   "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月20日の動き）",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 56.067,
-   "lon": 37.268,
-   "cat": "conflict",
-   "at": "2026-11-20T06:14:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261028de67095",
-   "place": "ロシア"
   },
   {
    "id": "rss-2956352731",
