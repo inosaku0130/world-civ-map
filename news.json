@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T16:26:58.446Z",
+ "updatedAt": "2026-11-21T17:14:46.595Z",
  "items": [
   {
    "id": "rss-801555723",
@@ -600,18 +600,6 @@
    "source": "asahi.com",
    "url": "https://www.asahi.com/articles/ASVCM4TFDVCMUTFK00WM.html",
    "place": "台湾"
-  },
-  {
-   "id": "rss-4020783422",
-   "title": "ドイツBMW 2018年以来の24時間ストライキ実施へ",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 52.207,
-   "lon": 13.821,
-   "cat": "other",
-   "at": "2026-11-19T16:43:15.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261119de78723",
-   "place": "ドイツ"
   }
  ]
 }
