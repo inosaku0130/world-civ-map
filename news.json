@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T09:30:46.358Z",
+ "updatedAt": "2026-11-21T11:28:38.270Z",
  "items": [
   {
    "id": "rss-3053814064",
@@ -48,6 +48,18 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663275",
    "place": "中国"
+  },
+  {
+   "id": "rss-1434353633",
+   "title": "【 写真まとめ 】 愛子さまシンガポール訪問 マーライオン視察 、 帰国へ ： 朝日新聞",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 1.264,
+   "lon": 104.543,
+   "cat": "diplomacy",
+   "at": "2026-11-21T06:45:00.000Z",
+   "source": "asahi.com",
+   "url": "https://www.asahi.com/articles/ASVCN3D9MVCNUQIP00HM.html",
+   "place": "シンガポール"
   },
   {
    "id": "rss-2647007998",
@@ -350,18 +362,6 @@
    "place": "ウクライナ"
   },
   {
-   "id": "rss-1735374279",
-   "title": "両陛下 、 海づくり大会式典にご臨席 愛子さまがシンガポールをご訪問 皇室ウイークリー 皇室ウイークリー （ 975 ）",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 1.15,
-   "lon": 104.391,
-   "cat": "diplomacy",
-   "at": "2026-11-20T06:45:00.000Z",
-   "source": "sankei.com",
-   "url": "https://www.sankei.com/article/20261120-P7T4CBJAONMMZLPTBGMOTHUX3A/",
-   "place": "シンガポール"
-  },
-  {
    "id": "rss-2174036084",
    "title": "暴行映像 、 父のスマホに 事件時の物証 、 全容解明へ ― 両親逮捕１週間 ・ 大阪女児虐待 ： 時事ドットコム",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -600,42 +600,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78342",
    "place": "韓国"
-  },
-  {
-   "id": "rss-2320462637",
-   "title": "国連人口基金トップ “紛争地域の若者増加 国際支援の継続を”",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.404,
-   "lon": -73.592,
-   "cat": "diplomacy",
-   "at": "2026-11-19T11:20:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261119de78674",
-   "place": "国連本部"
-  },
-  {
-   "id": "rss-38559358",
-   "title": "韓国 前大統領夫人 懲役4年の判決確定 旧統一教会から高級品",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 37.096,
-   "lon": 127.11,
-   "cat": "politics",
-   "at": "2026-11-19T11:14:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261119de78662",
-   "place": "韓国"
-  },
-  {
-   "id": "rss-5004120",
-   "title": "日印2＋2 自由で開かれたインド太平洋実現へ強力深化を確認",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 28.983,
-   "lon": 76.869,
-   "cat": "other",
-   "at": "2026-11-19T11:07:21.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261119de78660",
-   "place": "インド"
   }
  ]
 }
