@@ -1,28 +1,40 @@
 {
- "updatedAt": "2026-11-21T05:21:32.421Z",
+ "updatedAt": "2026-11-21T06:20:04.606Z",
  "items": [
   {
-   "id": "rss-3715924588",
-   "title": "工業観光がブーム 国内外の観光客が中国のスマート生産に関心",
+   "id": "rss-1907817651",
+   "title": "中国・深センの華強北で「AI八駿」が話題に",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.434,
-   "lon": 116.274,
+   "lat": 39.662,
+   "lon": 116.845,
    "cat": "other",
-   "at": "2026-11-21T05:10:00.000Z",
+   "at": "2026-11-21T06:00:00.000Z",
    "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662630",
+   "url": "https://www.afpbb.com/articles/-/3663074",
    "place": "中国"
   },
   {
-   "id": "rss-3934180730",
-   "title": "中国のショートドラマのユーザー8億5000万人に 海外でも爆発的人気",
+   "id": "rss-3941505414",
+   "title": "中国山東省の「章丘ネギ」年間生産量60万トン超 加工品開発で産業拡大",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.642,
-   "lon": 116.894,
+   "lat": 39.486,
+   "lon": 116.61,
    "cat": "other",
-   "at": "2026-11-21T05:00:00.000Z",
+   "at": "2026-11-21T05:50:00.000Z",
    "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3662629",
+   "url": "https://www.afpbb.com/articles/-/3662834",
+   "place": "中国"
+  },
+  {
+   "id": "rss-3991838271",
+   "title": "中国タクラマカン砂漠の奥地で樹齢1000年級の巨大コトカケヤナギを発見",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.434,
+   "lon": 116.541,
+   "cat": "other",
+   "at": "2026-11-21T05:40:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3662833",
    "place": "中国"
   },
   {
@@ -120,18 +132,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663549",
    "place": "ポーランド"
-  },
-  {
-   "id": "rss-315463410",
-   "title": "中国、日本に「誤った言動の是正」要求「真に客観的かつ理性的になるべき」",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.387,
-   "lon": 116.288,
-   "cat": "other",
-   "at": "2026-11-20T23:25:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663547",
-   "place": "中国"
   },
   {
    "id": "rss-4289244106",
@@ -494,6 +494,18 @@
    "place": "韓国"
   },
   {
+   "id": "rss-2754110248",
+   "title": "米ヘグセス国防長官がベネズエラ初訪問 軍事協力協定を締結",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 10.042,
+   "lon": -66.646,
+   "cat": "conflict",
+   "at": "2026-11-19T23:22:10.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261119de78394",
+   "place": "ベネズエラ"
+  },
+  {
    "id": "rss-3345574826",
    "title": "プーチン氏、ウクライナのクリミア橋攻撃に報復表明「はるかに痛烈なものになる」",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -612,54 +624,6 @@
    "source": "BBC News Japan",
    "url": "https://www.bbc.com/japanese/articles/c5j9m1kkkj3ro?at_medium=RSS&at_campaign=rss",
    "place": "クリミア"
-  },
-  {
-   "id": "rss-3536343393",
-   "title": "北京大興国際空港 2026年の旅客取扱量が5000万人超",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.146,
-   "lon": 115.89,
-   "cat": "other",
-   "at": "2026-11-19T06:20:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663278",
-   "place": "北京"
-  },
-  {
-   "id": "rss-2754110248",
-   "title": "米ヘグセス国防長官がベネズエラ初訪問 軍事協力協定を締結",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 10.042,
-   "lon": -66.646,
-   "cat": "conflict",
-   "at": "2026-11-19T06:05:53.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261119de78394",
-   "place": "ベネズエラ"
-  },
-  {
-   "id": "rss-2804590200",
-   "title": "IAEA 北朝鮮のウラン濃縮計画拡大に「深刻な懸念」",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.484,
-   "lon": 125.608,
-   "cat": "other",
-   "at": "2026-11-19T06:03:08.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261119de78387",
-   "place": "北朝鮮"
-  },
-  {
-   "id": "rss-3587117535",
-   "title": "ソマリランド、男性9人を処刑 イスラム法の「同害報復」で銃殺 国連が非難",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 10.34,
-   "lon": 46.152,
-   "cat": "diplomacy",
-   "at": "2026-11-19T05:25:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663229",
-   "place": "ソマリランド"
   }
  ]
 }
