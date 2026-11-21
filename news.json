@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-11-21T01:07:08.931Z",
+ "updatedAt": "2026-11-21T02:14:47.429Z",
  "items": [
+  {
+   "id": "rss-566980600",
+   "title": "英国君主の戴冠式に使われる『運命の石』展示ケースをハンマーでたたく、フランス人男が罪認める",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 52.049,
+   "lon": -0.173,
+   "cat": "other",
+   "at": "2026-11-21T02:07:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663556",
+   "place": "イギリス"
+  },
+  {
+   "id": "rss-617313457",
+   "title": "ミャンマー、国際司法裁判所のジェノサイド認定に「大きな失望」",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 19.39,
+   "lon": 96.349,
+   "cat": "other",
+   "at": "2026-11-21T01:48:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663555",
+   "place": "ミャンマー"
+  },
+  {
+   "id": "rss-4273305130",
+   "title": "トランプ大統領 米国外のデータセンター建設認めず 罰則も",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 38.611,
+   "lon": -76.664,
+   "cat": "politics",
+   "at": "2026-11-21T01:16:55.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261121de79543",
+   "place": "アメリカ"
+  },
   {
    "id": "rss-684423933",
    "title": "愛子さま、シンガポールを公式訪問",
@@ -362,18 +398,6 @@
    "place": "イラン"
   },
   {
-   "id": "rss-278525848",
-   "title": "アメリカの「はしか排除国」認定、26年ぶり取り消し 2年連続の記録的症例数を受け",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.435,
-   "lon": -77.088,
-   "cat": "other",
-   "at": "2026-11-20T01:57:10.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cm1wr0nrp1e7o?at_medium=RSS&at_campaign=rss",
-   "place": "アメリカ"
-  },
-  {
    "id": "rss-2843217653",
    "title": "気候変動の偽情報投稿 国連「対策の障害に」日本も増加 注意を",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -384,18 +408,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78810",
    "place": "国連本部"
-  },
-  {
-   "id": "rss-1944315414",
-   "title": "ミャンマー軍はロヒンギャにジェノサイドと認定 国際司法裁判所",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 19.442,
-   "lon": 96.418,
-   "cat": "other",
-   "at": "2026-11-20T01:27:30.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/crq5vz4j0xlvo?at_medium=RSS&at_campaign=rss",
-   "place": "ミャンマー"
   },
   {
    "id": "rss-1014324428",
@@ -672,30 +684,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663178",
    "place": "ガザ"
-  },
-  {
-   "id": "rss-1682213918",
-   "title": "フランスで記者への暴力や脅迫が深刻化 メディア不信が極まり憎悪の域に",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 48.898,
-   "lon": 1.64,
-   "cat": "other",
-   "at": "2026-11-19T01:57:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663158",
-   "place": "フランス"
-  },
-  {
-   "id": "rss-4260014666",
-   "title": "イスラエル人入植者、72歳パレスチナ人女性を射殺 軍がパレスチナ人2人を拘束",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 31.132,
-   "lon": 34.635,
-   "cat": "other",
-   "at": "2026-11-19T01:40:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/world/35255127.html?ref=rss",
-   "place": "イスラエル"
   }
  ]
 }
