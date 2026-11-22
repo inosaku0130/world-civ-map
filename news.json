@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T22:07:02.613Z",
+ "updatedAt": "2026-11-22T22:49:42.579Z",
  "items": [
   {
    "id": "rss-2599692276",
@@ -504,18 +504,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261121de79510",
    "place": "国連本部"
-  },
-  {
-   "id": "rss-2130704728",
-   "title": "英EU首脳会談 輸出入手続きの簡素化で合意 離脱後の関係強化",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 50.748,
-   "lon": 5.052,
-   "cat": "diplomacy",
-   "at": "2026-11-20T22:35:11.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261121de79488",
-   "place": "EU（ブリュッセル）"
   }
  ]
 }
