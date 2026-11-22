@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T22:49:42.579Z",
+ "updatedAt": "2026-11-22T23:43:00.128Z",
  "items": [
   {
    "id": "rss-2599692276",
@@ -492,18 +492,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663549",
    "place": "ポーランド"
-  },
-  {
-   "id": "rss-4289244106",
-   "title": "国連事務総長は9回目の投票も決まらず",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 41.277,
-   "lon": -74.106,
-   "cat": "diplomacy",
-   "at": "2026-11-20T22:51:29.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261121de79510",
-   "place": "国連本部"
   }
  ]
 }
