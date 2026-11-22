@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T08:33:42.705Z",
+ "updatedAt": "2026-11-22T09:32:11.675Z",
  "items": [
   {
    "id": "rss-2418152861",
@@ -552,18 +552,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de79345",
    "place": "ネパール"
-  },
-  {
-   "id": "rss-2994363319",
-   "title": "シンガポール訪問の愛子さま「実り多い滞在」",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 1.038,
-   "lon": 104.166,
-   "cat": "diplomacy",
-   "at": "2026-11-20T08:43:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261120de78827",
-   "place": "シンガポール"
   }
  ]
 }
