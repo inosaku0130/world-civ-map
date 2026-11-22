@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-21T23:24:43.786Z",
+ "updatedAt": "2026-11-22T00:01:53.701Z",
  "items": [
+  {
+   "id": "rss-2029244437",
+   "title": "デンマーク ロシア主導の暗殺計画阻止と発表 首相「制裁強化」",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 56.064,
+   "lon": 9.513,
+   "cat": "diplomacy",
+   "at": "2026-11-21T23:38:38.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261122de79796",
+   "place": "デンマーク"
+  },
   {
    "id": "rss-2478937618",
    "title": "フィンランド近海でウクライナのドローン攻撃、ロシア船が炎上",
@@ -564,30 +576,6 @@
    "source": "asahi.com",
    "url": "https://www.asahi.com/articles/ASVCM4S6ZVCMUTFK011M.html",
    "place": "台湾"
-  },
-  {
-   "id": "rss-2986737702",
-   "title": "全国知事会 「 緊急提言 」 は 〝 暴走 〟 か 東京23区の大学定員規制 都が怒り 、 価値観相違も",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 35.69,
-   "lon": 139.011,
-   "cat": "other",
-   "at": "2026-11-19T23:30:00.000Z",
-   "source": "sankei.com",
-   "url": "https://www.sankei.com/article/20261120-KAEQ6QC2YJOKLG7KV5REQI23SA/",
-   "place": "東京"
-  },
-  {
-   "id": "rss-3739681302",
-   "title": "韓国人気俳優コ ・ ギョンピョさんが飲酒運転事故 厳罰化後も件数は日本の約4 . 5倍 海外事件簿",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 37.919,
-   "lon": 126.684,
-   "cat": "disaster",
-   "at": "2026-11-19T23:30:00.000Z",
-   "source": "sankei.com",
-   "url": "https://www.sankei.com/article/20261120-QDAKPC4RWNJB7OJCSQHGQQ2PIM/",
-   "place": "韓国"
   }
  ]
 }
