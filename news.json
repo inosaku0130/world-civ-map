@@ -1,6 +1,54 @@
 {
- "updatedAt": "2026-11-23T10:48:42.267Z",
+ "updatedAt": "2026-11-23T11:56:27.377Z",
  "items": [
+  {
+   "id": "rss-534646274",
+   "title": "韓国イ政権 重要閣僚交代へ 対米関係立て直しねらいか",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 37.335,
+   "lon": 127.428,
+   "cat": "politics",
+   "at": "2026-11-23T11:23:19.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261123de80277",
+   "place": "韓国"
+  },
+  {
+   "id": "rss-2368952837",
+   "title": "エヌビディア前CEOと不倫のアリス氏、中国情報機関と接触か 米紙報道",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.296,
+   "lon": 116.09,
+   "cat": "other",
+   "at": "2026-11-23T11:11:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663689",
+   "place": "中国"
+  },
+  {
+   "id": "rss-551423893",
+   "title": "ウクライナで被害住宅から2人救助 7歳の男の子は14時間後に",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 50.936,
+   "lon": 30.33,
+   "cat": "other",
+   "at": "2026-11-23T10:58:35.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261123de80276",
+   "place": "ウクライナ"
+  },
+  {
+   "id": "rss-2402508075",
+   "title": "スペイン首相、富裕層への新税導入を提案 総選挙控え",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.468,
+   "lon": -4.398,
+   "cat": "politics",
+   "at": "2026-11-23T10:42:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663687",
+   "place": "スペイン"
+  },
   {
    "id": "rss-2469618551",
    "title": "ウクライナ、リビア沖でロシア艦船2隻を攻撃 1隻撃沈と主張",
@@ -84,18 +132,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663661",
    "place": "イスラエル"
-  },
-  {
-   "id": "rss-3385344822",
-   "title": "【三里河中国経済観察】中国発ショートドラマが海外で急成長 「duanju」も浸透",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.75,
-   "lon": 117.038,
-   "cat": "economy",
-   "at": "2026-11-23T07:00:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663271",
-   "place": "中国"
   },
   {
    "id": "rss-2301401076",
@@ -516,18 +552,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261121de79750",
    "place": "ウクライナ"
-  },
-  {
-   "id": "rss-3734558605",
-   "title": "サッカー : FC東京 、 J1新記録の10戦連続無失点 21日の結果と戦評",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 36.188,
-   "lon": 139.598,
-   "cat": "other",
-   "at": "2026-11-21T11:30:00.000Z",
-   "source": "nikkei.com",
-   "url": "https://www.nikkei.com/article/DGXZQODH211QU0R21C26A1000000/",
-   "place": "東京"
   }
  ]
 }
