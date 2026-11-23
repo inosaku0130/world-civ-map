@@ -1,6 +1,54 @@
 {
- "updatedAt": "2026-11-23T02:57:53.244Z",
+ "updatedAt": "2026-11-23T04:06:32.052Z",
  "items": [
+  {
+   "id": "rss-2200735362",
+   "title": "リビア沖でロシア船にドローン攻撃、国連が独立調査求める",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 33.196,
+   "lon": 12.76,
+   "cat": "conflict",
+   "at": "2026-11-23T03:42:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663653",
+   "place": "リビア"
+  },
+  {
+   "id": "rss-2635186513",
+   "title": "リビアの港でロシア船が爆発、ドローン攻撃とみられると当局",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 32.406,
+   "lon": 13.307,
+   "cat": "conflict",
+   "at": "2026-11-23T03:14:10.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/cm205xnej3z7o?at_medium=RSS&at_campaign=rss",
+   "place": "リビア"
+  },
+  {
+   "id": "rss-1770992707",
+   "title": "北朝鮮 キム総書記“友好的な国との関係は強化”と強調",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 38.864,
+   "lon": 126.38,
+   "cat": "other",
+   "at": "2026-11-23T03:14:00.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261123de80168",
+   "place": "北朝鮮"
+  },
+  {
+   "id": "rss-69830654",
+   "title": "キーウ州にロシアの攻撃、12人死亡 集合住宅が一部崩壊",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 50.328,
+   "lon": 31.118,
+   "cat": "conflict",
+   "at": "2026-11-23T02:58:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663648",
+   "place": "キーウ"
+  },
   {
    "id": "rss-4247666071",
    "title": "イスラエル人入植者がヨルダン川西岸で連続放火、「ユダヤ人テロ」激化の一途",
@@ -468,18 +516,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663572",
    "place": "ベトナム"
-  },
-  {
-   "id": "rss-3011391639",
-   "title": "英・EU、食品輸出や青少年プログラムなどで合意 関係深化を検討するとバーナム英首相",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 51.19,
-   "lon": 4.041,
-   "cat": "diplomacy",
-   "at": "2026-11-21T03:45:57.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/c61wr0wnnpxpo?at_medium=RSS&at_campaign=rss",
-   "place": "EU（ブリュッセル）"
   }
  ]
 }
