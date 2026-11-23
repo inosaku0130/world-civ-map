@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-11-23T00:28:22.080Z",
+ "updatedAt": "2026-11-23T02:00:20.057Z",
  "items": [
+  {
+   "id": "rss-4213799379",
+   "title": "ブラジル南部の猛烈な嵐、死者5人に 250人以上が負傷",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": -15.93,
+   "lon": -47.229,
+   "cat": "other",
+   "at": "2026-11-23T01:54:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663643",
+   "place": "ブラジル"
+  },
+  {
+   "id": "rss-1753920898",
+   "title": "イギリス人スイマー ホルムズ海峡を遠泳「戦争をやめるべき」",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 26.304,
+   "lon": 56.91,
+   "cat": "conflict",
+   "at": "2026-11-23T01:36:50.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261123de80145",
+   "place": "ホルムズ海峡"
+  },
+  {
+   "id": "rss-3969302081",
+   "title": "ドイツ最大労組 メルセデスの工場でも24時間ストライキ",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 52.498,
+   "lon": 12.61,
+   "cat": "other",
+   "at": "2026-11-23T00:48:00.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261123de80139",
+   "place": "ドイツ"
+  },
   {
    "id": "rss-274408451",
    "title": "リビア停泊中のロシア船が爆発・炎上、ドローン攻撃の疑いと当局",
@@ -456,42 +492,6 @@
    "source": "BBC News Japan",
    "url": "https://www.bbc.com/japanese/articles/cxg5rdrdlq6no?at_medium=RSS&at_campaign=rss",
    "place": "ポーランド"
-  },
-  {
-   "id": "rss-617313457",
-   "title": "ミャンマー、国際司法裁判所のジェノサイド認定に「大きな失望」",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 19.39,
-   "lon": 96.349,
-   "cat": "other",
-   "at": "2026-11-21T01:48:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663555",
-   "place": "ミャンマー"
-  },
-  {
-   "id": "rss-4273305130",
-   "title": "トランプ大統領 米国外のデータセンター建設認めず 罰則も",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 38.611,
-   "lon": -76.664,
-   "cat": "politics",
-   "at": "2026-11-21T01:16:55.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261121de79543",
-   "place": "アメリカ"
-  },
-  {
-   "id": "rss-684423933",
-   "title": "愛子さま、シンガポールを公式訪問",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 1.598,
-   "lon": 103.313,
-   "cat": "diplomacy",
-   "at": "2026-11-21T00:37:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663551",
-   "place": "シンガポール"
   }
  ]
 }
