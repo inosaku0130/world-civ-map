@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-23T02:00:20.057Z",
+ "updatedAt": "2026-11-23T02:57:53.244Z",
  "items": [
+  {
+   "id": "rss-4247666071",
+   "title": "イスラエル人入植者がヨルダン川西岸で連続放火、「ユダヤ人テロ」激化の一途",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 31.588,
+   "lon": 35.546,
+   "cat": "conflict",
+   "at": "2026-11-23T02:32:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/world/35255290.html?ref=rss",
+   "place": "ヨルダン川西岸"
+  },
+  {
+   "id": "rss-2720178",
+   "title": "ポーランド落下の3飛翔体、ロシア製巡航ミサイルと断定 NATO協議へ",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 52.583,
+   "lon": 20.719,
+   "cat": "conflict",
+   "at": "2026-11-23T02:30:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663644",
+   "place": "ポーランド"
+  },
   {
    "id": "rss-4213799379",
    "title": "ブラジル南部の猛烈な嵐、死者5人に 250人以上が負傷",
@@ -456,42 +480,6 @@
    "source": "BBC News Japan",
    "url": "https://www.bbc.com/japanese/articles/c61wr0wnnpxpo?at_medium=RSS&at_campaign=rss",
    "place": "EU（ブリュッセル）"
-  },
-  {
-   "id": "rss-516500648",
-   "title": "女性議員の顔面殴り重傷負わせた疑い セルビア首都の市長起訴",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 44.46,
-   "lon": 20.284,
-   "cat": "other",
-   "at": "2026-11-21T02:57:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663563",
-   "place": "セルビア"
-  },
-  {
-   "id": "rss-566980600",
-   "title": "英国君主の戴冠式に使われる『運命の石』展示ケースをハンマーでたたく、フランス人男が罪認める",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 52.049,
-   "lon": -0.173,
-   "cat": "other",
-   "at": "2026-11-21T02:07:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663556",
-   "place": "イギリス"
-  },
-  {
-   "id": "rss-349436899",
-   "title": "ポーランドにロシアのミサイル着弾とトゥスク首相 近くでウクライナの同盟国が演習中",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 51.637,
-   "lon": 20.981,
-   "cat": "conflict",
-   "at": "2026-11-21T02:03:21.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cxg5rdrdlq6no?at_medium=RSS&at_campaign=rss",
-   "place": "ポーランド"
   }
  ]
 }
