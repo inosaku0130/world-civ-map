@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T11:56:27.377Z",
+ "updatedAt": "2026-11-23T13:19:15.775Z",
  "items": [
   {
    "id": "rss-534646274",
@@ -540,18 +540,6 @@
    "source": "mainichi.jp",
    "url": "https://mainichi.jp/articles/20261121/spp/sp0/006/338000c",
    "place": "大阪"
-  },
-  {
-   "id": "rss-3587131684",
-   "title": "ウクライナ支援の有志連合 初の軍事演習をメディアに公開",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 50.646,
-   "lon": 30.019,
-   "cat": "conflict",
-   "at": "2026-11-21T12:30:45.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261121de79750",
-   "place": "ウクライナ"
   }
  ]
 }
