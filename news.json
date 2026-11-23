@@ -1,6 +1,54 @@
 {
- "updatedAt": "2026-11-23T06:34:49.847Z",
+ "updatedAt": "2026-11-23T08:13:11.331Z",
  "items": [
+  {
+   "id": "rss-702569559",
+   "title": "リビアで“ロシア軍艦”が爆発 ウクライナが無人艇で攻撃か",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 33.448,
+   "lon": 13.172,
+   "cat": "conflict",
+   "at": "2026-11-23T07:13:00.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261123de80209",
+   "place": "リビア"
+  },
+  {
+   "id": "rss-1204107257",
+   "title": "【三里河中国経済観察】中国・烏鎮のAI企業7社が注目 地方経済をけん引",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.44,
+   "lon": 116.282,
+   "cat": "economy",
+   "at": "2026-11-23T07:10:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663263",
+   "place": "中国"
+  },
+  {
+   "id": "rss-287645511",
+   "title": "イスラエル連立協議、合意に至らず 両党は再協議へ",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 30.019,
+   "lon": 34.75,
+   "cat": "diplomacy",
+   "at": "2026-11-23T07:00:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663661",
+   "place": "イスラエル"
+  },
+  {
+   "id": "rss-3385344822",
+   "title": "【三里河中国経済観察】中国発ショートドラマが海外で急成長 「duanju」も浸透",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.75,
+   "lon": 117.038,
+   "cat": "economy",
+   "at": "2026-11-23T07:00:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663271",
+   "place": "中国"
+  },
   {
    "id": "rss-2301401076",
    "title": "台湾映画賞、香港民主化運動に着想得た2作品受賞 「獄中の人々にささげる」",
@@ -12,6 +60,30 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663659",
    "place": "香港"
+  },
+  {
+   "id": "rss-354903082",
+   "title": "中国初の自立運転型メガワット級離島マイクログリッドが稼働開始",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.372,
+   "lon": 116.267,
+   "cat": "other",
+   "at": "2026-11-23T06:00:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663671",
+   "place": "中国"
+  },
+  {
+   "id": "rss-254090273",
+   "title": "ノルウェー 中国向け水産物輸出を2035年に4800億円相当へ 中国市場の開拓を加速",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 59.647,
+   "lon": 11.161,
+   "cat": "economy",
+   "at": "2026-11-23T05:30:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663667",
+   "place": "ノルウェー"
   },
   {
    "id": "rss-1088389622",
@@ -134,18 +206,6 @@
    "place": "ドイツ"
   },
   {
-   "id": "rss-274408451",
-   "title": "リビア停泊中のロシア船が爆発・炎上、ドローン攻撃の疑いと当局",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 32.441,
-   "lon": 13.353,
-   "cat": "conflict",
-   "at": "2026-11-22T23:44:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/world/35255287.html?ref=rss",
-   "place": "リビア"
-  },
-  {
    "id": "rss-2599692276",
    "title": "【動画】台湾 伝統の“柿餅”づくりが最盛期",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -216,42 +276,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663613",
    "place": "インドネシア"
-  },
-  {
-   "id": "rss-3469232917",
-   "title": "中国・泰山でロボット登山大会 スイカや卵を運ぶ競技も",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.424,
-   "lon": 116.261,
-   "cat": "other",
-   "at": "2026-11-22T06:50:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663274",
-   "place": "中国"
-  },
-  {
-   "id": "rss-892264309",
-   "title": "BYD会長 中国製EVの海外展開に自信「持続可能な発展こそ長期的な成長につながる」",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.353,
-   "lon": 116.509,
-   "cat": "other",
-   "at": "2026-11-22T06:10:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663498",
-   "place": "中国"
-  },
-  {
-   "id": "rss-976005309",
-   "title": "中国郵政 2027年「丁未年」特別切手のデザインを発表",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.463,
-   "lon": 116.579,
-   "cat": "other",
-   "at": "2026-11-22T06:00:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663483",
-   "place": "中国"
   },
   {
    "id": "rss-1575480541",
@@ -492,54 +516,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/world/35255257.html?ref=rss",
    "place": "メキシコ"
-  },
-  {
-   "id": "rss-2680563236",
-   "title": "ウクライナで今年1144人の子どもが死傷 1日平均3人 ユニセフ",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 49.924,
-   "lon": 30.581,
-   "cat": "other",
-   "at": "2026-11-21T07:24:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663574",
-   "place": "ウクライナ"
-  },
-  {
-   "id": "rss-2663785617",
-   "title": "ギリシャでスーツケースからブルキナファソ人女性遺体、19歳ギニア人男をフランスで逮捕",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 38.237,
-   "lon": 23.311,
-   "cat": "other",
-   "at": "2026-11-21T06:55:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663573",
-   "place": "ギリシャ"
-  },
-  {
-   "id": "rss-1434353633",
-   "title": "【 写真まとめ 】 愛子さまシンガポール訪問 マーライオン視察 、 帰国へ ： 朝日新聞",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 1.264,
-   "lon": 104.543,
-   "cat": "diplomacy",
-   "at": "2026-11-21T06:45:00.000Z",
-   "source": "asahi.com",
-   "url": "https://www.asahi.com/articles/ASVCN3D9MVCNUQIP00HM.html",
-   "place": "シンガポール"
-  },
-  {
-   "id": "rss-2647007998",
-   "title": "ベトナム、違法薬物取引や未成年者に対するレイプなどを死刑の対象外に",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 21.007,
-   "lon": 106.581,
-   "cat": "other",
-   "at": "2026-11-21T06:36:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663572",
-   "place": "ベトナム"
   }
  ]
 }
