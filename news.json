@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-22T23:43:00.128Z",
+ "updatedAt": "2026-11-23T00:28:22.080Z",
  "items": [
+  {
+   "id": "rss-274408451",
+   "title": "リビア停泊中のロシア船が爆発・炎上、ドローン攻撃の疑いと当局",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 32.441,
+   "lon": 13.353,
+   "cat": "conflict",
+   "at": "2026-11-22T23:44:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/world/35255287.html?ref=rss",
+   "place": "リビア"
+  },
   {
    "id": "rss-2599692276",
    "title": "【動画】台湾 伝統の“柿餅”づくりが最盛期",
@@ -434,6 +446,18 @@
    "place": "イギリス"
   },
   {
+   "id": "rss-349436899",
+   "title": "ポーランドにロシアのミサイル着弾とトゥスク首相 近くでウクライナの同盟国が演習中",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 51.637,
+   "lon": 20.981,
+   "cat": "conflict",
+   "at": "2026-11-21T02:03:21.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/cxg5rdrdlq6no?at_medium=RSS&at_campaign=rss",
+   "place": "ポーランド"
+  },
+  {
    "id": "rss-617313457",
    "title": "ミャンマー、国際司法裁判所のジェノサイド認定に「大きな失望」",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -468,30 +492,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663551",
    "place": "シンガポール"
-  },
-  {
-   "id": "rss-1062634255",
-   "title": "トランプ氏、プーチン氏との「友情」を正当化 「米国にとって友人かは何とも言えない」",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 38.664,
-   "lon": -76.517,
-   "cat": "other",
-   "at": "2026-11-21T00:09:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/usa/35255248.html?ref=rss",
-   "place": "アメリカ"
-  },
-  {
-   "id": "rss-349018648",
-   "title": "ポーランドにロシアのミサイル落下 トゥスク首相「挑発」と非難",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 52.141,
-   "lon": 21.73,
-   "cat": "conflict",
-   "at": "2026-11-20T23:55:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663549",
-   "place": "ポーランド"
   }
  ]
 }
