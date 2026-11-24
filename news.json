@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-24T14:44:55.073Z",
+ "updatedAt": "2026-11-24T20:57:37.689Z",
  "items": [
+  {
+   "id": "rss-3353850911",
+   "title": "平良海馬がブルージェイズと契約合意 アメリカ複数メディア",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 38.325,
+   "lon": -76.968,
+   "cat": "diplomacy",
+   "at": "2026-11-24T20:44:51.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261125de80922",
+   "place": "アメリカ"
+  },
   {
    "id": "rss-1569980021",
    "title": "WHO テドロス事務局長がキューバ視察 米制裁が医療に影響",
@@ -276,18 +288,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/world/35255324.html?ref=rss",
    "place": "ガザ"
-  },
-  {
-   "id": "rss-2531081412",
-   "title": "アメリカ商務省 “メガスピード” を輸出規制の対象に指定",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 38.701,
-   "lon": -76.544,
-   "cat": "economy",
-   "at": "2026-11-24T03:45:42.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261124de80494",
-   "place": "アメリカ"
   },
   {
    "id": "rss-3848063188",
@@ -600,30 +600,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261118de77741",
    "place": "台湾"
-  },
-  {
-   "id": "rss-3902338700",
-   "title": "インドネシアの製菓工場で火災 3人死亡 36人行方不明",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": -5.614,
-   "lon": 106.869,
-   "cat": "conflict",
-   "at": "2026-11-22T20:40:07.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261123de80121",
-   "place": "インドネシア"
-  },
-  {
-   "id": "rss-1938915992",
-   "title": "ウクライナ キーウ近郊に攻撃 4人死亡 ロシアの攻撃激化",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 50.132,
-   "lon": 30.858,
-   "cat": "conflict",
-   "at": "2026-11-22T20:19:29.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261123de80114",
-   "place": "キーウ"
   }
  ]
 }
