@@ -1,6 +1,78 @@
 {
- "updatedAt": "2026-11-24T03:59:47.454Z",
+ "updatedAt": "2026-11-24T05:08:26.013Z",
  "items": [
+  {
+   "id": "rss-1485370973",
+   "title": "北朝鮮の 「 海上警察 」 か 、 韓国紙が撮影 日本漁船に影響の恐れも",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 38.866,
+   "lon": 126.384,
+   "cat": "other",
+   "at": "2026-11-24T04:45:00.000Z",
+   "source": "mainichi.jp",
+   "url": "https://mainichi.jp/articles/20261124/k00/00m/030/053000c",
+   "place": "北朝鮮"
+  },
+  {
+   "id": "rss-530024772",
+   "title": "「 ブタ 」 の腎臓移植受けた末期腎不全の女性 、 世界で初めて１年以上人工透析が不要に … 米国での承認取得を目指し臨床試験へ",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.192,
+   "lon": -77.413,
+   "cat": "other",
+   "at": "2026-11-24T04:45:00.000Z",
+   "source": "yomiuri.co.jp",
+   "url": "https://www.yomiuri.co.jp/yomidr/article/20261124-GYT1T00100/",
+   "place": "アメリカ"
+  },
+  {
+   "id": "rss-3438935575",
+   "title": "エヌビディアCEO復帰に国民 ・ 玉木氏 「 国家安全保障上の問題 」 中国への半導体流出を懸念",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.692,
+   "lon": 116.962,
+   "cat": "other",
+   "at": "2026-11-24T04:45:00.000Z",
+   "source": "sankei.com",
+   "url": "https://www.sankei.com/article/20261124-IHAEN5Z5UNAV5LNQQCCMLKGZBY/",
+   "place": "中国"
+  },
+  {
+   "id": "rss-2850761947",
+   "title": "ウクライナがロシア艦船をドローン攻撃、動画や衛星画像で分かること",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 50.32,
+   "lon": 31.109,
+   "cat": "conflict",
+   "at": "2026-11-24T04:43:46.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/watch/c68x0g21ywk2o?at_medium=RSS&at_campaign=rss",
+   "place": "ウクライナ"
+  },
+  {
+   "id": "rss-1295683627",
+   "title": "イスラエルの攻撃でガザ全土に有害物質 大気も水も土壌も汚染、住民に深刻な健康リスク",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 31.121,
+   "lon": 34.726,
+   "cat": "conflict",
+   "at": "2026-11-24T04:27:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/world/35255324.html?ref=rss",
+   "place": "ガザ"
+  },
+  {
+   "id": "rss-4019252669",
+   "title": "NATO、宇宙空間での防衛強調 ロシアの核衛星報道で",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.855,
+   "lon": 36.908,
+   "cat": "other",
+   "at": "2026-11-24T04:05:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663821",
+   "place": "ロシア"
+  },
   {
    "id": "rss-2531081412",
    "title": "アメリカ商務省 “メガスピード” を輸出規制の対象に指定",
@@ -62,6 +134,18 @@
    "place": "ロシア"
   },
   {
+   "id": "rss-3848063188",
+   "title": "夜になっても冷めなかった夏の大阪 、 熱帯夜が続いた四つの要因とは ？ [ 大阪府 ]： 朝日新聞",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 34.33,
+   "lon": 135.782,
+   "cat": "other",
+   "at": "2026-11-24T01:45:00.000Z",
+   "source": "asahi.com",
+   "url": "https://www.asahi.com/articles/ASVCN2SDYVCNPTIL00FM.html",
+   "place": "大阪"
+  },
+  {
    "id": "rss-1760194672",
    "title": "アテネの旧アクロポリス博物館、約17億円の改修経て再開館",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -96,18 +180,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663713",
    "place": "シンガポール"
-  },
-  {
-   "id": "rss-4210315426",
-   "title": "ゼレンスキー氏、ロシアとの4者協議の早期開催を要求 NATO加盟も改めて訴え",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.413,
-   "lon": 37.919,
-   "cat": "diplomacy",
-   "at": "2026-11-23T23:40:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663709",
-   "place": "ロシア"
   },
   {
    "id": "rss-1939395056",
@@ -242,18 +314,6 @@
    "place": "シンガポール"
   },
   {
-   "id": "rss-237459749",
-   "title": "中国、COP31決裂に失望表明 グリーン移行は「不可逆的」",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.704,
-   "lon": 116.901,
-   "cat": "other",
-   "at": "2026-11-23T08:45:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663678",
-   "place": "中国"
-  },
-  {
    "id": "rss-702569559",
    "title": "リビアで“ロシア軍艦”が爆発 ウクライナが無人艇で攻撃か",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -336,18 +396,6 @@
    "source": "BBC News Japan",
    "url": "https://www.bbc.com/japanese/articles/cm205xnej3z7o?at_medium=RSS&at_campaign=rss",
    "place": "リビア"
-  },
-  {
-   "id": "rss-1770992707",
-   "title": "北朝鮮 キム総書記“友好的な国との関係は強化”と強調",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 38.864,
-   "lon": 126.38,
-   "cat": "other",
-   "at": "2026-11-23T03:14:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261123de80168",
-   "place": "北朝鮮"
   },
   {
    "id": "rss-69830654",
