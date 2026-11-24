@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-24T02:55:25.782Z",
+ "updatedAt": "2026-11-24T03:59:47.454Z",
  "items": [
+  {
+   "id": "rss-2531081412",
+   "title": "アメリカ商務省 “メガスピード” を輸出規制の対象に指定",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 38.701,
+   "lon": -76.544,
+   "cat": "economy",
+   "at": "2026-11-24T03:45:42.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261124de80494",
+   "place": "アメリカ"
+  },
+  {
+   "id": "rss-466992990",
+   "title": "アメリカ民主党 大統領選 候補者選びの討論会 来年6月から",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.336,
+   "lon": -77.221,
+   "cat": "politics",
+   "at": "2026-11-24T03:28:00.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261124de80445",
+   "place": "アメリカ"
+  },
   {
    "id": "rss-2227804342",
    "title": "木原長官 高市首相の中国到着時に段差“日本側で把握し対応”",
@@ -23,6 +47,18 @@
    "at": "2026-11-24T02:33:00.000Z",
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663772",
+   "place": "ロシア"
+  },
+  {
+   "id": "rss-2949387409",
+   "title": "ロシア拘束の北海道新聞記者に2回目の領事面会 健康に問題なし",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.462,
+   "lon": 38.062,
+   "cat": "other",
+   "at": "2026-11-24T01:59:00.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261123de80287",
    "place": "ロシア"
   },
   {
@@ -108,18 +144,6 @@
    "source": "jiji.com",
    "url": "https://www.jiji.com/jc/article?k=2026112300310&g=int",
    "place": "北朝鮮"
-  },
-  {
-   "id": "rss-2006358437",
-   "title": "ロシアが年内に核弾頭搭載の衛星打ち上げ計画か ドイツ報道",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 56.224,
-   "lon": 37.478,
-   "cat": "other",
-   "at": "2026-11-23T22:27:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261124de80347",
-   "place": "ロシア"
   },
   {
    "id": "rss-111326133",
@@ -480,54 +504,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663285",
    "place": "成都"
-  },
-  {
-   "id": "rss-3269828012",
-   "title": "フィンランド沖 ロシアの貨物船に無人機攻撃 ウクライナ関与か",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 59.738,
-   "lon": 25.202,
-   "cat": "conflict",
-   "at": "2026-11-22T03:42:32.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261122de79863",
-   "place": "フィンランド"
-  },
-  {
-   "id": "rss-3454381821",
-   "title": "イラン バーレーンの米軍施設を標的に攻撃と発表 緊張続く",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 35.69,
-   "lon": 50.628,
-   "cat": "conflict",
-   "at": "2026-11-22T03:22:27.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261122de79868",
-   "place": "イラン"
-  },
-  {
-   "id": "rss-2166341481",
-   "title": "メキシコ軍、FBI指名手配の麻薬組織首領を拘束",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 18.942,
-   "lon": -98.943,
-   "cat": "other",
-   "at": "2026-11-22T03:01:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663605",
-   "place": "メキシコ"
-  },
-  {
-   "id": "rss-3086447070",
-   "title": "ポルノサイトで出会った英国人女性を殺害、自傷願望につけ込む 米国人被告の裁判",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 51.577,
-   "lon": -0.802,
-   "cat": "conflict",
-   "at": "2026-11-22T03:00:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/usa/35255274.html?ref=rss",
-   "place": "イギリス"
   }
  ]
 }
