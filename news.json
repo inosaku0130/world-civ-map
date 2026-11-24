@@ -1,6 +1,54 @@
 {
- "updatedAt": "2026-11-24T06:21:07.674Z",
+ "updatedAt": "2026-11-24T07:51:18.824Z",
  "items": [
+  {
+   "id": "rss-1351454014",
+   "title": "トルコ富豪、アンドリュー元王子に75万ポンド提供と 法廷で証言",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.426,
+   "lon": 32.682,
+   "cat": "other",
+   "at": "2026-11-24T07:42:02.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/cvp865xdg927o?at_medium=RSS&at_campaign=rss",
+   "place": "トルコ"
+  },
+  {
+   "id": "rss-414056961",
+   "title": "ネパール新首相がインド初訪問、関係再構築を模索 インドは復興支援に16億ドル約束",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 27.896,
+   "lon": 83.982,
+   "cat": "diplomacy",
+   "at": "2026-11-24T07:16:17.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/cvn0d5pw63plo?at_medium=RSS&at_campaign=rss",
+   "place": "ネパール"
+  },
+  {
+   "id": "rss-1688002271",
+   "title": "中国国家博物館、明代皇后の鳳冠を特別展示",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.109,
+   "lon": 115.917,
+   "cat": "other",
+   "at": "2026-11-24T07:00:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663878",
+   "place": "中国"
+  },
+  {
+   "id": "rss-1237662495",
+   "title": "【三里河中国経済観察】中国最長の地下鉄環状線、武漢市で全線開通",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 31.171,
+   "lon": 114.236,
+   "cat": "economy",
+   "at": "2026-11-24T07:00:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663265",
+   "place": "武漢"
+  },
   {
    "id": "rss-904174752",
    "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月24日の動き）",
@@ -12,6 +60,42 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261028de67168",
    "place": "ロシア"
+  },
+  {
+   "id": "rss-1433925225",
+   "title": "中国は株式市場の安定化に向けた三つの新措置を発表",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.028,
+   "lon": 115.81,
+   "cat": "economy",
+   "at": "2026-11-24T05:20:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663883",
+   "place": "中国"
+  },
+  {
+   "id": "rss-1400369987",
+   "title": "一銭で朝食 中国の多くの大学で「早起き特典」を導入",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.046,
+   "lon": 115.757,
+   "cat": "other",
+   "at": "2026-11-24T05:10:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663881",
+   "place": "中国"
+  },
+  {
+   "id": "rss-1383592368",
+   "title": "第28回ハルビン氷雪大世界 メインタワーの完成予想図を公開",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 45.9,
+   "lon": 125.901,
+   "cat": "other",
+   "at": "2026-11-24T05:00:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663880",
+   "place": "ハルビン"
   },
   {
    "id": "rss-1485370973",
@@ -36,18 +120,6 @@
    "source": "yomiuri.co.jp",
    "url": "https://www.yomiuri.co.jp/yomidr/article/20261124-GYT1T00100/",
    "place": "アメリカ"
-  },
-  {
-   "id": "rss-3438935575",
-   "title": "エヌビディアCEO復帰に国民 ・ 玉木氏 「 国家安全保障上の問題 」 中国への半導体流出を懸念",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.692,
-   "lon": 116.962,
-   "cat": "other",
-   "at": "2026-11-24T04:45:00.000Z",
-   "source": "sankei.com",
-   "url": "https://www.sankei.com/article/20261124-IHAEN5Z5UNAV5LNQQCCMLKGZBY/",
-   "place": "中国"
   },
   {
    "id": "rss-1139061418",
@@ -120,18 +192,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261124de80445",
    "place": "アメリカ"
-  },
-  {
-   "id": "rss-2227804342",
-   "title": "木原長官 高市首相の中国到着時に段差“日本側で把握し対応”",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.527,
-   "lon": 116.741,
-   "cat": "politics",
-   "at": "2026-11-24T02:38:22.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261124de80412",
-   "place": "中国"
   },
   {
    "id": "rss-3848063188",
@@ -252,18 +312,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261123de80277",
    "place": "韓国"
-  },
-  {
-   "id": "rss-2368952837",
-   "title": "エヌビディア前CEOと不倫のアリス氏、中国情報機関と接触か 米紙報道",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.296,
-   "lon": 116.09,
-   "cat": "other",
-   "at": "2026-11-23T11:11:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663689",
-   "place": "中国"
   },
   {
    "id": "rss-551423893",
@@ -528,18 +576,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663616",
    "place": "ホルムズ海峡"
-  },
-  {
-   "id": "rss-2334264766",
-   "title": "菓子工場火災で3人死亡、36人行方不明 インドネシア",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": -6.493,
-   "lon": 107.221,
-   "cat": "conflict",
-   "at": "2026-11-22T06:57:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663613",
-   "place": "インドネシア"
   }
  ]
 }
