@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-23T23:35:24.729Z",
+ "updatedAt": "2026-11-24T00:33:57.488Z",
  "items": [
+  {
+   "id": "rss-15866749",
+   "title": "米国、エヌビディア問題のシンガポール企業を輸出規制対象に",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 1.774,
+   "lon": 103.623,
+   "cat": "economy",
+   "at": "2026-11-24T00:19:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663713",
+   "place": "シンガポール"
+  },
+  {
+   "id": "rss-4210315426",
+   "title": "ゼレンスキー氏、ロシアとの4者協議の早期開催を要求 NATO加盟も改めて訴え",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.413,
+   "lon": 37.919,
+   "cat": "diplomacy",
+   "at": "2026-11-23T23:40:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663709",
+   "place": "ロシア"
+  },
   {
    "id": "rss-1939395056",
    "title": "タジキスタンICC脱退へ さらなる脱退の動き懸念",
@@ -156,18 +180,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/travel/35255292.html?ref=rss",
    "place": "シンガポール"
-  },
-  {
-   "id": "rss-901336114",
-   "title": "北アフリカに停泊中のロシア軍艦、ウクライナのドローン攻撃で沈没とゼレンスキー氏",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 56.196,
-   "lon": 37.439,
-   "cat": "conflict",
-   "at": "2026-11-23T08:50:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/world/35255295.html?ref=rss",
-   "place": "ロシア"
   },
   {
    "id": "rss-237459749",
@@ -516,30 +528,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/usa/35255273.html?ref=rss",
    "place": "ワシントン"
-  },
-  {
-   "id": "rss-2445382380",
-   "title": "ベルギー、23日の全国ストで航空便欠航へ",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 50.567,
-   "lon": 4.734,
-   "cat": "other",
-   "at": "2026-11-22T00:27:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663596",
-   "place": "ベルギー"
-  },
-  {
-   "id": "rss-2029244437",
-   "title": "デンマーク ロシア主導の暗殺計画阻止と発表 首相「制裁強化」",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 56.064,
-   "lon": 9.513,
-   "cat": "diplomacy",
-   "at": "2026-11-21T23:38:38.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261122de79796",
-   "place": "デンマーク"
   }
  ]
 }
