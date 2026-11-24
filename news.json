@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-24T05:08:26.013Z",
+ "updatedAt": "2026-11-24T06:21:07.674Z",
  "items": [
+  {
+   "id": "rss-904174752",
+   "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月24日の動き）",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.837,
+   "lon": 36.961,
+   "cat": "conflict",
+   "at": "2026-11-24T05:58:52.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261028de67168",
+   "place": "ロシア"
+  },
   {
    "id": "rss-1485370973",
    "title": "北朝鮮の 「 海上警察 」 か 、 韓国紙が撮影 日本漁船に影響の恐れも",
@@ -36,6 +48,18 @@
    "source": "sankei.com",
    "url": "https://www.sankei.com/article/20261124-IHAEN5Z5UNAV5LNQQCCMLKGZBY/",
    "place": "中国"
+  },
+  {
+   "id": "rss-1139061418",
+   "title": "【詳細】ロシア ウクライナに軍事侵攻（11月22日の動き）",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.444,
+   "lon": 38.038,
+   "cat": "conflict",
+   "at": "2026-11-24T04:45:00.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261028de67166",
+   "place": "ロシア"
   },
   {
    "id": "rss-2850761947",
@@ -108,30 +132,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261124de80412",
    "place": "中国"
-  },
-  {
-   "id": "rss-1877785100",
-   "title": "ロシア軍機数機が韓国の防空識別圏に進入 現地報道",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 56.359,
-   "lon": 37.657,
-   "cat": "other",
-   "at": "2026-11-24T02:33:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663772",
-   "place": "ロシア"
-  },
-  {
-   "id": "rss-2949387409",
-   "title": "ロシア拘束の北海道新聞記者に2回目の領事面会 健康に問題なし",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.462,
-   "lon": 38.062,
-   "cat": "other",
-   "at": "2026-11-24T01:59:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261123de80287",
-   "place": "ロシア"
   },
   {
    "id": "rss-3848063188",
@@ -540,18 +540,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663613",
    "place": "インドネシア"
-  },
-  {
-   "id": "rss-1575480541",
-   "title": "中国・成都SFウィーク開催 AI創作支援に注目 劉慈欣氏も登場",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 30.458,
-   "lon": 104.76,
-   "cat": "other",
-   "at": "2026-11-22T05:30:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663285",
-   "place": "成都"
   }
  ]
 }
