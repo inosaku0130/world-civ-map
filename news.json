@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-24T10:14:31.327Z",
+ "updatedAt": "2026-11-24T11:18:04.860Z",
  "items": [
+  {
+   "id": "rss-3625735114",
+   "title": "ロシア軍機が韓国の防空識別圏に進入 韓国が抗議",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 56.23,
+   "lon": 37.486,
+   "cat": "politics",
+   "at": "2026-11-24T10:31:39.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261124de80720",
+   "place": "ロシア"
+  },
   {
    "id": "rss-3626019841",
    "title": "機密情報漏えいの中国省庁職員、スパイ罪で死刑判決 現地報道",
@@ -216,18 +228,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/world/35255324.html?ref=rss",
    "place": "ガザ"
-  },
-  {
-   "id": "rss-4019252669",
-   "title": "NATO、宇宙空間での防衛強調 ロシアの核衛星報道で",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.855,
-   "lon": 36.908,
-   "cat": "other",
-   "at": "2026-11-24T04:05:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663821",
-   "place": "ロシア"
   },
   {
    "id": "rss-2531081412",
