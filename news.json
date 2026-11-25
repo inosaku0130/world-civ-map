@@ -1,6 +1,54 @@
 {
- "updatedAt": "2026-11-25T02:33:27.811Z",
+ "updatedAt": "2026-11-25T03:42:58.279Z",
  "items": [
+  {
+   "id": "rss-2323962268",
+   "title": "グレタさんに罰金刑 デンマークで抗議デモ中に不法侵入、弁護人は表現の自由で守られると主張",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.788,
+   "lon": 10.745,
+   "cat": "politics",
+   "at": "2026-11-25T03:30:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664030",
+   "place": "デンマーク"
+  },
+  {
+   "id": "rss-2492032648",
+   "title": "スイス、北朝鮮外交拠点の正当性を主張 制裁への反発受け",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 47.441,
+   "lon": 7.343,
+   "cat": "diplomacy",
+   "at": "2026-11-25T02:59:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664012",
+   "place": "スイス"
+  },
+  {
+   "id": "rss-2475402124",
+   "title": "強盗失敗の武装集団、コロンビアでスーパーに立てこもり 人質30人",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 4.494,
+   "lon": -73.596,
+   "cat": "conflict",
+   "at": "2026-11-25T02:53:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664009",
+   "place": "コロンビア"
+  },
+  {
+   "id": "rss-862482708",
+   "title": "イスラエル軍、ハマス内部治安トップを殺害 ガザ空爆",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 31.949,
+   "lon": 34.307,
+   "cat": "conflict",
+   "at": "2026-11-25T02:47:56.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/cmkgdj182rl8o?at_medium=RSS&at_campaign=rss",
+   "place": "ガザ"
+  },
   {
    "id": "rss-1087989776",
    "title": "中国で初めて外国人宇宙飛行士を乗せた有人宇宙船を打ち上げ",
@@ -612,42 +660,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/world/35255291.html?ref=rss",
    "place": "ホルムズ海峡"
-  },
-  {
-   "id": "rss-2200735362",
-   "title": "リビア沖でロシア船にドローン攻撃、国連が独立調査求める",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 33.196,
-   "lon": 12.76,
-   "cat": "conflict",
-   "at": "2026-11-23T03:42:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663653",
-   "place": "リビア"
-  },
-  {
-   "id": "rss-2635186513",
-   "title": "リビアの港でロシア船が爆発、ドローン攻撃とみられると当局",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 32.406,
-   "lon": 13.307,
-   "cat": "conflict",
-   "at": "2026-11-23T03:14:10.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cm205xnej3z7o?at_medium=RSS&at_campaign=rss",
-   "place": "リビア"
-  },
-  {
-   "id": "rss-69830654",
-   "title": "キーウ州にロシアの攻撃、12人死亡 集合住宅が一部崩壊",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 50.328,
-   "lon": 31.118,
-   "cat": "conflict",
-   "at": "2026-11-23T02:58:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663648",
-   "place": "キーウ"
   }
  ]
 }
