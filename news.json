@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-25T03:42:58.279Z",
+ "updatedAt": "2026-11-25T04:49:55.419Z",
  "items": [
+  {
+   "id": "rss-133791951",
+   "title": "中国ファーウェイ、企業秘密窃盗などでアメリカで有罪評決 組織犯罪では無罪",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.356,
+   "lon": 116.17,
+   "cat": "economy",
+   "at": "2026-11-25T04:23:01.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/cqzr5y8326yro?at_medium=RSS&at_campaign=rss",
+   "place": "中国"
+  },
+  {
+   "id": "rss-3598631939",
+   "title": "中国の宇宙船に外国人飛行士が初搭乗 、 打ち上げ成功 途上国などとの国際協力をアピール",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.728,
+   "lon": 117.01,
+   "cat": "other",
+   "at": "2026-11-25T03:45:00.000Z",
+   "source": "sankei.com",
+   "url": "https://www.sankei.com/article/20261125-SIJJ3AXKKBN7JJN2HGGGMZPG6Y/",
+   "place": "中国"
+  },
   {
    "id": "rss-2323962268",
    "title": "グレタさんに罰金刑 デンマークで抗議デモ中に不法侵入、弁護人は表現の自由で守られると主張",
@@ -98,6 +122,42 @@
    "place": "ロシア"
   },
   {
+   "id": "rss-1943428408",
+   "title": "フランス訪問巡り鎌倉市民が市長を提訴 「 前市議長の旅費返還請求を 」 [ 神奈川県 ]： 朝日新聞",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 48.562,
+   "lon": 2.792,
+   "cat": "diplomacy",
+   "at": "2026-11-25T01:45:00.000Z",
+   "source": "asahi.com",
+   "url": "https://www.asahi.com/articles/ASVCS35Z6VCSULOB012M.html",
+   "place": "フランス"
+  },
+  {
+   "id": "rss-2846350006",
+   "title": "帰国する外国人口座を譲渡か 、 男ら逮捕 200枚集め特殊詐欺Gへ ？ [ 東京都 ]： 朝日新聞",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 35.391,
+   "lon": 140.136,
+   "cat": "other",
+   "at": "2026-11-25T01:45:00.000Z",
+   "source": "asahi.com",
+   "url": "https://www.asahi.com/articles/ASVCS5J6ZVCSUTIL01QM.html",
+   "place": "東京"
+  },
+  {
+   "id": "rss-654241552",
+   "title": "「 顔ぼこぼこに 」 男性の異変 、 近隣や警察も把握 防ぎきれなかった死 [ 福岡県 ]： 朝日新聞",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 33.807,
+   "lon": 129.851,
+   "cat": "other",
+   "at": "2026-11-25T01:45:00.000Z",
+   "source": "asahi.com",
+   "url": "https://www.asahi.com/articles/ASVCS4199VCSTIPE002M.html",
+   "place": "福岡"
+  },
+  {
    "id": "rss-1272690680",
    "title": "国連事務総長 「AIと核は破滅のレシピ」 リスク管理体制を",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -120,6 +180,42 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663966",
    "place": "モスクワ"
+  },
+  {
+   "id": "rss-1655122641",
+   "title": "ヒトラーの山荘が全焼 、 元通りに再建するべき ? ドイツ南部 、 難題に ： 朝日新聞",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 52.75,
+   "lon": 12.946,
+   "cat": "other",
+   "at": "2026-11-25T00:30:00.000Z",
+   "source": "asahi.com",
+   "url": "https://www.asahi.com/articles/ASVCN3C2RVCNUHBI024M.html",
+   "place": "ドイツ"
+  },
+  {
+   "id": "rss-3411839622",
+   "title": "来年1月11日に大阪市で防災クッキング 小学生と保護者のペアを募集 参加は無料",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 34.582,
+   "lon": 136.194,
+   "cat": "other",
+   "at": "2026-11-25T00:30:00.000Z",
+   "source": "sankei.com",
+   "url": "https://www.sankei.com/article/20261125-FNRZX3OUMFMHXJSUFZMNMWUIKE/",
+   "place": "大阪"
+  },
+  {
+   "id": "rss-2037469627",
+   "title": "ミャンマーの子 、 490万人が要支援 ユニセフ現地代表の懸念と希望 [ ミャンマー ]： 朝日新聞",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 20.047,
+   "lon": 95.624,
+   "cat": "other",
+   "at": "2026-11-25T00:30:00.000Z",
+   "source": "asahi.com",
+   "url": "https://www.asahi.com/articles/ASVCS24T9VCSUHBI01TM.html",
+   "place": "ミャンマー"
   },
   {
    "id": "rss-1277844729",
@@ -180,18 +276,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80927",
    "place": "ハンガリー"
-  },
-  {
-   "id": "rss-2505217267",
-   "title": "テラ ・ クライシス ： 中国依存に危機感 国内回帰の抗菌薬製造も実は見えない出口戦略",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.348,
-   "lon": 116.426,
-   "cat": "other",
-   "at": "2026-11-24T22:30:00.000Z",
-   "source": "mainichi.jp",
-   "url": "https://mainichi.jp/articles/20261124/k00/00m/020/197000c",
-   "place": "中国"
   },
   {
    "id": "rss-3320295673",
@@ -300,18 +384,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261124de80720",
    "place": "ロシア"
-  },
-  {
-   "id": "rss-3626019841",
-   "title": "機密情報漏えいの中国省庁職員、スパイ罪で死刑判決 現地報道",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.57,
-   "lon": 116.722,
-   "cat": "politics",
-   "at": "2026-11-24T09:46:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663915",
-   "place": "中国"
   },
   {
    "id": "rss-2860749358",
@@ -648,18 +720,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663667",
    "place": "ノルウェー"
-  },
-  {
-   "id": "rss-1088389622",
-   "title": "ホルムズ海峡におけるイランの攻撃、紛争開始以来の最高水準に 海事データ分析",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 26.214,
-   "lon": 56.79,
-   "cat": "conflict",
-   "at": "2026-11-23T04:34:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/world/35255291.html?ref=rss",
-   "place": "ホルムズ海峡"
   }
  ]
 }
