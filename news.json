@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-11-25T22:38:15.414Z",
+ "updatedAt": "2026-11-25T23:34:35.575Z",
  "items": [
+  {
+   "id": "rss-1048132032",
+   "title": "カイロ近郊でタンクローリーが炎上、31人死亡 エジプト保健省",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 30.327,
+   "lon": 30.784,
+   "cat": "conflict",
+   "at": "2026-11-25T23:26:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/world/35255419.html?ref=rss",
+   "place": "カイロ"
+  },
+  {
+   "id": "rss-435291817",
+   "title": "ロシア軍の死者最大70万人と報道、大統領府は一蹴「無視することを勧める」",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.948,
+   "lon": 37.033,
+   "cat": "politics",
+   "at": "2026-11-25T23:08:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664172",
+   "place": "ロシア"
+  },
+  {
+   "id": "rss-720364245",
+   "title": "ウクライナ紛争は欧州の「代理戦争」 クシュナー氏",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 50.222,
+   "lon": 30.978,
+   "cat": "conflict",
+   "at": "2026-11-25T22:49:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664169",
+   "place": "ウクライナ"
+  },
   {
    "id": "rss-2761457367",
    "title": "アメリカ バンス副大統領「フアン氏は捜査対象ではない」",
@@ -216,18 +252,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3664084",
    "place": "イスラエル"
-  },
-  {
-   "id": "rss-3225140643",
-   "title": "ロシアのウクライナでの戦死者は約50万人 流出公式データをBBCが分析",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.384,
-   "lon": 37.881,
-   "cat": "other",
-   "at": "2026-11-25T06:40:36.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cmp3ell1k2y5o?at_medium=RSS&at_campaign=rss",
-   "place": "ロシア"
   },
   {
    "id": "rss-257626150",
@@ -578,18 +602,6 @@
    "place": "ローマ"
   },
   {
-   "id": "rss-2985297402",
-   "title": "【解説】 ウクライナでの戦争が拡大、リビア海域でのロシア艦船攻撃から分かること",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 50.151,
-   "lon": 30.883,
-   "cat": "conflict",
-   "at": "2026-11-24T09:02:16.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/ckvg2qyr1ypno?at_medium=RSS&at_campaign=rss",
-   "place": "ウクライナ"
-  },
-  {
    "id": "rss-1501182796",
    "title": "パートナーや親族による女性殺害、25年は4万7000人超 国連",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -708,18 +720,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663743",
    "place": "アテネ"
-  },
-  {
-   "id": "rss-15866749",
-   "title": "米国、エヌビディア問題のシンガポール企業を輸出規制対象に",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 1.774,
-   "lon": 103.623,
-   "cat": "economy",
-   "at": "2026-11-24T00:19:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663713",
-   "place": "シンガポール"
   }
  ]
 }
