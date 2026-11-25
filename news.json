@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-25T04:49:55.419Z",
+ "updatedAt": "2026-11-25T06:02:06.596Z",
  "items": [
+  {
+   "id": "rss-920952371",
+   "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月25日の動き）",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.79,
+   "lon": 36.898,
+   "cat": "conflict",
+   "at": "2026-11-25T05:05:14.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261028de67169",
+   "place": "ロシア"
+  },
+  {
+   "id": "rss-58836608",
+   "title": "中国、有人宇宙船「神舟24号」打ち上げ 初の外国人飛行士が搭乗",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.853,
+   "lon": 117.176,
+   "cat": "other",
+   "at": "2026-11-25T04:46:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664041",
+   "place": "中国"
+  },
   {
    "id": "rss-133791951",
    "title": "中国ファーウェイ、企業秘密窃盗などでアメリカで有罪評決 組織犯罪では無罪",
@@ -72,18 +96,6 @@
    "source": "BBC News Japan",
    "url": "https://www.bbc.com/japanese/articles/cmkgdj182rl8o?at_medium=RSS&at_campaign=rss",
    "place": "ガザ"
-  },
-  {
-   "id": "rss-1087989776",
-   "title": "中国で初めて外国人宇宙飛行士を乗せた有人宇宙船を打ち上げ",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.199,
-   "lon": 116.037,
-   "cat": "other",
-   "at": "2026-11-25T02:29:57.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261125de80985",
-   "place": "中国"
   },
   {
    "id": "rss-2609623076",
@@ -372,18 +384,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663925",
    "place": "イラン"
-  },
-  {
-   "id": "rss-3625735114",
-   "title": "ロシア軍機が韓国の防空識別圏に進入 韓国が抗議",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 56.23,
-   "lon": 37.486,
-   "cat": "politics",
-   "at": "2026-11-24T10:31:39.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261124de80720",
-   "place": "ロシア"
   },
   {
    "id": "rss-2860749358",
@@ -708,18 +708,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663659",
    "place": "香港"
-  },
-  {
-   "id": "rss-254090273",
-   "title": "ノルウェー 中国向け水産物輸出を2035年に4800億円相当へ 中国市場の開拓を加速",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 59.647,
-   "lon": 11.161,
-   "cat": "economy",
-   "at": "2026-11-23T05:30:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663667",
-   "place": "ノルウェー"
   }
  ]
 }
