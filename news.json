@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-25T10:59:27.915Z",
+ "updatedAt": "2026-11-25T12:02:50.855Z",
  "items": [
+  {
+   "id": "rss-2917982071",
+   "title": "中国、米の新関税計画報道にけん制 「貿易戦争は誰の利益にもならず」",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.081,
+   "lon": 115.803,
+   "cat": "conflict",
+   "at": "2026-11-25T11:02:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664156",
+   "place": "中国"
+  },
   {
    "id": "rss-2114525018",
    "title": "人の喉に未知の臓器を発見、オランダ研究チームが20年に発表",
@@ -108,18 +120,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3664107",
    "place": "イラン"
-  },
-  {
-   "id": "rss-1788667985",
-   "title": "中国・天門山でパルクール大会 999段の階段に挑戦",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.571,
-   "lon": 116.8,
-   "cat": "other",
-   "at": "2026-11-25T07:00:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663876",
-   "place": "中国"
   },
   {
    "id": "rss-2272790768",
