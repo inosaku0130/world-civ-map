@@ -1,6 +1,54 @@
 {
- "updatedAt": "2026-11-25T08:44:57.511Z",
+ "updatedAt": "2026-11-25T09:53:49.176Z",
  "items": [
+  {
+   "id": "rss-2867502119",
+   "title": "コロンビアのスーパー立てこもり事件、人質全員を救出 治安部隊が突入",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 5.14,
+   "lon": -74.259,
+   "cat": "conflict",
+   "at": "2026-11-25T09:31:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664145",
+   "place": "コロンビア"
+  },
+  {
+   "id": "rss-1087989776",
+   "title": "中国 独自の宇宙ステーションにパキスタン人宇宙飛行士初参加",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.199,
+   "lon": 116.037,
+   "cat": "other",
+   "at": "2026-11-25T09:23:31.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261125de80985",
+   "place": "中国"
+  },
+  {
+   "id": "rss-2817169262",
+   "title": "中国、ファーウェイ有罪評決で米を非難 企業を「抑圧」と反発",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.899,
+   "lon": 117.16,
+   "cat": "economy",
+   "at": "2026-11-25T09:04:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664142",
+   "place": "中国"
+  },
+  {
+   "id": "rss-3683769139",
+   "title": "英政府、ロシアの妨害工作への自衛策を「今すぐ取る」よう指示 ウクライナを支援する企業に",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.676,
+   "lon": 38.27,
+   "cat": "economy",
+   "at": "2026-11-25T08:50:32.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/cmq5v38864w0o?at_medium=RSS&at_campaign=rss",
+   "place": "ロシア"
+  },
   {
    "id": "rss-2868487857",
    "title": "ロシア無人偵察機が一時領空侵犯、ポーランド発表 撃墜は見送り",
@@ -50,30 +98,6 @@
    "place": "中国"
   },
   {
-   "id": "rss-1839000842",
-   "title": "【三里河中国経済観察】中国ブランド、品質と技術力で海外の支持拡大",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.754,
-   "lon": 117.043,
-   "cat": "economy",
-   "at": "2026-11-25T07:00:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663873",
-   "place": "中国"
-  },
-  {
-   "id": "rss-1771890366",
-   "title": "中国の若者が伝統芸能を継承 四川劇の火吹き芸が話題に",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.46,
-   "lon": 116.386,
-   "cat": "other",
-   "at": "2026-11-25T06:50:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663877",
-   "place": "中国"
-  },
-  {
    "id": "rss-2272790768",
    "title": "イラン、ヒジャブ着用せず公演した女性歌手にむち打ち74回 国連「忌まわしい」",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -120,18 +144,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/business/35255390.html?ref=rss",
    "place": "アメリカ"
-  },
-  {
-   "id": "rss-920952371",
-   "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月25日の動き）",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.79,
-   "lon": 36.898,
-   "cat": "conflict",
-   "at": "2026-11-25T05:05:14.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261028de67169",
-   "place": "ロシア"
   },
   {
    "id": "rss-2541379767",
@@ -708,18 +720,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663687",
    "place": "スペイン"
-  },
-  {
-   "id": "rss-702569559",
-   "title": "ゼレンスキー大統領“リビア沖でロシア艦艇を無人艇で攻撃”",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 33.448,
-   "lon": 13.172,
-   "cat": "conflict",
-   "at": "2026-11-23T09:36:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261123de80209",
-   "place": "リビア"
   }
  ]
 }
