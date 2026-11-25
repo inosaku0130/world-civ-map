@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-25T13:23:24.027Z",
+ "updatedAt": "2026-11-25T15:42:19.032Z",
  "items": [
+  {
+   "id": "rss-3160204694",
+   "title": "インドネシアの金鉱山で浸水 3人死亡 23人坑内に閉じ込めか",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": -5.727,
+   "lon": 106.642,
+   "cat": "conflict",
+   "at": "2026-11-25T15:08:00.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261125de81535",
+   "place": "インドネシア"
+  },
   {
    "id": "rss-3052950718",
    "title": "韓国で仕事求める日本人増加 ソウルで合同企業説明会",
@@ -23,6 +35,18 @@
    "at": "2026-11-25T11:02:00.000Z",
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3664156",
+   "place": "中国"
+  },
+  {
+   "id": "rss-998447778",
+   "title": "ソロモン諸島が豪と新条約締結 中国との安保協定は更新せずか",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.71,
+   "lon": 116.909,
+   "cat": "diplomacy",
+   "at": "2026-11-25T10:30:00.000Z",
+   "source": "mainichi.jp",
+   "url": "https://mainichi.jp/articles/20261125/k00/00m/030/233000c",
    "place": "中国"
   },
   {
@@ -71,18 +95,6 @@
    "at": "2026-11-25T09:23:31.000Z",
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80985",
-   "place": "中国"
-  },
-  {
-   "id": "rss-2817169262",
-   "title": "中国、ファーウェイ有罪評決で米を非難 企業を「抑圧」と反発",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.899,
-   "lon": 117.16,
-   "cat": "economy",
-   "at": "2026-11-25T09:04:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3664142",
    "place": "中国"
   },
   {
@@ -708,18 +720,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663704",
    "place": "北朝鮮"
-  },
-  {
-   "id": "rss-111326133",
-   "title": "インド モディ首相 ネパール復興に2500億円規模の支援表明",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 28.564,
-   "lon": 77.911,
-   "cat": "politics",
-   "at": "2026-11-23T21:48:41.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261124de80318",
-   "place": "インド"
   }
  ]
 }
