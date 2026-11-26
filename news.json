@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-11-26T02:57:29.012Z",
+ "updatedAt": "2026-11-26T04:00:40.935Z",
  "items": [
+  {
+   "id": "rss-1772009774",
+   "title": "オーストラリア上院議員、反移民の極右政党に移籍 重要な州議会選を前に",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": -35.204,
+   "lon": 148.392,
+   "cat": "politics",
+   "at": "2026-11-26T03:29:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664249",
+   "place": "オーストラリア"
+  },
+  {
+   "id": "rss-2133589018",
+   "title": "米トランプ政権、中国や日本など14カ国・地域に新関税",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.312,
+   "lon": 116.11,
+   "cat": "politics",
+   "at": "2026-11-26T03:07:45.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/cqn0dz6e7yg7o?at_medium=RSS&at_campaign=rss",
+   "place": "中国"
+  },
+  {
+   "id": "rss-1292913935",
+   "title": "カイロ近郊の幹線道路で燃料タンク車が横転、大規模火災が発生 31人死亡",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 30.015,
+   "lon": 30.445,
+   "cat": "conflict",
+   "at": "2026-11-26T03:06:39.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/c6grexv97jg2o?at_medium=RSS&at_campaign=rss",
+   "place": "カイロ"
+  },
   {
    "id": "rss-1672329798",
    "title": "「もう限界」スペイン領カナリア諸島、移民殺到で支援要請 人口1万2000人の島に一気に2000人",
@@ -263,18 +299,6 @@
    "at": "2026-11-25T11:02:00.000Z",
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3664156",
-   "place": "中国"
-  },
-  {
-   "id": "rss-998447778",
-   "title": "ソロモン諸島が豪と新条約締結 中国との安保協定は更新せずか",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.71,
-   "lon": 116.909,
-   "cat": "diplomacy",
-   "at": "2026-11-25T10:30:00.000Z",
-   "source": "mainichi.jp",
-   "url": "https://mainichi.jp/articles/20261125/k00/00m/030/233000c",
    "place": "中国"
   },
   {
@@ -696,30 +720,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261124de80791",
    "place": "ウクライナ"
-  },
-  {
-   "id": "rss-3625872746",
-   "title": "イラン、女性歌手にむち打ち74回執行 歌唱動画公開で 報道",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 35.394,
-   "lon": 51.833,
-   "cat": "other",
-   "at": "2026-11-24T11:05:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663925",
-   "place": "イラン"
-  },
-  {
-   "id": "rss-3642797460",
-   "title": "前ローマ教皇、日記に「悪魔見た」 抜粋書籍出版",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 42.206,
-   "lon": 12.07,
-   "cat": "other",
-   "at": "2026-11-24T09:11:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663912",
-   "place": "ローマ"
   }
  ]
 }
