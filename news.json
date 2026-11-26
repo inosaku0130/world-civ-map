@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-26T22:38:59.737Z",
+ "updatedAt": "2026-11-26T23:38:47.654Z",
  "items": [
+  {
+   "id": "rss-3948066636",
+   "title": "イランがクウェートにドローン攻撃か、イタリア人2人死亡 イランは関与否定",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 36.22,
+   "lon": 51.259,
+   "cat": "conflict",
+   "at": "2026-11-26T23:25:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/world/35255482.html?ref=rss",
+   "place": "イラン"
+  },
+  {
+   "id": "rss-4266929463",
+   "title": "クウェートが攻撃を受け外国人2人死亡 イランは関与否定",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 29.254,
+   "lon": 47.133,
+   "cat": "conflict",
+   "at": "2026-11-26T22:56:51.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261127de82197",
+   "place": "クウェート"
+  },
   {
    "id": "rss-2153199732",
    "title": "ロシア外務省 日ロ首脳の中国での意見交換の事実を認める",
@@ -696,30 +720,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3664030",
    "place": "デンマーク"
-  },
-  {
-   "id": "rss-2492032648",
-   "title": "スイス、北朝鮮外交拠点の正当性を主張 制裁への反発受け",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 47.441,
-   "lon": 7.343,
-   "cat": "diplomacy",
-   "at": "2026-11-25T02:59:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3664012",
-   "place": "スイス"
-  },
-  {
-   "id": "rss-2475402124",
-   "title": "強盗失敗の武装集団、コロンビアでスーパーに立てこもり 人質30人",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 4.494,
-   "lon": -73.596,
-   "cat": "conflict",
-   "at": "2026-11-25T02:53:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3664009",
-   "place": "コロンビア"
   }
  ]
 }
