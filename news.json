@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-26T21:35:42.219Z",
+ "updatedAt": "2026-11-26T22:38:59.737Z",
  "items": [
+  {
+   "id": "rss-2153199732",
+   "title": "ロシア外務省 日ロ首脳の中国での意見交換の事実を認める",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.989,
+   "lon": 37.087,
+   "cat": "diplomacy",
+   "at": "2026-11-26T21:36:56.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261127de82181",
+   "place": "ロシア"
+  },
   {
    "id": "rss-4233374225",
    "title": "サウジアラビア南部の製油所をフーシ派攻撃か 操業一時停止",
@@ -252,18 +264,6 @@
    "source": "asahi.com",
    "url": "https://www.asahi.com/articles/ASVCV0TLPVCVTIPE003M.html",
    "place": "福岡"
-  },
-  {
-   "id": "rss-3123397757",
-   "title": "ロシアに拘束された今井記者の妻の手記全文 ： 時事ドットコム",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 56.216,
-   "lon": 37.39,
-   "cat": "other",
-   "at": "2026-11-26T06:15:00.000Z",
-   "source": "jiji.com",
-   "url": "https://www.jiji.com/jc/article?k=2026112600697&g=soc",
-   "place": "ロシア"
   },
   {
    "id": "rss-49259475",
