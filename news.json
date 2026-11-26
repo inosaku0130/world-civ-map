@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-26T10:16:09.344Z",
+ "updatedAt": "2026-11-26T11:21:54.446Z",
  "items": [
+  {
+   "id": "rss-182164375",
+   "title": "イスラエル軍、ハマス財務部門の幹部を殺害 停戦下のガザ",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 31.771,
+   "lon": 35.12,
+   "cat": "conflict",
+   "at": "2026-11-26T10:41:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664372",
+   "place": "ガザ"
+  },
   {
    "id": "rss-1327354844",
    "title": "スペースXが宇宙にデータセンター網構築へ アメリカで初認可",
@@ -146,6 +158,90 @@
    "place": "中国"
   },
   {
+   "id": "rss-2668640019",
+   "title": "ロシアに拘束された北海道新聞記者の妻が手記 「 娘に大切なパパ返して 」： 時事ドットコム",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.999,
+   "lon": 37.1,
+   "cat": "other",
+   "at": "2026-11-26T06:15:00.000Z",
+   "source": "jiji.com",
+   "url": "https://www.jiji.com/jc/article?k=2026112600682&g=pol",
+   "place": "ロシア"
+  },
+  {
+   "id": "rss-2522921687",
+   "title": "戦術核の活用領域拡大 北朝鮮の金正恩氏 、 日韓念頭に能力強化 ― 対米交渉こだわらず ： 時事ドットコム",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.578,
+   "lon": 125.732,
+   "cat": "diplomacy",
+   "at": "2026-11-26T06:15:00.000Z",
+   "source": "jiji.com",
+   "url": "https://www.jiji.com/jc/article?k=2026112600189&g=pol",
+   "place": "北朝鮮"
+  },
+  {
+   "id": "rss-73624840",
+   "title": "死亡の男性 、 上半身に多数の刺し傷 福岡 ・ 男性刺殺 、 男の関与を捜査 [ 福岡県 ]： 朝日新聞",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 34.184,
+   "lon": 130.354,
+   "cat": "conflict",
+   "at": "2026-11-26T06:15:00.000Z",
+   "source": "asahi.com",
+   "url": "https://www.asahi.com/articles/ASVCV0TLPVCVTIPE003M.html",
+   "place": "福岡"
+  },
+  {
+   "id": "rss-3123397757",
+   "title": "ロシアに拘束された今井記者の妻の手記全文 ： 時事ドットコム",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 56.216,
+   "lon": 37.39,
+   "cat": "other",
+   "at": "2026-11-26T06:15:00.000Z",
+   "source": "jiji.com",
+   "url": "https://www.jiji.com/jc/article?k=2026112600697&g=soc",
+   "place": "ロシア"
+  },
+  {
+   "id": "rss-49259475",
+   "title": "【 まとめてわかる 】 大阪都構想とは メリットは ？ デメリットは ？ [ 大阪府 ] [ 法定協議会 区割り ][ 日本維新の会 ]： 朝日新聞",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 34.63,
+   "lon": 136.258,
+   "cat": "diplomacy",
+   "at": "2026-11-26T06:15:00.000Z",
+   "source": "asahi.com",
+   "url": "https://www.asahi.com/articles/ASVCT2JLXVCTUEFT002M.html",
+   "place": "大阪"
+  },
+  {
+   "id": "rss-789392839",
+   "title": "事件２０分前 、 周辺カメラに逮捕の男か 福岡駐輪場刺殺 、 足取り捜査 ― 県警 ： 時事ドットコム",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 33.298,
+   "lon": 130.773,
+   "cat": "other",
+   "at": "2026-11-26T06:15:00.000Z",
+   "source": "jiji.com",
+   "url": "https://www.jiji.com/jc/article?k=2026112600145&g=soc",
+   "place": "福岡"
+  },
+  {
+   "id": "rss-3733688688",
+   "title": "大阪都構想 、 来春住民投票へ 維新のみ議論5カ月半 自公から動きも [ 大阪府 ] [ 法定協議会 区割り ][ 日本維新の会 ][ 自由民主党 （ 自民党 ）][ 公明党 ]： 朝日新聞",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 35.104,
+   "lon": 135.29,
+   "cat": "diplomacy",
+   "at": "2026-11-26T06:15:00.000Z",
+   "source": "asahi.com",
+   "url": "https://www.asahi.com/articles/ASVCT3JTSVCTOXIE04BM.html",
+   "place": "大阪"
+  },
+  {
    "id": "rss-1247627546",
    "title": "トルコの川が真っ赤に、廃棄物が流入か 施設に罰金",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -167,18 +263,6 @@
    "at": "2026-11-26T05:22:58.000Z",
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261028de67167",
-   "place": "ロシア"
-  },
-  {
-   "id": "rss-1122430894",
-   "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月26日の動き）",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 56.268,
-   "lon": 37.458,
-   "cat": "conflict",
-   "at": "2026-11-26T05:19:11.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261028de67171",
    "place": "ロシア"
   },
   {
@@ -204,18 +288,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/usa/35255443.html?ref=rss",
    "place": "マイアミ"
-  },
-  {
-   "id": "rss-1503404625",
-   "title": "ロシアで拘束の北海道新聞記者 妻が手記「娘にパパを返して」",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.948,
-   "lon": 37.033,
-   "cat": "other",
-   "at": "2026-11-26T05:01:06.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261126de81607",
-   "place": "ロシア"
   },
   {
    "id": "rss-2010086203",
@@ -360,18 +432,6 @@
    "source": "asahi.com",
    "url": "https://www.asahi.com/articles/ASVCT240WVCTOXIE044M.html",
    "place": "東京"
-  },
-  {
-   "id": "rss-3627379861",
-   "title": "戦術核の活用領域を拡大 北朝鮮の金正恩氏 、 韓国を念頭に ： 時事ドットコム",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 38.757,
-   "lon": 126.161,
-   "cat": "other",
-   "at": "2026-11-26T00:45:00.000Z",
-   "source": "jiji.com",
-   "url": "https://www.jiji.com/jc/article?k=2026112600189&g=int",
-   "place": "北朝鮮"
   },
   {
    "id": "rss-736156126",
@@ -578,18 +638,6 @@
    "place": "上海"
   },
   {
-   "id": "rss-3919957737",
-   "title": "文化庁 「 食の至宝 」 にウイスキーブレンダーら8人 一流の技と日本の食文化のブランド向上 橋爪紳也の大阪 ・ 関西都市考",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 34.653,
-   "lon": 136.289,
-   "cat": "other",
-   "at": "2026-11-25T04:45:00.000Z",
-   "source": "sankei.com",
-   "url": "https://www.sankei.com/article/20261125-VU7UJJCOSRPI5BHW67LI7NNYUM/",
-   "place": "大阪"
-  },
-  {
    "id": "rss-2323962268",
    "title": "グレタさんに罰金刑 デンマークで抗議デモ中に不法侵入、弁護人は表現の自由で守られると主張",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -672,54 +720,6 @@
    "source": "asahi.com",
    "url": "https://www.asahi.com/articles/ASVCS5J6ZVCSUTIL01QM.html",
    "place": "東京"
-  },
-  {
-   "id": "rss-654241552",
-   "title": "「 顔ぼこぼこに 」 男性の異変 、 近隣や警察も把握 防ぎきれなかった死 [ 福岡県 ]： 朝日新聞",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 33.807,
-   "lon": 129.851,
-   "cat": "other",
-   "at": "2026-11-25T01:45:00.000Z",
-   "source": "asahi.com",
-   "url": "https://www.asahi.com/articles/ASVCS4199VCSTIPE002M.html",
-   "place": "福岡"
-  },
-  {
-   "id": "rss-1272690680",
-   "title": "国連事務総長 「AIと核は破滅のレシピ」 リスク管理体制を",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.875,
-   "lon": -74.565,
-   "cat": "diplomacy",
-   "at": "2026-11-25T01:41:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261125de80970",
-   "place": "国連本部"
-  },
-  {
-   "id": "rss-1193809539",
-   "title": "ベラルーシ大統領、ゼレンスキー氏にモスクワへの同行提案「私が安全を含め一切を保証する」",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 56.011,
-   "lon": 37.193,
-   "cat": "politics",
-   "at": "2026-11-25T00:54:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663966",
-   "place": "モスクワ"
-  },
-  {
-   "id": "rss-1655122641",
-   "title": "ヒトラーの山荘が全焼 、 元通りに再建するべき ? ドイツ南部 、 難題に ： 朝日新聞",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 52.75,
-   "lon": 12.946,
-   "cat": "other",
-   "at": "2026-11-25T00:30:00.000Z",
-   "source": "asahi.com",
-   "url": "https://www.asahi.com/articles/ASVCN3C2RVCNUHBI024M.html",
-   "place": "ドイツ"
   }
  ]
 }
