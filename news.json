@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-26T11:21:54.446Z",
+ "updatedAt": "2026-11-26T13:50:03.637Z",
  "items": [
+  {
+   "id": "rss-3817686879",
+   "title": "日オマーン外相 ホルムズ海峡は国際社会の慎重な議論が不可欠",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 26.576,
+   "lon": 55.674,
+   "cat": "diplomacy",
+   "at": "2026-11-26T13:46:21.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261126de82125",
+   "place": "ホルムズ海峡"
+  },
   {
    "id": "rss-182164375",
    "title": "イスラエル軍、ハマス財務部門の幹部を殺害 停戦下のガザ",
@@ -708,18 +720,6 @@
    "source": "asahi.com",
    "url": "https://www.asahi.com/articles/ASVCS35Z6VCSULOB012M.html",
    "place": "フランス"
-  },
-  {
-   "id": "rss-2846350006",
-   "title": "帰国する外国人口座を譲渡か 、 男ら逮捕 200枚集め特殊詐欺Gへ ？ [ 東京都 ]： 朝日新聞",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 35.391,
-   "lon": 140.136,
-   "cat": "other",
-   "at": "2026-11-25T01:45:00.000Z",
-   "source": "asahi.com",
-   "url": "https://www.asahi.com/articles/ASVCS5J6ZVCSUTIL01QM.html",
-   "place": "東京"
   }
  ]
 }
