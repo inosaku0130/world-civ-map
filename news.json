@@ -1,6 +1,54 @@
 {
- "updatedAt": "2026-11-26T05:10:55.545Z",
+ "updatedAt": "2026-11-26T06:22:23.634Z",
  "items": [
+  {
+   "id": "rss-1247627546",
+   "title": "トルコの川が真っ赤に、廃棄物が流入か 施設に罰金",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.374,
+   "lon": 32.958,
+   "cat": "other",
+   "at": "2026-11-26T06:05:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/fringe/35255449.html?ref=rss",
+   "place": "トルコ"
+  },
+  {
+   "id": "rss-1155839037",
+   "title": "【詳細】ロシア ウクライナに軍事侵攻（11月23日の動き）",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 56.277,
+   "lon": 37.471,
+   "cat": "conflict",
+   "at": "2026-11-26T05:22:58.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261028de67167",
+   "place": "ロシア"
+  },
+  {
+   "id": "rss-1122430894",
+   "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月26日の動き）",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 56.268,
+   "lon": 37.458,
+   "cat": "conflict",
+   "at": "2026-11-26T05:19:11.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261028de67171",
+   "place": "ロシア"
+  },
+  {
+   "id": "rss-1673315536",
+   "title": "古代アテネの集団処刑、約2700年前の人骨を公開 ギリシャ",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 37.59,
+   "lon": 24.048,
+   "cat": "other",
+   "at": "2026-11-26T05:11:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664287",
+   "place": "アテネ"
+  },
   {
    "id": "rss-842096002",
    "title": "貨物機が滑走路をオーバーラン、フライトの遅延引き起こす 米マイアミ空港",
@@ -242,18 +290,6 @@
    "place": "カイロ"
   },
   {
-   "id": "rss-435291817",
-   "title": "ロシア軍の死者最大70万人と報道、大統領府は一蹴「無視することを勧める」",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.948,
-   "lon": 37.033,
-   "cat": "politics",
-   "at": "2026-11-25T23:08:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3664172",
-   "place": "ロシア"
-  },
-  {
    "id": "rss-720364245",
    "title": "ウクライナ紛争は欧州の「代理戦争」 クシュナー氏",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -384,18 +420,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3664145",
    "place": "コロンビア"
-  },
-  {
-   "id": "rss-3683769139",
-   "title": "英政府、ロシアの妨害工作への自衛策を「今すぐ取る」よう指示 ウクライナを支援する企業に",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.676,
-   "lon": 38.27,
-   "cat": "economy",
-   "at": "2026-11-25T08:50:32.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cmq5v38864w0o?at_medium=RSS&at_campaign=rss",
-   "place": "ロシア"
   },
   {
    "id": "rss-2266043777",
@@ -696,30 +720,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80924",
    "place": "スイス"
-  },
-  {
-   "id": "rss-2971990449",
-   "title": "NY商品 、 原油反発 ホルムズ海峡で新たな攻撃 金は反落",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 26.148,
-   "lon": 56.702,
-   "cat": "conflict",
-   "at": "2026-11-24T21:45:00.000Z",
-   "source": "nikkei.com",
-   "url": "https://www.nikkei.com/article/DGXZQOFL24B500U6A121C2000000/",
-   "place": "ホルムズ海峡"
-  },
-  {
-   "id": "rss-3337073292",
-   "title": "EU 中国製ハイブリッド車 輸入急増で制限へ 日本製も対象に",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 50.252,
-   "lon": 4.392,
-   "cat": "other",
-   "at": "2026-11-24T21:41:28.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261125de80923",
-   "place": "EU（ブリュッセル）"
   }
  ]
 }
