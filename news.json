@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-26T07:52:05.440Z",
+ "updatedAt": "2026-11-26T09:07:09.999Z",
  "items": [
+  {
+   "id": "rss-3643344588",
+   "title": "スーパーモデルの草分け、ドイツのベルーシュカさんが死去 87歳",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 52.454,
+   "lon": 14.15,
+   "cat": "other",
+   "at": "2026-11-26T08:19:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/style/fashion/35255457.html?ref=rss",
+   "place": "ドイツ"
+  },
   {
    "id": "rss-4124948767",
    "title": "ミャンマー大統領、ICJ判決に反発 「不適切な要求に従わず」",
@@ -708,18 +720,6 @@
    "source": "sankei.com",
    "url": "https://www.sankei.com/article/20261125-FNRZX3OUMFMHXJSUFZMNMWUIKE/",
    "place": "大阪"
-  },
-  {
-   "id": "rss-2037469627",
-   "title": "ミャンマーの子 、 490万人が要支援 ユニセフ現地代表の懸念と希望 [ ミャンマー ]： 朝日新聞",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 20.047,
-   "lon": 95.624,
-   "cat": "other",
-   "at": "2026-11-25T00:30:00.000Z",
-   "source": "asahi.com",
-   "url": "https://www.asahi.com/articles/ASVCS24T9VCSUHBI01TM.html",
-   "place": "ミャンマー"
   }
  ]
 }
