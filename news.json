@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-11-26T20:35:04.682Z",
+ "updatedAt": "2026-11-26T21:35:42.219Z",
  "items": [
+  {
+   "id": "rss-4233374225",
+   "title": "サウジアラビア南部の製油所をフーシ派攻撃か 操業一時停止",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 25.065,
+   "lon": 46.392,
+   "cat": "conflict",
+   "at": "2026-11-26T21:34:00.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261127de82191",
+   "place": "サウジアラビア"
+  },
+  {
+   "id": "rss-2169977351",
+   "title": "欧州中央銀行次期総裁にスペインのデコス氏指名で合意",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.392,
+   "lon": -4.498,
+   "cat": "diplomacy",
+   "at": "2026-11-26T20:52:34.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261127de82180",
+   "place": "スペイン"
+  },
+  {
+   "id": "rss-1832159305",
+   "title": "フィンランド 「核のごみ」最終処分場 操業許可後初の報道公開",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 60.333,
+   "lon": 24.396,
+   "cat": "other",
+   "at": "2026-11-26T20:34:00.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261127de82160",
+   "place": "フィンランド"
+  },
   {
    "id": "rss-1781826448",
    "title": "北海道新聞記者の妻の手記をロシアメディアも報じる",
@@ -684,42 +720,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3664009",
    "place": "コロンビア"
-  },
-  {
-   "id": "rss-862482708",
-   "title": "イスラエル軍、ハマス内部治安トップを殺害 ガザ空爆",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 31.949,
-   "lon": 34.307,
-   "cat": "conflict",
-   "at": "2026-11-25T02:47:56.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cmkgdj182rl8o?at_medium=RSS&at_campaign=rss",
-   "place": "ガザ"
-  },
-  {
-   "id": "rss-2609623076",
-   "title": "ソロモン諸島、オーストラリアとの新条約に署名 中国をけん制",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": -35.64,
-   "lon": 149.412,
-   "cat": "diplomacy",
-   "at": "2026-11-25T02:14:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3664001",
-   "place": "オーストラリア"
-  },
-  {
-   "id": "rss-1943428408",
-   "title": "フランス訪問巡り鎌倉市民が市長を提訴 「 前市議長の旅費返還請求を 」 [ 神奈川県 ]： 朝日新聞",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 48.562,
-   "lon": 2.792,
-   "cat": "diplomacy",
-   "at": "2026-11-25T01:45:00.000Z",
-   "source": "asahi.com",
-   "url": "https://www.asahi.com/articles/ASVCS35Z6VCSULOB012M.html",
-   "place": "フランス"
   }
  ]
 }
