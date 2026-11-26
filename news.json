@@ -1,6 +1,78 @@
 {
- "updatedAt": "2026-11-26T06:22:23.634Z",
+ "updatedAt": "2026-11-26T07:52:05.440Z",
  "items": [
+  {
+   "id": "rss-4124948767",
+   "title": "ミャンマー大統領、ICJ判決に反発 「不適切な要求に従わず」",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 19.504,
+   "lon": 96.578,
+   "cat": "politics",
+   "at": "2026-11-26T07:44:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664347",
+   "place": "ミャンマー"
+  },
+  {
+   "id": "rss-539582531",
+   "title": "北朝鮮、スイス外交事務所代表に退去命令 「ウクライナの子ども移送」めぐる制裁に反発",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.55,
+   "lon": 125.619,
+   "cat": "diplomacy",
+   "at": "2026-11-26T07:19:43.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/cqkg5dge2rx1o?at_medium=RSS&at_campaign=rss",
+   "place": "北朝鮮"
+  },
+  {
+   "id": "rss-2027010917",
+   "title": "エジプトで燃料輸送車横転・炎上、少なくとも30人死亡",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 29.958,
+   "lon": 31.893,
+   "cat": "conflict",
+   "at": "2026-11-26T07:12:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664334",
+   "place": "エジプト"
+  },
+  {
+   "id": "rss-1805445604",
+   "title": "【三里河中国経済観察】中国・西安市、貿易額が急増 中西部都市で首位に",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 34.22,
+   "lon": 109.542,
+   "cat": "economy",
+   "at": "2026-11-26T07:00:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3663871",
+   "place": "西安"
+  },
+  {
+   "id": "rss-2253769557",
+   "title": "イスラエルの裁判所、ネタニヤフ氏に対する収賄罪の起訴取り下げを勧告",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 30.722,
+   "lon": 34.164,
+   "cat": "other",
+   "at": "2026-11-26T06:40:51.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/cm702r2kr1y6o?at_medium=RSS&at_campaign=rss",
+   "place": "イスラエル"
+  },
+  {
+   "id": "rss-2194934202",
+   "title": "中国海警船2隻、日本領海に侵入 海保が退去するよう警告",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.7,
+   "lon": 116.971,
+   "cat": "other",
+   "at": "2026-11-26T06:23:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664308",
+   "place": "中国"
+  },
   {
    "id": "rss-1247627546",
    "title": "トルコの川が真っ赤に、廃棄物が流入か 施設に罰金",
@@ -12,6 +84,30 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/fringe/35255449.html?ref=rss",
    "place": "トルコ"
+  },
+  {
+   "id": "rss-2077343774",
+   "title": "1～9月 中国車は39カ国で日本車を上回る 14カ国は今年初の逆転",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.808,
+   "lon": 117.115,
+   "cat": "other",
+   "at": "2026-11-26T05:50:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664339",
+   "place": "中国"
+  },
+  {
+   "id": "rss-2094121393",
+   "title": "中国の発電設備容量 10月末時点で前年同期比10.9%増",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.127,
+   "lon": 115.864,
+   "cat": "other",
+   "at": "2026-11-26T05:40:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664338",
+   "place": "中国"
   },
   {
    "id": "rss-1155839037",
@@ -74,6 +170,18 @@
    "place": "ロシア"
   },
   {
+   "id": "rss-2010086203",
+   "title": "中国で6Gの実証試験が本格始動 北京など8省・市で実施",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.379,
+   "lon": 116.2,
+   "cat": "other",
+   "at": "2026-11-26T05:00:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664329",
+   "place": "北京"
+  },
+  {
    "id": "rss-975656655",
    "title": "韓国の中央銀行ことし3回目の利上げ 物価上昇抑えるねらい",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -110,18 +218,6 @@
    "place": "オーストラリア"
   },
   {
-   "id": "rss-2133589018",
-   "title": "米トランプ政権、中国や日本など14カ国・地域に新関税",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.312,
-   "lon": 116.11,
-   "cat": "politics",
-   "at": "2026-11-26T03:07:45.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cqn0dz6e7yg7o?at_medium=RSS&at_campaign=rss",
-   "place": "中国"
-  },
-  {
    "id": "rss-1292913935",
    "title": "カイロ近郊の幹線道路で燃料タンク車が横転、大規模火災が発生 31人死亡",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -144,18 +240,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3664227",
    "place": "スペイン"
-  },
-  {
-   "id": "rss-1638774560",
-   "title": "中国や日本など14か国・地域に新たな関税案 米、過剰生産を問題視",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.21,
-   "lon": 115.974,
-   "cat": "economy",
-   "at": "2026-11-26T02:40:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3664225",
-   "place": "中国"
   },
   {
    "id": "rss-1200966198",
@@ -374,18 +458,6 @@
    "place": "ソウル"
   },
   {
-   "id": "rss-2917982071",
-   "title": "中国、米の新関税計画報道にけん制 「貿易戦争は誰の利益にもならず」",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.081,
-   "lon": 115.803,
-   "cat": "conflict",
-   "at": "2026-11-25T11:02:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3664156",
-   "place": "中国"
-  },
-  {
    "id": "rss-2114525018",
    "title": "人の喉に未知の臓器を発見、オランダ研究チームが20年に発表",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -420,18 +492,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3664145",
    "place": "コロンビア"
-  },
-  {
-   "id": "rss-2266043777",
-   "title": "北朝鮮 スイスの制裁受け外交事務所代表に国外退去を要求",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.54,
-   "lon": 125.681,
-   "cat": "diplomacy",
-   "at": "2026-11-25T07:40:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261125de81219",
-   "place": "北朝鮮"
   },
   {
    "id": "rss-485771769",
@@ -660,66 +720,6 @@
    "source": "asahi.com",
    "url": "https://www.asahi.com/articles/ASVCS24T9VCSUHBI01TM.html",
    "place": "ミャンマー"
-  },
-  {
-   "id": "rss-1277844729",
-   "title": "デンマーク首相、「人口の大置換」に反対表明「愛する祖国を守り抜きたいと思うのは悪いことではない」",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.807,
-   "lon": 10.771,
-   "cat": "politics",
-   "at": "2026-11-25T00:17:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663959",
-   "place": "デンマーク"
-  },
-  {
-   "id": "rss-3303370959",
-   "title": "サウジアラビア首都の高層ビルにフーシ派攻撃か",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 25.273,
-   "lon": 46.592,
-   "cat": "conflict",
-   "at": "2026-11-24T23:11:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261125de80931",
-   "place": "サウジアラビア"
-  },
-  {
-   "id": "rss-3504849482",
-   "title": "フィンランド沖でのロシア貨物船への無人機攻撃はウクライナ",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 60.148,
-   "lon": 24.15,
-   "cat": "conflict",
-   "at": "2026-11-24T22:45:08.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261125de80929",
-   "place": "フィンランド"
-  },
-  {
-   "id": "rss-3269962816",
-   "title": "ハンガリー新首相がウクライナを初訪問 ロシアを非難",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 47.339,
-   "lon": 18.947,
-   "cat": "diplomacy",
-   "at": "2026-11-24T22:30:15.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261125de80927",
-   "place": "ハンガリー"
-  },
-  {
-   "id": "rss-3320295673",
-   "title": "スイス政府の制裁に北朝鮮キム・ヨジョン氏が反発",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 46.558,
-   "lon": 7.765,
-   "cat": "diplomacy",
-   "at": "2026-11-24T22:13:24.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261125de80924",
-   "place": "スイス"
   }
  ]
 }
