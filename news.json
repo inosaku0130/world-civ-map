@@ -1,6 +1,78 @@
 {
- "updatedAt": "2026-11-26T02:03:40.464Z",
+ "updatedAt": "2026-11-26T02:57:29.012Z",
  "items": [
+  {
+   "id": "rss-1672329798",
+   "title": "「もう限界」スペイン領カナリア諸島、移民殺到で支援要請 人口1万2000人の島に一気に2000人",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.548,
+   "lon": -4.29,
+   "cat": "other",
+   "at": "2026-11-26T02:48:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664227",
+   "place": "スペイン"
+  },
+  {
+   "id": "rss-1638774560",
+   "title": "中国や日本など14か国・地域に新たな関税案 米、過剰生産を問題視",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.21,
+   "lon": 115.974,
+   "cat": "economy",
+   "at": "2026-11-26T02:40:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664225",
+   "place": "中国"
+  },
+  {
+   "id": "rss-1200966198",
+   "title": "北朝鮮 キム総書記 核保有「絶対に誰の承認も追求しない」",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.146,
+   "lon": 125.156,
+   "cat": "other",
+   "at": "2026-11-26T02:38:30.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261126de81651",
+   "place": "北朝鮮"
+  },
+  {
+   "id": "rss-1307914153",
+   "title": "大阪都構想の制度案が固まる 維新の意向反映 3度目住民投票へ",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 35.157,
+   "lon": 135.284,
+   "cat": "other",
+   "at": "2026-11-26T02:15:00.000Z",
+   "source": "mainichi.jp",
+   "url": "https://mainichi.jp/articles/20261126/k00/00m/010/039000c",
+   "place": "大阪"
+  },
+  {
+   "id": "rss-356722908",
+   "title": "金正恩氏 「 米国に核保有の承認は求めない 」 核施設の視察で強調",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.144,
+   "lon": -77.477,
+   "cat": "other",
+   "at": "2026-11-26T02:15:00.000Z",
+   "source": "mainichi.jp",
+   "url": "https://mainichi.jp/articles/20261126/k00/00m/030/027000c",
+   "place": "アメリカ"
+  },
+  {
+   "id": "rss-611827385",
+   "title": "蔵内前議長が所長務めるオフィスへの支援 、 縮小へ 福岡 ・ 行革審",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 33.069,
+   "lon": 130.544,
+   "cat": "other",
+   "at": "2026-11-26T02:15:00.000Z",
+   "source": "mainichi.jp",
+   "url": "https://mainichi.jp/articles/20261125/k00/00m/310/299000c",
+   "place": "福岡"
+  },
   {
    "id": "rss-4054354338",
    "title": "英国で若者の性行為離れ進む、性的画像の送受信やポルノ鑑賞などオンラインに移行か",
@@ -12,6 +84,30 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3664209",
    "place": "イギリス"
+  },
+  {
+   "id": "rss-2259866557",
+   "title": "AI技術でベンチャー立ち上げも 起業家精神育てる都立産技高専 [ 東京都 ] [ AIの時代 ]： 朝日新聞",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 35.507,
+   "lon": 140.368,
+   "cat": "other",
+   "at": "2026-11-26T01:30:00.000Z",
+   "source": "asahi.com",
+   "url": "https://www.asahi.com/articles/ASVCT240WVCTOXIE044M.html",
+   "place": "東京"
+  },
+  {
+   "id": "rss-3627379861",
+   "title": "戦術核の活用領域を拡大 北朝鮮の金正恩氏 、 韓国を念頭に ： 時事ドットコム",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 38.757,
+   "lon": 126.161,
+   "cat": "other",
+   "at": "2026-11-26T00:45:00.000Z",
+   "source": "jiji.com",
+   "url": "https://www.jiji.com/jc/article?k=2026112600189&g=int",
+   "place": "北朝鮮"
   },
   {
    "id": "rss-736156126",
@@ -218,18 +314,6 @@
    "place": "コロンビア"
   },
   {
-   "id": "rss-1087989776",
-   "title": "中国 独自の宇宙ステーションにパキスタン人宇宙飛行士初参加",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.199,
-   "lon": 116.037,
-   "cat": "other",
-   "at": "2026-11-25T09:23:31.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261125de80985",
-   "place": "中国"
-  },
-  {
    "id": "rss-3683769139",
    "title": "英政府、ロシアの妨害工作への自衛策を「今すぐ取る」よう指示 ウクライナを支援する企業に",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -396,18 +480,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3664001",
    "place": "オーストラリア"
-  },
-  {
-   "id": "rss-4291111766",
-   "title": "トランプ米大統領が七面鳥に恩赦、でも1羽は脱走 米感謝祭行事でハプニング",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 38.86,
-   "lon": -76.331,
-   "cat": "politics",
-   "at": "2026-11-25T02:10:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/usa/35255375.html?ref=rss",
-   "place": "アメリカ"
   },
   {
    "id": "rss-1943428408",
@@ -648,78 +720,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3663912",
    "place": "ローマ"
-  },
-  {
-   "id": "rss-1501182796",
-   "title": "パートナーや親族による女性殺害、25年は4万7000人超 国連",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.535,
-   "lon": -73.495,
-   "cat": "conflict",
-   "at": "2026-11-24T08:28:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663897",
-   "place": "国連本部"
-  },
-  {
-   "id": "rss-3831673792",
-   "title": "ポーランドに警戒管制機 NATO 、 ロシア製の巡航ミサイル落下で",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 51.865,
-   "lon": 21.362,
-   "cat": "conflict",
-   "at": "2026-11-24T07:45:00.000Z",
-   "source": "nikkei.com",
-   "url": "https://www.nikkei.com/article/DGXZQOCB245SI0U6A121C2000000/",
-   "place": "ポーランド"
-  },
-  {
-   "id": "rss-1351454014",
-   "title": "トルコ富豪、アンドリュー元王子に75万ポンド提供と 法廷で証言",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.426,
-   "lon": 32.682,
-   "cat": "other",
-   "at": "2026-11-24T07:42:02.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cvp865xdg927o?at_medium=RSS&at_campaign=rss",
-   "place": "トルコ"
-  },
-  {
-   "id": "rss-414056961",
-   "title": "ネパール新首相がインド初訪問、関係再構築を模索 インドは復興支援に16億ドル約束",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 27.896,
-   "lon": 83.982,
-   "cat": "diplomacy",
-   "at": "2026-11-24T07:16:17.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cvn0d5pw63plo?at_medium=RSS&at_campaign=rss",
-   "place": "ネパール"
-  },
-  {
-   "id": "rss-1237662495",
-   "title": "【三里河中国経済観察】中国最長の地下鉄環状線、武漢市で全線開通",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 31.171,
-   "lon": 114.236,
-   "cat": "economy",
-   "at": "2026-11-24T07:00:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663265",
-   "place": "武漢"
-  },
-  {
-   "id": "rss-1383592368",
-   "title": "第28回ハルビン氷雪大世界 メインタワーの完成予想図を公開",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 45.9,
-   "lon": 125.901,
-   "cat": "other",
-   "at": "2026-11-24T05:00:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663880",
-   "place": "ハルビン"
   }
  ]
 }
