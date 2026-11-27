@@ -1,6 +1,102 @@
 {
- "updatedAt": "2026-11-27T06:24:51.312Z",
+ "updatedAt": "2026-11-27T07:52:05.588Z",
  "items": [
+  {
+   "id": "rss-4268102055",
+   "title": "中国、十数か所のゴルフ施設に続々と閉鎖命令 新たな取り締まりか",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.447,
+   "lon": 116.368,
+   "cat": "other",
+   "at": "2026-11-27T07:30:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664552",
+   "place": "中国"
+  },
+  {
+   "id": "rss-2801076485",
+   "title": "イギリスの若者、3人に1人は性交経験なし 「セクスティング」やポルノ視聴は半数以上",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 51.952,
+   "lon": -0.303,
+   "cat": "other",
+   "at": "2026-11-27T06:55:34.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/c6074pvlep5po?at_medium=RSS&at_campaign=rss",
+   "place": "イギリス"
+  },
+  {
+   "id": "rss-28598112",
+   "title": "ロシアの指示とされる破壊工作が欧州で激化、多数の死傷者を出す恐れも シンクタンク警告",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 56.198,
+   "lon": 37.366,
+   "cat": "other",
+   "at": "2026-11-27T06:38:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/world/35255507.html?ref=rss",
+   "place": "ロシア"
+  },
+  {
+   "id": "rss-1751017920",
+   "title": "ギャングが「金を出さないと殺すぞ」と恐喝、首都と世界遺産都市結ぶバスが運行停止に グアテマラ",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 16.021,
+   "lon": -90.757,
+   "cat": "other",
+   "at": "2026-11-27T06:31:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664526",
+   "place": "グアテマラ"
+  },
+  {
+   "id": "rss-3145962123",
+   "title": "福岡県議会 「 5人衆 」 の政治資金 蔵内氏パーティー収入は3千万円超 [ 福岡県 ]： 朝日新聞",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 33.747,
+   "lon": 129.848,
+   "cat": "politics",
+   "at": "2026-11-27T06:30:00.000Z",
+   "source": "asahi.com",
+   "url": "https://www.asahi.com/articles/ASVCV4W3QVCVTIPE016M.html",
+   "place": "福岡"
+  },
+  {
+   "id": "rss-3572671051",
+   "title": "整う前に …… それは詐欺 ！ 熱波師警官がサウナで届けたアウフグース [ 大阪府 ]： 朝日新聞",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 35.136,
+   "lon": 135.257,
+   "cat": "other",
+   "at": "2026-11-27T06:30:00.000Z",
+   "source": "asahi.com",
+   "url": "https://www.asahi.com/articles/ASVCW1GM4VCWPTIL00FM.html",
+   "place": "大阪"
+  },
+  {
+   "id": "rss-3558039544",
+   "title": "「 もう一回話したい 」 駐輪場の利用者ら 、 男性の死悼み献花 福岡刺殺 [ 福岡県 ]： 朝日新聞",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 33.848,
+   "lon": 129.906,
+   "cat": "other",
+   "at": "2026-11-27T06:30:00.000Z",
+   "source": "asahi.com",
+   "url": "https://www.asahi.com/articles/ASVCW12YSVCWTIPE00HM.html",
+   "place": "福岡"
+  },
+  {
+   "id": "rss-2384488030",
+   "title": "事務所に入り被害男性と接触か 福岡刺殺事件 、 関与疑われる男を送検 [ 福岡県 ]： 朝日新聞",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 33.73,
+   "lon": 129.749,
+   "cat": "other",
+   "at": "2026-11-27T06:30:00.000Z",
+   "source": "asahi.com",
+   "url": "https://www.asahi.com/articles/ASVCW1FS3VCWTIPE00XM.html",
+   "place": "福岡"
+  },
   {
    "id": "rss-1105653275",
    "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月27日の動き）",
@@ -14,6 +110,18 @@
    "place": "ロシア"
   },
   {
+   "id": "rss-4217769198",
+   "title": "中国 世界最長の水中シールドトンネルが長江横断に成功",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.661,
+   "lon": 116.92,
+   "cat": "other",
+   "at": "2026-11-27T06:00:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664555",
+   "place": "中国"
+  },
+  {
    "id": "rss-715503813",
    "title": "米政府が「手違い」で中米に強制送還した男性、米国からスペインに到着 トランプ政権との争いに終止符",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -24,6 +132,18 @@
    "source": "BBC News Japan",
    "url": "https://www.bbc.com/japanese/articles/cm174nxw20qno?at_medium=RSS&at_campaign=rss",
    "place": "スペイン"
+  },
+  {
+   "id": "rss-4234546817",
+   "title": "中国初の国際航行船舶向けバイオメタン燃料補給作業を実施＝青島港",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.148,
+   "lon": 115.893,
+   "cat": "other",
+   "at": "2026-11-27T05:50:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664554",
+   "place": "中国"
   },
   {
    "id": "rss-3225202423",
@@ -74,6 +194,18 @@
    "place": "EU（ブリュッセル）"
   },
   {
+   "id": "rss-3173307262",
+   "title": "「 タラップ段差 」 はリトマス紙だった あの 「 汚い首 」 中国大阪総領事も参戦か 大手町の片隅から 乾正人",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 35.195,
+   "lon": 135.335,
+   "cat": "other",
+   "at": "2026-11-27T04:30:00.000Z",
+   "source": "sankei.com",
+   "url": "https://www.sankei.com/article/20261127-WEK4YZ5D5BLFTCKV2GKPQVOFWU/",
+   "place": "大阪"
+  },
+  {
    "id": "rss-3740501180",
    "title": "トランプ氏、中ロのイランへの情報提供を重視せず",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -86,16 +218,28 @@
    "place": "イラン"
   },
   {
-   "id": "rss-3807611656",
-   "title": "千葉百音、中国でのブーイングに言及「自分ではコントロールできない」",
+   "id": "rss-1336180022",
+   "title": "腸の構造を再現 「 腸管チップ 」、 新薬候補の評価に有用 東京科学大学",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.282,
-   "lon": 116.147,
+   "lat": 35.288,
+   "lon": 140.075,
    "cat": "other",
-   "at": "2026-11-27T03:09:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3664474",
-   "place": "中国"
+   "at": "2026-11-27T03:30:00.000Z",
+   "source": "nikkei.com",
+   "url": "https://www.nikkei.com/article/DGXZQOSG256DV0V21C26A1000000/",
+   "place": "東京"
+  },
+  {
+   "id": "rss-4227715281",
+   "title": "遠足で小１女児が熱中症 、 大阪 ・ 八尾市に１６万円の逆転賠償命令 … 水筒が空なのに教員はお茶購入認めず",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 34.191,
+   "lon": 135.673,
+   "cat": "other",
+   "at": "2026-11-27T03:30:00.000Z",
+   "source": "yomiuri.co.jp",
+   "url": "https://www.yomiuri.co.jp/yomidr/article/20261127-GYT1T00063/",
+   "place": "大阪"
   },
   {
    "id": "rss-3958757322",
@@ -144,6 +288,18 @@
    "source": "BBC News Japan",
    "url": "https://www.bbc.com/japanese/articles/c6742dd74d4eo?at_medium=RSS&at_campaign=rss",
    "place": "ミャンマー"
+  },
+  {
+   "id": "rss-2767484688",
+   "title": "バングラデシュから10万人受け入れ ? SNS炎上で動いた外務省 「 事実と異なる 」 政治部取材メモ",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 23.977,
+   "lon": 89.871,
+   "cat": "other",
+   "at": "2026-11-27T02:15:00.000Z",
+   "source": "sankei.com",
+   "url": "https://www.sankei.com/article/20261127-IRPOU743BFHD7F6BY4ZVQNQTRE/",
+   "place": "バングラデシュ"
   },
   {
    "id": "rss-4075236925",
@@ -278,18 +434,6 @@
    "place": "クウェート"
   },
   {
-   "id": "rss-2153199732",
-   "title": "ロシア外務省 日ロ首脳の中国での意見交換の事実を認める",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.989,
-   "lon": 37.087,
-   "cat": "diplomacy",
-   "at": "2026-11-26T21:36:56.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261127de82181",
-   "place": "ロシア"
-  },
-  {
    "id": "rss-4233374225",
    "title": "サウジアラビア南部の製油所をフーシ派攻撃か 操業一時停止",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -386,18 +530,6 @@
    "place": "アメリカ"
   },
   {
-   "id": "rss-2151661503",
-   "title": "自民 武田元総務相“段差 その場で中国側に抗議すべきだった”",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.637,
-   "lon": 116.811,
-   "cat": "politics",
-   "at": "2026-11-26T09:55:49.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261126de81968",
-   "place": "中国"
-  },
-  {
    "id": "rss-131684423",
    "title": "バンコクの石油貯蔵施設で大規模爆発 当局が避難呼び掛け",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -408,18 +540,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3664361",
    "place": "バンコク"
-  },
-  {
-   "id": "rss-2145439988",
-   "title": "中国、日本が「主権侵害」と非難 尖閣諸島周辺の海警船めぐり",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.602,
-   "lon": 116.842,
-   "cat": "other",
-   "at": "2026-11-26T09:01:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3664359",
-   "place": "中国"
   },
   {
    "id": "rss-3643344588",
@@ -504,54 +624,6 @@
    "source": "BBC News Japan",
    "url": "https://www.bbc.com/japanese/articles/cm702r2kr1y6o?at_medium=RSS&at_campaign=rss",
    "place": "イスラエル"
-  },
-  {
-   "id": "rss-73624840",
-   "title": "死亡の男性 、 上半身に多数の刺し傷 福岡 ・ 男性刺殺 、 男の関与を捜査 [ 福岡県 ]： 朝日新聞",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 34.184,
-   "lon": 130.354,
-   "cat": "conflict",
-   "at": "2026-11-26T06:15:00.000Z",
-   "source": "asahi.com",
-   "url": "https://www.asahi.com/articles/ASVCV0TLPVCVTIPE003M.html",
-   "place": "福岡"
-  },
-  {
-   "id": "rss-49259475",
-   "title": "【 まとめてわかる 】 大阪都構想とは メリットは ？ デメリットは ？ [ 大阪府 ] [ 法定協議会 区割り ][ 日本維新の会 ]： 朝日新聞",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 34.63,
-   "lon": 136.258,
-   "cat": "diplomacy",
-   "at": "2026-11-26T06:15:00.000Z",
-   "source": "asahi.com",
-   "url": "https://www.asahi.com/articles/ASVCT2JLXVCTUEFT002M.html",
-   "place": "大阪"
-  },
-  {
-   "id": "rss-789392839",
-   "title": "事件２０分前 、 周辺カメラに逮捕の男か 福岡駐輪場刺殺 、 足取り捜査 ― 県警 ： 時事ドットコム",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 33.298,
-   "lon": 130.773,
-   "cat": "other",
-   "at": "2026-11-26T06:15:00.000Z",
-   "source": "jiji.com",
-   "url": "https://www.jiji.com/jc/article?k=2026112600145&g=soc",
-   "place": "福岡"
-  },
-  {
-   "id": "rss-3733688688",
-   "title": "大阪都構想 、 来春住民投票へ 維新のみ議論5カ月半 自公から動きも [ 大阪府 ] [ 法定協議会 区割り ][ 日本維新の会 ][ 自由民主党 （ 自民党 ）][ 公明党 ]： 朝日新聞",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 35.104,
-   "lon": 135.29,
-   "cat": "diplomacy",
-   "at": "2026-11-26T06:15:00.000Z",
-   "source": "asahi.com",
-   "url": "https://www.asahi.com/articles/ASVCT3JTSVCTOXIE04BM.html",
-   "place": "大阪"
   },
   {
    "id": "rss-1247627546",
@@ -648,78 +720,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3664249",
    "place": "オーストラリア"
-  },
-  {
-   "id": "rss-1292913935",
-   "title": "カイロ近郊の幹線道路で燃料タンク車が横転、大規模火災が発生 31人死亡",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 30.015,
-   "lon": 30.445,
-   "cat": "conflict",
-   "at": "2026-11-26T03:06:39.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/c6grexv97jg2o?at_medium=RSS&at_campaign=rss",
-   "place": "カイロ"
-  },
-  {
-   "id": "rss-1307914153",
-   "title": "大阪都構想の制度案が固まる 維新の意向反映 3度目住民投票へ",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 35.157,
-   "lon": 135.284,
-   "cat": "other",
-   "at": "2026-11-26T02:15:00.000Z",
-   "source": "mainichi.jp",
-   "url": "https://mainichi.jp/articles/20261126/k00/00m/010/039000c",
-   "place": "大阪"
-  },
-  {
-   "id": "rss-356722908",
-   "title": "金正恩氏 「 米国に核保有の承認は求めない 」 核施設の視察で強調",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.144,
-   "lon": -77.477,
-   "cat": "other",
-   "at": "2026-11-26T02:15:00.000Z",
-   "source": "mainichi.jp",
-   "url": "https://mainichi.jp/articles/20261126/k00/00m/030/027000c",
-   "place": "アメリカ"
-  },
-  {
-   "id": "rss-611827385",
-   "title": "蔵内前議長が所長務めるオフィスへの支援 、 縮小へ 福岡 ・ 行革審",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 33.069,
-   "lon": 130.544,
-   "cat": "other",
-   "at": "2026-11-26T02:15:00.000Z",
-   "source": "mainichi.jp",
-   "url": "https://mainichi.jp/articles/20261125/k00/00m/310/299000c",
-   "place": "福岡"
-  },
-  {
-   "id": "rss-4054354338",
-   "title": "英国で若者の性行為離れ進む、性的画像の送受信やポルノ鑑賞などオンラインに移行か",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 51.388,
-   "lon": 0.468,
-   "cat": "other",
-   "at": "2026-11-26T01:43:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3664209",
-   "place": "イギリス"
-  },
-  {
-   "id": "rss-2259866557",
-   "title": "AI技術でベンチャー立ち上げも 起業家精神育てる都立産技高専 [ 東京都 ] [ AIの時代 ]： 朝日新聞",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 35.507,
-   "lon": 140.368,
-   "cat": "other",
-   "at": "2026-11-26T01:30:00.000Z",
-   "source": "asahi.com",
-   "url": "https://www.asahi.com/articles/ASVCT240WVCTOXIE044M.html",
-   "place": "東京"
   }
  ]
 }
