@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-27T12:21:51.249Z",
+ "updatedAt": "2026-11-27T14:41:08.243Z",
  "items": [
+  {
+   "id": "rss-556257752",
+   "title": "沖縄 尖閣諸島沖 領海侵入した中国海警局船2隻 領海を出る",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.757,
+   "lon": 117.048,
+   "cat": "other",
+   "at": "2026-11-27T13:46:00.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261127de82783",
+   "place": "中国"
+  },
   {
    "id": "rss-321076896",
    "title": "山梨県議 ロシアが一方的に併合宣言のウクライナ東部を訪問",
@@ -192,18 +204,6 @@
    "source": "BBC News Japan",
    "url": "https://www.bbc.com/japanese/articles/cm174nxw20qno?at_medium=RSS&at_campaign=rss",
    "place": "スペイン"
-  },
-  {
-   "id": "rss-4234546817",
-   "title": "中国初の国際航行船舶向けバイオメタン燃料補給作業を実施＝青島港",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.148,
-   "lon": 115.893,
-   "cat": "other",
-   "at": "2026-11-27T05:50:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3664554",
-   "place": "中国"
   },
   {
    "id": "rss-3225202423",
