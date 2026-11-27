@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-27T10:14:51.262Z",
+ "updatedAt": "2026-11-27T12:21:51.249Z",
  "items": [
+  {
+   "id": "rss-321076896",
+   "title": "山梨県議 ロシアが一方的に併合宣言のウクライナ東部を訪問",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.18,
+   "lon": 37.609,
+   "cat": "diplomacy",
+   "at": "2026-11-27T11:50:02.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261127de82765",
+   "place": "ロシア"
+  },
   {
    "id": "rss-387201634",
    "title": "茂木外相 ガザ「平和評議会」代表と面会 “復興へ積極支援”",
@@ -312,18 +324,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/world/35255500.html?ref=rss",
    "place": "ガザ"
-  },
-  {
-   "id": "rss-2153199732",
-   "title": "ロシア外務省 日ロ首脳の中国での意見交換の事実を認める",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.989,
-   "lon": 37.087,
-   "cat": "diplomacy",
-   "at": "2026-11-27T02:23:52.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261127de82181",
-   "place": "ロシア"
   },
   {
    "id": "rss-1425587116",
