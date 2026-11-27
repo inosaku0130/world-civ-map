@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-27T07:52:05.588Z",
+ "updatedAt": "2026-11-27T09:07:07.115Z",
  "items": [
+  {
+   "id": "rss-1852375182",
+   "title": "ELでサポーターと警察が衝突し外交問題に、ベシクタシュサポがパレスチナ支持の横断幕掲げる",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 31.853,
+   "lon": 34.479,
+   "cat": "conflict",
+   "at": "2026-11-27T08:36:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664568",
+   "place": "パレスチナ"
+  },
+  {
+   "id": "rss-1263305004",
+   "title": "台湾統一地方選挙 28日投票へ 台北市長選挙の勝敗など焦点",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 25.178,
+   "lon": 120.995,
+   "cat": "politics",
+   "at": "2026-11-27T08:17:29.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261127de82484",
+   "place": "台北"
+  },
   {
    "id": "rss-4268102055",
    "title": "中国、十数か所のゴルフ施設に続々と閉鎖命令 新たな取り締まりか",
@@ -266,6 +290,18 @@
    "place": "ガザ"
   },
   {
+   "id": "rss-2153199732",
+   "title": "ロシア外務省 日ロ首脳の中国での意見交換の事実を認める",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.989,
+   "lon": 37.087,
+   "cat": "diplomacy",
+   "at": "2026-11-27T02:23:52.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261127de82181",
+   "place": "ロシア"
+  },
+  {
    "id": "rss-1425587116",
    "title": "中国、豪比の防衛協定を非難 南シナ海の「緊張高める」",
    "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
@@ -300,18 +336,6 @@
    "source": "sankei.com",
    "url": "https://www.sankei.com/article/20261127-IRPOU743BFHD7F6BY4ZVQNQTRE/",
    "place": "バングラデシュ"
-  },
-  {
-   "id": "rss-4075236925",
-   "title": "ゼレンスキー氏、アメリカは中東に集中しすぎてロシアへの圧力不十分と BBC単独インタビューで",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.498,
-   "lon": 38.11,
-   "cat": "other",
-   "at": "2026-11-27T01:56:33.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cmj4rww1npreo?at_medium=RSS&at_campaign=rss",
-   "place": "ロシア"
   },
   {
    "id": "rss-1407823759",
@@ -696,30 +720,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261126de81753",
    "place": "韓国"
-  },
-  {
-   "id": "rss-1546784503",
-   "title": "英国の若者のセックス頻度が激減、1990年の半分に 性感染症リスクは高く",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 52,
-   "lon": -0.239,
-   "cat": "disaster",
-   "at": "2026-11-26T04:43:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/fringe/35255444.html?ref=rss",
-   "place": "イギリス"
-  },
-  {
-   "id": "rss-1772009774",
-   "title": "オーストラリア上院議員、反移民の極右政党に移籍 重要な州議会選を前に",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": -35.204,
-   "lon": 148.392,
-   "cat": "politics",
-   "at": "2026-11-26T03:29:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3664249",
-   "place": "オーストラリア"
   }
  ]
 }
