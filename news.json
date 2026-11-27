@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-11-27T02:06:17.352Z",
+ "updatedAt": "2026-11-27T03:00:22.023Z",
  "items": [
+  {
+   "id": "rss-3551607907",
+   "title": "ガザでイスラエルの暗殺作戦が激化、停戦履行迫る米政権の要求にも応じず",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 30.919,
+   "lon": 34.457,
+   "cat": "conflict",
+   "at": "2026-11-27T02:48:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/world/35255500.html?ref=rss",
+   "place": "ガザ"
+  },
+  {
+   "id": "rss-1425587116",
+   "title": "中国、豪比の防衛協定を非難 南シナ海の「緊張高める」",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 11.922,
+   "lon": 114.658,
+   "cat": "other",
+   "at": "2026-11-27T02:22:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664456",
+   "place": "南シナ海"
+  },
+  {
+   "id": "rss-2314583593",
+   "title": "ミャンマー大統領、ジェノサイド認定したICJ判決の一部には従わないと表明",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 19.263,
+   "lon": 96.179,
+   "cat": "politics",
+   "at": "2026-11-27T02:20:34.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/c6742dd74d4eo?at_medium=RSS&at_campaign=rss",
+   "place": "ミャンマー"
+  },
   {
    "id": "rss-4075236925",
    "title": "ゼレンスキー氏、アメリカは中東に集中しすぎてロシアへの圧力不十分と BBC単独インタビューで",
@@ -12,6 +48,18 @@
    "source": "BBC News Japan",
    "url": "https://www.bbc.com/japanese/articles/cmj4rww1npreo?at_medium=RSS&at_campaign=rss",
    "place": "ロシア"
+  },
+  {
+   "id": "rss-1407823759",
+   "title": "ウクライナ外相、リビアに戦火拡大する意図否定 同国沖でのロシア船攻撃めぐり",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 50.881,
+   "lon": 30.256,
+   "cat": "conflict",
+   "at": "2026-11-27T01:56:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664435",
+   "place": "ウクライナ"
   },
   {
    "id": "rss-3807317466",
@@ -672,54 +720,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de81518",
    "place": "ネパール"
-  },
-  {
-   "id": "rss-3160204694",
-   "title": "インドネシアの金鉱山で浸水 3人死亡 23人坑内に閉じ込めか",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": -5.727,
-   "lon": 106.642,
-   "cat": "conflict",
-   "at": "2026-11-25T15:08:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261125de81535",
-   "place": "インドネシア"
-  },
-  {
-   "id": "rss-3052950718",
-   "title": "韓国で仕事求める日本人増加 ソウルで合同企業説明会",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 37.775,
-   "lon": 126.492,
-   "cat": "economy",
-   "at": "2026-11-25T12:13:32.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261125de81481",
-   "place": "ソウル"
-  },
-  {
-   "id": "rss-2114525018",
-   "title": "人の喉に未知の臓器を発見、オランダ研究チームが20年に発表",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 52.857,
-   "lon": 4.788,
-   "cat": "other",
-   "at": "2026-11-25T10:11:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/fringe/35255405.html?ref=rss",
-   "place": "オランダ"
-  },
-  {
-   "id": "rss-1022270439",
-   "title": "ソロモン諸島 オーストラリアと安全保障の新条約に署名",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": -35.056,
-   "lon": 148.668,
-   "cat": "diplomacy",
-   "at": "2026-11-25T09:56:00.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261125de81442",
-   "place": "オーストラリア"
   }
  ]
 }
