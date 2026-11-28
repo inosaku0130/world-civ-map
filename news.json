@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-28T07:57:28.236Z",
+ "updatedAt": "2026-11-28T08:54:24.214Z",
  "items": [
+  {
+   "id": "rss-2845357396",
+   "title": "“エヌビディア半導体 輸出規制先の中国で確認”米メディア",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.252,
+   "lon": 116.03,
+   "cat": "economy",
+   "at": "2026-11-28T08:12:06.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261128de82966",
+   "place": "中国"
+  },
+  {
+   "id": "rss-3156352690",
+   "title": "ペルーとエクアドルの都市で冠水、エルニーニョに伴う豪雨",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": -12.104,
+   "lon": -76.274,
+   "cat": "disaster",
+   "at": "2026-11-28T08:03:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664638",
+   "place": "ペルー"
+  },
   {
    "id": "rss-3206685547",
    "title": "金正恩氏に訪中の可能性と報道、韓国情報機関が注視",
@@ -72,18 +96,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/usa/35255540.html?ref=rss",
    "place": "アメリカ"
-  },
-  {
-   "id": "rss-1551515653",
-   "title": "中国主導の二輪車と軽二輪車の情報・サービス用語に関する国際規格 策定開始",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.578,
-   "lon": 116.733,
-   "cat": "other",
-   "at": "2026-11-28T05:30:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663894",
-   "place": "中国"
   },
   {
    "id": "rss-2609484992",
@@ -708,18 +720,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3664400",
    "place": "クウェート"
-  },
-  {
-   "id": "rss-4082375654",
-   "title": "北朝鮮がロシアへの軍事支援を一時停止か ウクライナが分析",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.033,
-   "lon": 125.006,
-   "cat": "conflict",
-   "at": "2026-11-26T23:42:16.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261127de82198",
-   "place": "北朝鮮"
   }
  ]
 }
