@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-28T03:39:01.535Z",
+ "updatedAt": "2026-11-28T04:43:47.983Z",
  "items": [
+  {
+   "id": "rss-3290573642",
+   "title": "マリ、同性間の性行為の罪で男性2人に有罪判決 国連専門家は「深刻な懸念」表明",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.776,
+   "lon": -74.696,
+   "cat": "diplomacy",
+   "at": "2026-11-28T04:19:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664630",
+   "place": "国連本部"
+  },
+  {
+   "id": "rss-841291531",
+   "title": "スクーターで逃走図った殺人容疑者、飛び出してきた野生のゾウに衝突 スリランカ",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 7.379,
+   "lon": 81.16,
+   "cat": "conflict",
+   "at": "2026-11-28T03:54:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664628",
+   "place": "スリランカ"
+  },
   {
    "id": "rss-790958674",
    "title": "米軍、イラン港湾封鎖の突破試みた船を攻撃 航行不能に",
@@ -696,30 +720,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3664365",
    "place": "アメリカ"
-  },
-  {
-   "id": "rss-131684423",
-   "title": "バンコクの石油貯蔵施設で大規模爆発 当局が避難呼び掛け",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 13.725,
-   "lon": 101.292,
-   "cat": "other",
-   "at": "2026-11-26T09:27:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3664361",
-   "place": "バンコク"
-  },
-  {
-   "id": "rss-3643344588",
-   "title": "スーパーモデルの草分け、ドイツのベルーシュカさんが死去 87歳",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 52.454,
-   "lon": 14.15,
-   "cat": "other",
-   "at": "2026-11-26T08:19:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/style/fashion/35255457.html?ref=rss",
-   "place": "ドイツ"
   }
  ]
 }
