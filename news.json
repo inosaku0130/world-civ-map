@@ -1,6 +1,78 @@
 {
- "updatedAt": "2026-11-28T01:12:44.684Z",
+ "updatedAt": "2026-11-28T02:28:31.693Z",
  "items": [
+  {
+   "id": "rss-1142370601",
+   "title": "「イラク首相の取り組みを支持」、トランプ氏の投稿の背景に何が？",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 33.332,
+   "lon": 45.15,
+   "cat": "politics",
+   "at": "2026-11-28T02:17:00.000Z",
+   "source": "CNN.co.jp",
+   "url": "https://www.cnn.co.jp/usa/35255538.html?ref=rss",
+   "place": "イラク"
+  },
+  {
+   "id": "rss-2954727072",
+   "title": "イスラエル軍、「国境なき医師団」診療所の警備員2人を殺害 ハマスの「テロリスト」だと主張",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 30.712,
+   "lon": 34.152,
+   "cat": "conflict",
+   "at": "2026-11-28T02:17:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664618",
+   "place": "イスラエル"
+  },
+  {
+   "id": "rss-3206391357",
+   "title": "カナダ最高裁、ケベック州の宗教的シンボル着用禁止法をおおむね合憲と判断 州首相「世俗主義の勝利」",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 45.912,
+   "lon": -75.882,
+   "cat": "politics",
+   "at": "2026-11-28T02:04:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664617",
+   "place": "カナダ"
+  },
+  {
+   "id": "rss-1180385225",
+   "title": "米沿岸部で大雨と強風、広い範囲で停電 ニューヨークでは感謝祭パレードが初の延期",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.204,
+   "lon": -73.924,
+   "cat": "other",
+   "at": "2026-11-28T01:59:56.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/cwdd13d25jvyo?at_medium=RSS&at_campaign=rss",
+   "place": "ニューヨーク"
+  },
+  {
+   "id": "rss-4066390236",
+   "title": "カナダ最高裁、ケベック州の一部公務員による宗教的シンボルの着用禁止を支持",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 45.85,
+   "lon": -75.889,
+   "cat": "other",
+   "at": "2026-11-28T01:57:34.000Z",
+   "source": "BBC News Japan",
+   "url": "https://www.bbc.com/japanese/articles/c9kgmdgv7vpno?at_medium=RSS&at_campaign=rss",
+   "place": "カナダ"
+  },
+  {
+   "id": "rss-3172836119",
+   "title": "ロシア、アルメニアに陣営選択迫る EU側かロシア側か",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 55.604,
+   "lon": 37.124,
+   "cat": "other",
+   "at": "2026-11-28T01:09:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664615",
+   "place": "ロシア"
+  },
   {
    "id": "rss-3139280881",
    "title": "カナダ議会、米大使の追放求める請願書を受理 30万人近くが署名",
@@ -108,18 +180,6 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261127de82783",
    "place": "中国"
-  },
-  {
-   "id": "rss-321076896",
-   "title": "山梨県議 ロシアが一方的に併合宣言のウクライナ東部を訪問",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 55.18,
-   "lon": 37.609,
-   "cat": "diplomacy",
-   "at": "2026-11-27T11:50:02.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261127de82765",
-   "place": "ロシア"
   },
   {
    "id": "rss-387201634",
@@ -660,66 +720,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3664347",
    "place": "ミャンマー"
-  },
-  {
-   "id": "rss-539582531",
-   "title": "北朝鮮、スイス外交事務所代表に退去命令 「ウクライナの子ども移送」めぐる制裁に反発",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.55,
-   "lon": 125.619,
-   "cat": "diplomacy",
-   "at": "2026-11-26T07:19:43.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cqkg5dge2rx1o?at_medium=RSS&at_campaign=rss",
-   "place": "北朝鮮"
-  },
-  {
-   "id": "rss-2027010917",
-   "title": "エジプトで燃料輸送車横転・炎上、少なくとも30人死亡",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 29.958,
-   "lon": 31.893,
-   "cat": "conflict",
-   "at": "2026-11-26T07:12:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3664334",
-   "place": "エジプト"
-  },
-  {
-   "id": "rss-1805445604",
-   "title": "【三里河中国経済観察】中国・西安市、貿易額が急増 中西部都市で首位に",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 34.22,
-   "lon": 109.542,
-   "cat": "economy",
-   "at": "2026-11-26T07:00:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3663871",
-   "place": "西安"
-  },
-  {
-   "id": "rss-2253769557",
-   "title": "イスラエルの裁判所、ネタニヤフ氏に対する収賄罪の起訴取り下げを勧告",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 30.722,
-   "lon": 34.164,
-   "cat": "other",
-   "at": "2026-11-26T06:40:51.000Z",
-   "source": "BBC News Japan",
-   "url": "https://www.bbc.com/japanese/articles/cm702r2kr1y6o?at_medium=RSS&at_campaign=rss",
-   "place": "イスラエル"
-  },
-  {
-   "id": "rss-1247627546",
-   "title": "トルコの川が真っ赤に、廃棄物が流入か 施設に罰金",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.374,
-   "lon": 32.958,
-   "cat": "other",
-   "at": "2026-11-26T06:05:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/fringe/35255449.html?ref=rss",
-   "place": "トルコ"
   }
  ]
 }
