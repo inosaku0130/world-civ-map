@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-11-28T02:28:31.693Z",
+ "updatedAt": "2026-11-28T03:39:01.535Z",
  "items": [
+  {
+   "id": "rss-790958674",
+   "title": "米軍、イラン港湾封鎖の突破試みた船を攻撃 航行不能に",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 35.116,
+   "lon": 51.387,
+   "cat": "conflict",
+   "at": "2026-11-28T03:21:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664627",
+   "place": "イラン"
+  },
+  {
+   "id": "rss-2435052759",
+   "title": "台湾 統一地方選挙投票進む 政権運営や中国の政策への影響注目",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 25.055,
+   "lon": 122.355,
+   "cat": "politics",
+   "at": "2026-11-28T03:10:00.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261128de82879",
+   "place": "台湾"
+  },
+  {
+   "id": "rss-690292960",
+   "title": "中国、マカオ民主活動家の釈放求める欧州議会決議に反発",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 39.785,
+   "lon": 117.085,
+   "cat": "politics",
+   "at": "2026-11-28T02:36:00.000Z",
+   "source": "AFPBB News",
+   "url": "https://www.afpbb.com/articles/-/3664621",
+   "place": "中国"
+  },
   {
    "id": "rss-1142370601",
    "title": "「イラク首相の取り組みを支持」、トランプ氏の投稿の背景に何が？",
@@ -312,18 +348,6 @@
    "source": "asahi.com",
    "url": "https://www.asahi.com/articles/ASVCW1FS3VCWTIPE00XM.html",
    "place": "福岡"
-  },
-  {
-   "id": "rss-4217769198",
-   "title": "中国 世界最長の水中シールドトンネルが長江横断に成功",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.661,
-   "lon": 116.92,
-   "cat": "other",
-   "at": "2026-11-27T06:00:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3664555",
-   "place": "中国"
   },
   {
    "id": "rss-715503813",
@@ -696,30 +720,6 @@
    "source": "CNN.co.jp",
    "url": "https://www.cnn.co.jp/style/fashion/35255457.html?ref=rss",
    "place": "ドイツ"
-  },
-  {
-   "id": "rss-1200966198",
-   "title": "北朝鮮 キム総書記 核保有「絶対に誰の承認も追求しない」",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 39.146,
-   "lon": 125.156,
-   "cat": "other",
-   "at": "2026-11-26T07:45:32.000Z",
-   "source": "NHK",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261126de81651",
-   "place": "北朝鮮"
-  },
-  {
-   "id": "rss-4124948767",
-   "title": "ミャンマー大統領、ICJ判決に反発 「不適切な要求に従わず」",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 19.504,
-   "lon": 96.578,
-   "cat": "politics",
-   "at": "2026-11-26T07:44:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3664347",
-   "place": "ミャンマー"
   }
  ]
 }
