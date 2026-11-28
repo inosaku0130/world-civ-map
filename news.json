@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-28T14:06:06.757Z",
+ "updatedAt": "2026-11-28T20:30:13.589Z",
  "items": [
+  {
+   "id": "rss-628334818",
+   "title": "スペイン総選挙 きょう投開票 住宅価格高騰への対応など争点",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 40.077,
+   "lon": -3.396,
+   "cat": "politics",
+   "at": "2026-11-28T19:56:59.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261128de83071",
+   "place": "スペイン"
+  },
   {
    "id": "rss-594779580",
    "title": "台湾統一地方選挙 激戦の台北市長選挙で国民党現職が勝利宣言",
@@ -708,18 +720,6 @@
    "source": "sankei.com",
    "url": "https://www.sankei.com/article/20261127-IRPOU743BFHD7F6BY4ZVQNQTRE/",
    "place": "バングラデシュ"
-  },
-  {
-   "id": "rss-3807317466",
-   "title": "ECB次期総裁にスペインのデコス氏就任へ",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 40.257,
-   "lon": -3.079,
-   "cat": "politics",
-   "at": "2026-11-27T01:30:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3664418",
-   "place": "スペイン"
   }
  ]
 }
