@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-28T12:59:29.884Z",
+ "updatedAt": "2026-11-28T14:06:06.757Z",
  "items": [
+  {
+   "id": "rss-594779580",
+   "title": "台湾統一地方選挙 激戦の台北市長選挙で国民党現職が勝利宣言",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 25.514,
+   "lon": 121.443,
+   "cat": "politics",
+   "at": "2026-11-28T13:55:59.000Z",
+   "source": "NHK",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261128de83073",
+   "place": "台北"
+  },
+  {
+   "id": "rss-4174347223",
+   "title": "台湾の統一地方選 、 台北市は野党の現職が勝利 与党候補が敗北認める 新北と台中は接戦",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 24.478,
+   "lon": 121.586,
+   "cat": "politics",
+   "at": "2026-11-28T12:45:00.000Z",
+   "source": "sankei.com",
+   "url": "https://www.sankei.com/article/20261128-5X2GBE342BMNJCSC2FQTEPXKY4/",
+   "place": "台北"
+  },
   {
    "id": "rss-2910385192",
    "title": "ドイツ連邦議会が予算案可決 防衛予算は冷戦以降最大に",
@@ -36,6 +60,18 @@
    "source": "NHK",
    "url": "https://news.web.nhk/newsweb/na/nd-20261128de83021",
    "place": "ガザ"
+  },
+  {
+   "id": "rss-236152010",
+   "title": "リトアニア憲法改正で核兵器の配備可能へ 、 欧州 「 核抑止の転換期 」： 朝日新聞",
+   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
+   "lat": 54.977,
+   "lon": 24.268,
+   "cat": "other",
+   "at": "2026-11-28T09:45:00.000Z",
+   "source": "asahi.com",
+   "url": "https://www.asahi.com/articles/ASVCW5KC3VCWUHBI009M.html",
+   "place": "リトアニア"
   },
   {
    "id": "rss-2845357396",
@@ -684,42 +720,6 @@
    "source": "AFPBB News",
    "url": "https://www.afpbb.com/articles/-/3664418",
    "place": "スペイン"
-  },
-  {
-   "id": "rss-3807464561",
-   "title": "マクロン氏、ルペン氏を「傲慢」と非難「既にフランスの命運を託されているかのように振る舞っている」",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 48.393,
-   "lon": 2.566,
-   "cat": "other",
-   "at": "2026-11-27T00:24:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3664402",
-   "place": "フランス"
-  },
-  {
-   "id": "rss-127573029",
-   "title": "フーシがサウジの石油施設を攻撃、衛星画像に巨大な黒煙 サウジもイエメン攻撃強化",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 15.657,
-   "lon": 43.734,
-   "cat": "conflict",
-   "at": "2026-11-27T00:17:00.000Z",
-   "source": "CNN.co.jp",
-   "url": "https://www.cnn.co.jp/world/35255483.html?ref=rss",
-   "place": "イエメン"
-  },
-  {
-   "id": "rss-3757131704",
-   "title": "独とオーストリア、TikTok欧州事業の所有権移管要求「インフラを体制的ライバルの手に委ねたままにしてはならない」",
-   "summary": "報道機関の見出しを自動で取り込み、見出しの地名から場所を推定しています。",
-   "lat": 48.382,
-   "lon": 15.76,
-   "cat": "other",
-   "at": "2026-11-27T00:09:00.000Z",
-   "source": "AFPBB News",
-   "url": "https://www.afpbb.com/articles/-/3664401",
-   "place": "オーストリア"
   }
  ]
 }
